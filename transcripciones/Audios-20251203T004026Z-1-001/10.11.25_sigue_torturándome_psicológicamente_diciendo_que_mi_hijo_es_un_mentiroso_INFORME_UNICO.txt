@@ -1,0 +1,156 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 10.11.25 sigue torturándome psicológicamente diciendo que mi hijo es un mentiroso.m4a
+Duración: 4m 57s (297.00 segundos)
+Fecha del análisis: 2025-12-03 01:29:02
+Identificador único: ID_1764743342_10.11.25 sigue torturándome psicológicamente diciendo que mi hijo es un mentiroso
+Idioma detectado: en
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] I am not in the fantasy world in Peru and I am not in the fantasy world here
+[00:10] I know I am working here. I am doing things because I know what is my responsibility
+[00:20] I hate myself
+[00:26] I hate myself
+[00:50] Can you give me some please?
+[01:20] Nothing changed, Claudio.
+[01:27] Nothing.
+[01:39] It's continuing.
+[01:44] We are good persons, Lars.
+[01:47] We are...
+[01:50] We don't want to do nothing wrong.
+[01:55] Please.
+[02:00] But I don't want to sit on the toilet.
+[02:03] It's so disgusting.
+[02:04] I don't know what is happening the last time.
+[02:09] I have bacteria all over me.
+[02:11] I don't know where the piss is.
+[02:13] It's maybe all over.
+[02:23] But you accept that that's normal.
+[02:25] No, I am not accepting that.
+[02:27] It's very nice to sit on the toilet.
+[02:29] And all you don't know where the pisses walk around and put the fingers in your mouth after that.
+[02:36] Very delicious.
+[02:42] And this has not changed.
+[02:44] It's the same.
+[02:52] We talked about this a year.
+[03:01] Nothing is changed.
+[03:04] Please, what?
+[03:10] No, no, no. My boy can stand up and piss.
+[03:13] Continue, stand up, pissing all over.
+[03:16] He don't need to sit down to piss because he is my boy.
+[03:19] Of course he can stand up and piss all over.
+[03:22] No, no problem.
+[03:24] I told him to...
+[03:25] And I said, please.
+[03:27] Please.
+[03:28] You have to sit down to the piss.
+[03:32] And what would happen?
+[03:34] He said that he was doing it, but now I have to remember him on the other side.
+[03:39] And now he is lying again.
+[03:42] No, I have to remember him.
+[03:44] So you think he is able to sit down and piss on the floor?
+[03:47] No.
+[03:48] Okay, so he is lying again?
+[03:50] No.
+[03:51] Please, can you move forward?
+[03:53] He is not lying.
+[03:59] One of the most important things I learned my children.
+[04:04] Never lie.
+[04:06] No matter what you never lie, then you are not a part of this family.
+[04:11] Yeah.
+[04:13] Why?
+[04:15] Because if you can't do that, you have no respect for no other people.
+[04:21] Yeah, but...
+[04:24] Now he can do whatever he wants because he is protected from his mother.
+[04:28] But he is not lying.
+[04:30] He is...
+[04:34] He is not a monster.
+[04:35] This is a problem.
+[04:37] I don't want peace on the house.
+[04:42] Yo.
+[04:47] Mess up?
+[04:49] Why are you looking at this?
+[04:52] And then...
+[04:54] We put him down.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+No se detectaron agresiones dirigidas a víctimas específicas.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '10.11.25 sigue torturándome psicológicamente diciendo que mi hijo es un mentiroso.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 4m 57s en el idioma en.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: No se detectaron agresiones dirigidas a víctimas específicas.
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:29:02
+================================================================================

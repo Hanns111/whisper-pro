@@ -1,0 +1,208 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20251103_día que perdió su dinero apostando y le dio ataque de nervios(1).m4a
+Duración: 7m 3s (423.46 segundos)
+Fecha del análisis: 2025-12-03 01:38:14
+Identificador único: ID_1764743894_20251103_día que perdió su dinero apostando y le dio ataque de nervios(1)
+Idioma detectado: nn
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] BIG GAR,
+[00:02] as חג soci
+[00:15] He-he-he-pee me t'ety하다
+[00:16] haen me thom-myy
+[00:17] q annoystez t'eny
+[00:18] q shown
+[00:18] oon
+[00:20] hoon
+[00:23] nary
+[00:25] d honest jar
+[00:25] dass me an
+[00:26] e i cfue
+[00:26] alten
+[00:30] 6,500 USD
+[00:33] 6
+[00:34] 6
+[00:35] 7
+[00:36] 6
+[00:37] 6
+[00:38] 8
+[00:39] 8
+[00:41] 8
+[00:44] 8
+[00:46] 8
+[00:48] 8
+[00:50] 8
+[00:52] 8
+[00:54] 8
+[00:55] 8
+[00:57] 8
+[00:59] 7
+[01:01] 8
+[01:03] 8
+[01:05] 8
+[01:08] 8
+[01:11] 8
+[01:14] 8
+[01:15] 8
+[01:18] 8
+[01:20] 9
+[01:23] 6
+[01:28] Pigail es interesting dogs sex around dogs are free of all to hall prey , so conscient toياεί happy don sailing what happens if you lost all .
+[01:38] Dicos there is no other way go ye
+[01:40] no no there is no other way
+[01:43] do get the skincare supplies of a kilt
+[01:48] see if you have anyuned it EN jangan wrong
+[01:53] i feel you know i will and so will more
+[01:53] we calm down
+[01:55] you can sit to sit
+[01:56] ea a-made out white
+[02:07] $60,000
+[02:15] We're talking
+[02:17] i don't really
+[02:21] You don't have to inform me
+[02:23] That can be
+[02:23] I know
+[02:26] 舉ми
+[02:53] No, I don't need that card.
+[02:57] Ok.
+[02:58] Now we have the same methods again.
+[03:08] There is only one way card.
+[03:12] But there is something over my life and always unlucky.
+[03:23] It's not a power on life, you're not unlucky.
+[03:31] You believe in your God and I believe in that.
+[03:36] Ok, but it's...
+[03:42] Fucking shit.
+[03:48] And I was thinking today we have so much money.
+[03:54] Now this cannot happen.
+[03:57] And I was thinking do I need to put some money away?
+[04:02] So if this was happening, now it's not necessary.
+[04:06] I can do that tomorrow or something.
+[04:37] There is nothing to do with this happening.
+[04:43] There is nothing to do.
+[04:46] There is only one way.
+[04:51] There is only one way.
+[04:54] The only one way is beginning to sell.
+[05:00] Since you're living.
+[05:06] Yes.
+[05:09] It is closed here.
+[05:14] There is no other way.
+[05:19] I'm not happy with it.
+[05:25] I'm not happy with it.
+[05:30] And again.
+[05:33] And again and again.
+[05:37] This is not a job.
+[05:41] Now you start.
+[05:43] No.
+[05:44] Now you start again.
+[05:47] Yes, but that's not helped.
+[05:50] That's saying what I do is wrong and you know better.
+[05:55] I know you are wrong.
+[05:58] I am wrong too, Claudia.
+[06:02] But well this will not keep us in another direction.
+[06:07] But this is some fucking shit.
+[06:10] What's happening?
+[06:13] Claudia.
+[06:15] I'm not happy.
+[06:20] I'm not happy with you.
+[06:24] No.
+[06:29] Okay.
+[06:43] We had 70,000 dollars.
+[06:49] Claudia.
+[06:52] 70,000 dollars is a lot of money.
+[06:56] It's crazy a lot of money.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+
+AGRESIÓN HACIA CLAUDIA (3 detecciones):
+--------------------------------------------------------------------------------
+
+  Tipo: MENCIÓN (3 instancias)
+    [05:58 - 06:02] Severidad: BAJA
+      I am wrong too, Claudia.
+
+    [06:13 - 06:15] Severidad: BAJA
+      Claudia.
+
+    [06:49 - 06:52] Severidad: BAJA
+      Claudia.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20251103_día que perdió su dinero apostando y le dio ataque de nervios(1).m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 7m 3s en el idioma nn.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: Se detectaron 3 instancias de agresión dirigida específicamente hacia víctimas identificadas (Claudia, Juan Diego, José Carlos).
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. Se identificaron 3 agresiones dirigidas a víctimas específicas.
+2. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:38:14
+================================================================================

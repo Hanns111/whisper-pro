@@ -1,0 +1,167 @@
+2025-12-02 22:41:49 - root - INFO - ================================================================================
+2025-12-02 22:41:49 - root - INFO - Iniciando Pipeline de Transcripción Avanzado
+2025-12-02 22:41:49 - root - INFO - ================================================================================
+2025-12-02 22:41:49 - root - INFO - Inicializando transcriptor con modelo: large-v3
+2025-12-02 22:41:49 - src.transcriber - INFO - Cargando modelo 'large-v3' en cpu...
+2025-12-02 22:41:57 - src.transcriber - INFO - Modelo 'large-v3' cargado exitosamente en cpu
+2025-12-02 22:41:57 - root - INFO - Dispositivo: cpu
+2025-12-02 22:41:57 - root - INFO - GPU: NVIDIA GeForce RTX 5090 Laptop GPU
+2025-12-02 22:41:57 - root - INFO - Memoria GPU: 23.89 GB
+2025-12-02 22:41:57 - root - INFO - Buscando audios en: C:\Users\hanns\Downloads\Audios de Lars -20251203T004029Z-1-001\Audios de Lars
+2025-12-02 22:41:57 - src.audio_loader - INFO - Encontrados 9 archivos de audio en C:\Users\hanns\Downloads\Audios de Lars -20251203T004029Z-1-001\Audios de Lars
+2025-12-02 22:41:57 - root - INFO - Encontrados 9 archivo(s) en origen
+2025-12-02 22:41:57 - root - INFO - Copiado: 20251021_211842.m4a -> 20251021_211842.m4a
+2025-12-02 22:41:57 - root - INFO - Copiado: 20251021_214648.m4a -> 20251021_214648.m4a
+2025-12-02 22:41:57 - root - INFO - Copiado: 20251027_080920.m4a -> 20251027_080920.m4a
+2025-12-02 22:41:57 - root - INFO - Copiado: 20251027_085207.m4a -> 20251027_085207.m4a
+2025-12-02 22:41:57 - root - INFO - Copiado: 20251027_pide pago comida por algunas semanas.m4a -> 20251027_pide_pago_comida_por_algunas_semanas.m4a
+2025-12-02 22:41:57 - root - INFO - Copiado: 20251112_162308.m4a -> 20251112_162308.m4a
+2025-12-02 22:41:57 - root - INFO - Copiado: 20251114_122248.m4a -> 20251114_122248.m4a
+2025-12-02 22:41:57 - root - INFO - Copiado: 20251123_122646.m4a -> 20251123_122646.m4a
+2025-12-02 22:41:57 - root - INFO - Copiado: Audio de Claudia.mp3 -> Audio_de_Claudia.mp3
+2025-12-02 22:41:57 - root - INFO - Total de archivos copiados: 9
+2025-12-02 22:41:57 - root - INFO - --------------------------------------------------------------------------------
+2025-12-02 22:41:57 - root - INFO - Procesando: 20251021_211842.m4a
+2025-12-02 22:41:57 - root - INFO - Tamaño: 11.58 MB
+2025-12-02 22:41:57 - root - INFO - Transcribiendo en español...
+2025-12-02 22:41:57 - src.transcriber - INFO - Transcribiendo: 20251021_211842.m4a
+2025-12-02 22:41:57 - src.transcriber - INFO - Idioma forzado: es
+2025-12-02 22:41:58 - src.transcriber - ERROR - Error al transcribir audios\20251021_211842.m4a: Failed to load audio: ffmpeg version gg-1.0.3-22-g16ae33c56b Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 13-win32 (GCC)
+  configuration: --pkg-config-flags=--static --arch=x86_64 --target-os=mingw32 --cross-prefix=x86_64-w64-mingw32- --disable-everything --enable-zlib --enable-small --enable-ffmpeg --disable-ffplay --disable-ffprobe --enable-encoder='aac_mf,mjpeg,wrapped_avframe,h264_nvenc,h264_qsv,h264_amf,png' --enable-decoder='h264_mf,aac_mf,png,mjpeg,gif,bmp,rawvideo,wrapped_avframe' --enable-indev=lavfi --enable-protocol='file,pipe' --enable-demuxer='mov,ffmetadata,image2,gif' --enable-muxer='mp4,image2,ffmetadata,null' --enable-libfreetype --enable-filter='aresample,color,scale,showinfo,setpts,asetpts,concat,zoompan,setsar,overlay,setrange,drawtext,amix,volume,aformat,compand,showwavespic,pad,trim,atrim,fade,asplit,fps,crop' --disable-dxva2 --disable-d3d11va --disable-schannel --disable-xlib --enable-nvenc --enable-nvdec --enable-amf --enable-libmfx --extra-cflags=-I/usr/local/include --extra-cxxflags=-I/usr/local/include --enable-mediafoundation --extra-ldflags='-static -static-libgcc -static-libstdc++'
+  libavutil      58.  2.100 / 58.  2.100
+  libavcodec     60. 92.100 / 60. 92.100
+  libavformat    60.  3.100 / 60.  3.100
+  libavdevice    60.  1.100 / 60.  1.100
+  libavfilter     9.  3.100 /  9.  3.100
+  libswscale      7.  1.100 /  7.  1.100
+  libswresample   4. 10.100 /  4. 10.100
+[aac_mf @ 000002776a238680] MFT name: 'Microsoft AAC Audio Decoder MFT'
+Guessed Channel Layout for Input Stream #0.0 : stereo
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'audios\20251021_211842.m4a':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    creation_time   : 2025-10-21T19:26:54.000000Z
+    com.android.version: 15
+  Duration: 00:08:11.56, start: 0.000000, bitrate: 197 kb/s
+  Stream #0:0[0x1](eng): Audio: aac (mp4a / 0x6134706D), 48000 Hz, 2 channels, flt, 196 kb/s (default)
+    Metadata:
+      creation_time   : 2025-10-21T19:26:54.000000Z
+      handler_name    : SoundHandle
+      vendor_id       : [0][0][0][0]
+[NULL @ 0000027768927e40] Requested output format 's16le' is not a suitable output format
+pipe:: Invalid argument
+
+2025-12-02 22:41:58 - root - ERROR - ✗ Error al procesar 20251021_211842.m4a: Failed to load audio: ffmpeg version gg-1.0.3-22-g16ae33c56b Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 13-win32 (GCC)
+  configuration: --pkg-config-flags=--static --arch=x86_64 --target-os=mingw32 --cross-prefix=x86_64-w64-mingw32- --disable-everything --enable-zlib --enable-small --enable-ffmpeg --disable-ffplay --disable-ffprobe --enable-encoder='aac_mf,mjpeg,wrapped_avframe,h264_nvenc,h264_qsv,h264_amf,png' --enable-decoder='h264_mf,aac_mf,png,mjpeg,gif,bmp,rawvideo,wrapped_avframe' --enable-indev=lavfi --enable-protocol='file,pipe' --enable-demuxer='mov,ffmetadata,image2,gif' --enable-muxer='mp4,image2,ffmetadata,null' --enable-libfreetype --enable-filter='aresample,color,scale,showinfo,setpts,asetpts,concat,zoompan,setsar,overlay,setrange,drawtext,amix,volume,aformat,compand,showwavespic,pad,trim,atrim,fade,asplit,fps,crop' --disable-dxva2 --disable-d3d11va --disable-schannel --disable-xlib --enable-nvenc --enable-nvdec --enable-amf --enable-libmfx --extra-cflags=-I/usr/local/include --extra-cxxflags=-I/usr/local/include --enable-mediafoundation --extra-ldflags='-static -static-libgcc -static-libstdc++'
+  libavutil      58.  2.100 / 58.  2.100
+  libavcodec     60. 92.100 / 60. 92.100
+  libavformat    60.  3.100 / 60.  3.100
+  libavdevice    60.  1.100 / 60.  1.100
+  libavfilter     9.  3.100 /  9.  3.100
+  libswscale      7.  1.100 /  7.  1.100
+  libswresample   4. 10.100 /  4. 10.100
+[aac_mf @ 000002776a238680] MFT name: 'Microsoft AAC Audio Decoder MFT'
+Guessed Channel Layout for Input Stream #0.0 : stereo
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'audios\20251021_211842.m4a':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    creation_time   : 2025-10-21T19:26:54.000000Z
+    com.android.version: 15
+  Duration: 00:08:11.56, start: 0.000000, bitrate: 197 kb/s
+  Stream #0:0[0x1](eng): Audio: aac (mp4a / 0x6134706D), 48000 Hz, 2 channels, flt, 196 kb/s (default)
+    Metadata:
+      creation_time   : 2025-10-21T19:26:54.000000Z
+      handler_name    : SoundHandle
+      vendor_id       : [0][0][0][0]
+[NULL @ 0000027768927e40] Requested output format 's16le' is not a suitable output format
+pipe:: Invalid argument
+
+2025-12-02 22:41:58 - root - ERROR - Detalles del error:
+Traceback (most recent call last):
+  File "C:\Users\hanns\miniconda3\envs\whisper-env\lib\site-packages\whisper\audio.py", line 58, in load_audio
+    out = run(cmd, capture_output=True, check=True).stdout
+  File "C:\Users\hanns\miniconda3\envs\whisper-env\lib\subprocess.py", line 526, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['ffmpeg', '-nostdin', '-threads', '0', '-i', 'audios\\20251021_211842.m4a', '-f', 's16le', '-ac', '1', '-acodec', 'pcm_s16le', '-ar', '16000', '-']' returned non-zero exit status 1.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\hanns\Proyectos\whisper-pro\pipeline_transcripcion.py", line 156, in transcribir_archivo
+    resultado_es = self.transcriptor.transcribir(
+  File "C:\Users\hanns\Proyectos\whisper-pro\src\transcriber.py", line 125, in transcribir
+    resultado = self.modelo.transcribe(
+  File "C:\Users\hanns\miniconda3\envs\whisper-env\lib\site-packages\whisper\transcribe.py", line 139, in transcribe
+    mel = log_mel_spectrogram(audio, model.dims.n_mels, padding=N_SAMPLES)
+  File "C:\Users\hanns\miniconda3\envs\whisper-env\lib\site-packages\whisper\audio.py", line 140, in log_mel_spectrogram
+    audio = load_audio(audio)
+  File "C:\Users\hanns\miniconda3\envs\whisper-env\lib\site-packages\whisper\audio.py", line 60, in load_audio
+    raise RuntimeError(f"Failed to load audio: {e.stderr.decode()}") from e
+RuntimeError: Failed to load audio: ffmpeg version gg-1.0.3-22-g16ae33c56b Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 13-win32 (GCC)
+  configuration: --pkg-config-flags=--static --arch=x86_64 --target-os=mingw32 --cross-prefix=x86_64-w64-mingw32- --disable-everything --enable-zlib --enable-small --enable-ffmpeg --disable-ffplay --disable-ffprobe --enable-encoder='aac_mf,mjpeg,wrapped_avframe,h264_nvenc,h264_qsv,h264_amf,png' --enable-decoder='h264_mf,aac_mf,png,mjpeg,gif,bmp,rawvideo,wrapped_avframe' --enable-indev=lavfi --enable-protocol='file,pipe' --enable-demuxer='mov,ffmetadata,image2,gif' --enable-muxer='mp4,image2,ffmetadata,null' --enable-libfreetype --enable-filter='aresample,color,scale,showinfo,setpts,asetpts,concat,zoompan,setsar,overlay,setrange,drawtext,amix,volume,aformat,compand,showwavespic,pad,trim,atrim,fade,asplit,fps,crop' --disable-dxva2 --disable-d3d11va --disable-schannel --disable-xlib --enable-nvenc --enable-nvdec --enable-amf --enable-libmfx --extra-cflags=-I/usr/local/include --extra-cxxflags=-I/usr/local/include --enable-mediafoundation --extra-ldflags='-static -static-libgcc -static-libstdc++'
+  libavutil      58.  2.100 / 58.  2.100
+  libavcodec     60. 92.100 / 60. 92.100
+  libavformat    60.  3.100 / 60.  3.100
+  libavdevice    60.  1.100 / 60.  1.100
+  libavfilter     9.  3.100 /  9.  3.100
+  libswscale      7.  1.100 /  7.  1.100
+  libswresample   4. 10.100 /  4. 10.100
+[aac_mf @ 000002776a238680] MFT name: 'Microsoft AAC Audio Decoder MFT'
+Guessed Channel Layout for Input Stream #0.0 : stereo
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'audios\20251021_211842.m4a':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    creation_time   : 2025-10-21T19:26:54.000000Z
+    com.android.version: 15
+  Duration: 00:08:11.56, start: 0.000000, bitrate: 197 kb/s
+  Stream #0:0[0x1](eng): Audio: aac (mp4a / 0x6134706D), 48000 Hz, 2 channels, flt, 196 kb/s (default)
+    Metadata:
+      creation_time   : 2025-10-21T19:26:54.000000Z
+      handler_name    : SoundHandle
+      vendor_id       : [0][0][0][0]
+[NULL @ 0000027768927e40] Requested output format 's16le' is not a suitable output format
+pipe:: Invalid argument
+
+2025-12-02 22:41:58 - root - ERROR - Error al procesar audios\20251021_211842.m4a: Failed to load audio: ffmpeg version gg-1.0.3-22-g16ae33c56b Copyright (c) 2000-2023 the FFmpeg developers
+  built with gcc 13-win32 (GCC)
+  configuration: --pkg-config-flags=--static --arch=x86_64 --target-os=mingw32 --cross-prefix=x86_64-w64-mingw32- --disable-everything --enable-zlib --enable-small --enable-ffmpeg --disable-ffplay --disable-ffprobe --enable-encoder='aac_mf,mjpeg,wrapped_avframe,h264_nvenc,h264_qsv,h264_amf,png' --enable-decoder='h264_mf,aac_mf,png,mjpeg,gif,bmp,rawvideo,wrapped_avframe' --enable-indev=lavfi --enable-protocol='file,pipe' --enable-demuxer='mov,ffmetadata,image2,gif' --enable-muxer='mp4,image2,ffmetadata,null' --enable-libfreetype --enable-filter='aresample,color,scale,showinfo,setpts,asetpts,concat,zoompan,setsar,overlay,setrange,drawtext,amix,volume,aformat,compand,showwavespic,pad,trim,atrim,fade,asplit,fps,crop' --disable-dxva2 --disable-d3d11va --disable-schannel --disable-xlib --enable-nvenc --enable-nvdec --enable-amf --enable-libmfx --extra-cflags=-I/usr/local/include --extra-cxxflags=-I/usr/local/include --enable-mediafoundation --extra-ldflags='-static -static-libgcc -static-libstdc++'
+  libavutil      58.  2.100 / 58.  2.100
+  libavcodec     60. 92.100 / 60. 92.100
+  libavformat    60.  3.100 / 60.  3.100
+  libavdevice    60.  1.100 / 60.  1.100
+  libavfilter     9.  3.100 /  9.  3.100
+  libswscale      7.  1.100 /  7.  1.100
+  libswresample   4. 10.100 /  4. 10.100
+[aac_mf @ 000002776a238680] MFT name: 'Microsoft AAC Audio Decoder MFT'
+Guessed Channel Layout for Input Stream #0.0 : stereo
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'audios\20251021_211842.m4a':
+  Metadata:
+    major_brand     : mp42
+    minor_version   : 0
+    compatible_brands: isommp42
+    creation_time   : 2025-10-21T19:26:54.000000Z
+    com.android.version: 15
+  Duration: 00:08:11.56, start: 0.000000, bitrate: 197 kb/s
+  Stream #0:0[0x1](eng): Audio: aac (mp4a / 0x6134706D), 48000 Hz, 2 channels, flt, 196 kb/s (default)
+    Metadata:
+      creation_time   : 2025-10-21T19:26:54.000000Z
+      handler_name    : SoundHandle
+      vendor_id       : [0][0][0][0]
+[NULL @ 0000027768927e40] Requested output format 's16le' is not a suitable output format
+pipe:: Invalid argument
+
+2025-12-02 22:41:58 - root - INFO - --------------------------------------------------------------------------------
+2025-12-02 22:41:58 - root - INFO - Procesando: 20251021_214648.m4a
+2025-12-02 22:41:58 - root - INFO - Tamaño: 12.27 MB
+2025-12-02 22:41:58 - root - INFO - Transcribiendo en español...
+2025-12-02 22:41:58 - src.transcriber - INFO - Transcribiendo: 20251021_214648.m4a
+2025-12-02 22:41:58 - src.transcriber - INFO - Idioma forzado: es

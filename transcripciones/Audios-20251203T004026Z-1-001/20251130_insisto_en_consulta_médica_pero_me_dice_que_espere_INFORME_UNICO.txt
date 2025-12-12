@@ -1,0 +1,117 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20251130_insisto en consulta médica pero me dice que espere.m4a
+Duración: 6m 12s (372.74 segundos)
+Fecha del análisis: 2025-12-03 01:46:51
+Identificador único: ID_1764744411_20251130_insisto en consulta médica pero me dice que espere
+Idioma detectado: en
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] Maybe you can give me the phone and make a call to ask to the doctor if I can go for
+[00:17] a situation because I would like to want to know something because I would like to
+[00:31] get a control with a Doppler.
+[00:34] Do you know what's Doppler?
+[00:39] A Doppler.
+[00:41] A Doppler is a machine that they put here and that Doppler can't know how is your heart
+[00:55] for one day on in some case today and then you can see always your population that count.
+[01:08] You don't think you'll give it a little time Claudia?
+[01:34] To my heart, to wait for the doctor.
+[02:04] I'm going to continue control.
+[02:28] I'm going to continue controlling.
+[02:35] I am only controlling with my oxymetra.
+[03:05] I'm going to continue control.
+[03:35] I'm going to continue control.
+[04:05] I'm going to continue control.
+[04:35] I'm going to continue control.
+[05:05] I'm going to continue control.
+[05:35] I'm going to continue control.
+[06:05] I'm going to continue control.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+
+AGRESIÓN HACIA CLAUDIA (1 detecciones):
+--------------------------------------------------------------------------------
+
+  Tipo: MENCIÓN (1 instancias)
+    [01:08 - 01:34] Severidad: BAJA
+      You don't think you'll give it a little time Claudia?
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20251130_insisto en consulta médica pero me dice que espere.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 6m 12s en el idioma en.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: Se detectaron 1 instancias de agresión dirigida específicamente hacia víctimas identificadas (Claudia, Juan Diego, José Carlos).
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. Se identificaron 1 agresiones dirigidas a víctimas específicas.
+2. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:46:51
+================================================================================

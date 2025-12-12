@@ -1,0 +1,454 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20251026_192951.m4a
+Duración: 35m 4s (2104.98 segundos)
+Fecha del análisis: 2025-12-03 01:31:56
+Identificador único: ID_1764743516_20251026_192951
+Idioma detectado: en
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] area
+[00:10] by
+[00:22] yeah
+[00:29] I'm just going to try to see if I can do it.
+[00:35] I'm going to make a screw.
+[00:36] You put it there and it's going to be a little bit hard.
+[00:38] You just put it there and it's going to be a little bit hard.
+[00:43] It's really really really good.
+[00:46] It's going to be a little bit hard.
+[00:49] It's going to be a little bit hard.
+[01:00] It's going to be a little bit hard.
+[01:04] When you read it, it's really good.
+[01:07] It's very good.
+[01:11] It's going to be a little bit hard.
+[01:14] It's going to be a little bit hard.
+[01:16] It's going to be a little bit hard.
+[01:19] Thank you.
+[01:22] You want me to say...
+[01:24] No.
+[01:27] You have heard of it?
+[01:37] I want to talk to her about...
+[01:48] Yes.
+[01:55] Yes.
+[02:02] Yes.
+[02:06] Yes.
+[02:13] No, I thought it was a waste of time.
+[02:20] It was over a little bit because I thought I was going to do it.
+[02:26] So I was going to hold it.
+[02:29] So it's a 5 times speed.
+[02:34] It's a 5-minute drive.
+[02:43] Yes.
+[02:50] Yes.
+[02:57] Yes.
+[03:03] No.
+[03:10] Yes.
+[03:21] I think this is a cross-special for my name today, for example.
+[03:28] What for?
+[03:33] What for?
+[03:36] It can be up for my name.
+[03:42] And you have to go by that name.
+[03:46] So there is no success.
+[03:48] So there is no next speed.
+[03:52] No.
+[03:59] No.
+[04:29] Yes.
+[04:36] Yes.
+[04:43] Yes.
+[04:50] Yes.
+[04:58] Yes.
+[05:07] Yes.
+[05:14] Yes.
+[05:22] No.
+[05:29] Yes.
+[05:36] Yes.
+[05:43] Yes.
+[05:50] Yes.
+[05:57] Yes.
+[06:04] Yes.
+[06:11] Yes.
+[06:18] Yes.
+[06:26] Yes.
+[06:33] Yes.
+[06:40] Yes.
+[06:47] Yes.
+[06:54] Yes.
+[07:02] Yes.
+[07:09] Yes.
+[07:16] Yes.
+[07:23] Yes.
+[07:30] Yes.
+[07:37] Yes.
+[07:44] Yes.
+[07:49] Yes.
+[07:55] Yes.
+[08:02] Yes.
+[08:09] Yes.
+[08:16] Yes.
+[08:23] Yes.
+[08:30] Yes.
+[08:37] Yes.
+[08:43] Yes.
+[08:50] Yes.
+[08:57] Yes.
+[09:03] Yes.
+[09:10] Yes.
+[09:17] Yes.
+[09:24] Yes.
+[09:31] Yes.
+[09:38] Yes.
+[09:43] Yes.
+[09:49] Yes.
+[09:56] Yes.
+[10:00] Yes.
+[10:07] Yes.
+[10:14] Yes.
+[10:18] Yes.
+[10:25] Yes.
+[10:32] Yes.
+[10:35] Yes.
+[10:40] Yes.
+[10:43] Yes.
+[10:50] Yes.
+[10:54] Yes.
+[11:01] Yes.
+[11:04] Yes.
+[11:09] Yes.
+[11:16] Yes.
+[11:23] Yes.
+[11:29] Yes.
+[11:33] Yes.
+[11:38] Yes.
+[11:45] Yes.
+[11:52] Yes.
+[11:59] Yes.
+[12:06] Yes.
+[12:10] Yes.
+[12:17] Yes.
+[12:24] Yes.
+[12:27] Yes.
+[12:34] Yes.
+[12:41] Yes.
+[12:48] Yes.
+[12:54] Yes.
+[13:01] Yes.
+[13:06] Yes.
+[13:13] Yes.
+[13:20] Yes.
+[13:24] Yes.
+[13:31] Yes.
+[13:38] Yes.
+[13:44] Yes.
+[13:50] Yes.
+[13:56] Yes.
+[14:03] Yes.
+[14:11] Yes.
+[14:18] Yes.
+[14:25] Yes.
+[14:32] Yes.
+[14:39] Yes.
+[14:46] Yes.
+[14:54] Yes.
+[15:01] Yes.
+[15:04] Yes.
+[15:09] Yes.
+[15:13] Yes.
+[15:19] Yes.
+[15:23] Yes.
+[15:30] Yes.
+[15:37] Yes.
+[15:42] Yes.
+[15:48] Yes.
+[15:55] Yes.
+[15:58] Yes.
+[16:03] Yes.
+[16:08] Yes.
+[16:13] Yes.
+[16:20] Yes.
+[16:23] Yes.
+[16:27] Yes.
+[16:32] Yes.
+[16:38] Yes.
+[16:44] Yes.
+[16:45] Yes.
+[16:48] Yes.
+[16:51] Yes.
+[16:56] Yes.
+[17:03] Yes.
+[17:07] Yes.
+[17:14] Yes.
+[17:17] Yes.
+[17:24] Yes.
+[17:29] Yes.
+[17:34] Yes.
+[17:41] Yes.
+[17:44] Yes.
+[17:48] Yes.
+[17:52] Yes.
+[17:58] Yes.
+[18:03] Yes.
+[18:10] Yes.
+[18:13] Yes.
+[18:18] Yes.
+[18:21] Yes.
+[18:25] Yes.
+[18:32] Yes.
+[18:38] We have an old man here who lives in the village.
+[18:41] He has found a very nice man, a man who has been living in the village.
+[18:45] He has seen him in the village.
+[18:49] He has seen him in the village.
+[18:53] He wants to go out.
+[18:59] He wants to go out.
+[19:06] Yes.
+[19:12] Yes.
+[19:17] Yes.
+[19:22] Yes.
+[19:28] Yes.
+[19:35] Yes.
+[19:42] Yes.
+[19:49] Yes.
+[19:55] Yes.
+[20:02] Yes.
+[20:09] Yes.
+[20:14] Yes.
+[20:22] Yes.
+[20:29] Yes.
+[20:36] Yes.
+[20:43] Yes.
+[20:50] Yes.
+[20:53] Yes.
+[20:58] Yes.
+[21:01] Yes.
+[21:08] Yes.
+[21:15] Yes.
+[21:21] Yes.
+[21:28] Yes.
+[21:31] Yes.
+[21:36] Yes.
+[21:39] Yes.
+[21:46] Yes.
+[21:53] Yes.
+[21:56] Yes.
+[21:59] Yes.
+[22:04] Yes.
+[22:08] Yes.
+[22:12] Yes.
+[22:19] Yes.
+[22:22] Yes.
+[22:27] Yes.
+[22:31] Yes.
+[22:37] Yes.
+[22:44] Yes.
+[22:50] Yes.
+[22:55] Yes.
+[22:59] Yes.
+[23:06] Yes.
+[23:13] Yes.
+[23:16] Yes.
+[23:20] Yes.
+[23:24] Yes.
+[23:31] Yes.
+[23:38] Yes.
+[23:46] Yes.
+[23:49] Yes.
+[23:56] Yes.
+[24:00] Yes.
+[24:07] Yes.
+[24:12] Yes.
+[24:17] Yes.
+[24:22] Yes.
+[24:26] Yes.
+[24:32] Yes.
+[24:36] Yes.
+[24:40] Yes.
+[24:44] Yes.
+[24:49] Yes.
+[24:55] Yes.
+[25:02] Yes.
+[25:05] Yes.
+[25:09] Yes.
+[25:13] Yes.
+[25:20] Yes.
+[25:27] Yes.
+[25:34] Yes.
+[25:38] Yes.
+[25:42] Yes.
+[25:49] Yes.
+[25:55] Yes.
+[25:59] Yes.
+[26:06] Yes.
+[26:12] Yes.
+[26:18] Yes.
+[26:28] Yes.
+[26:33] Yes.
+[26:40] Yes.
+[26:45] Yes.
+[26:52] Yes.
+[26:59] Yes.
+[27:03] Yes.
+[27:07] Yes.
+[27:12] Yes.
+[27:19] Yes.
+[27:26] Yes.
+[27:31] Yes.
+[27:37] Yes.
+[27:44] Yes.
+[27:51] Yes.
+[27:54] Yes.
+[27:57] Yes.
+[28:02] Yes.
+[28:06] Yes.
+[28:12] Yes.
+[28:19] Yes.
+[28:24] Yes.
+[28:28] Yes.
+[28:35] Yes.
+[28:42] Yes.
+[28:49] Yes.
+[28:53] Yes.
+[28:59] Yes.
+[29:06] Yes.
+[29:13] Yes.
+[29:16] Yes.
+[29:19] Yes.
+[29:23] Yes.
+[29:28] Yes.
+[29:33] Yes.
+[29:38] Yes.
+[29:41] Yes.
+[29:50] Yes.
+[29:54] Yes.
+[29:57] Yeah!
+[30:00] Yeah, yeah.
+[30:02] Do you think she'e gonna do it, do you?
+[30:18] LEP no, not.
+[30:19] Same thing.
+[30:23] You ain't allowed to go, umm.
+[30:26] Get off!
+[30:27] ?
+[30:35] ?
+[30:39] ?
+[30:44] ?
+[30:53] It's not a crossroad, it's a square, it's a square.
+[31:01] It's a thing, it's a little bit of a mix.
+[31:04] It's a bit of a mix.
+[31:06] It's a bit of a mix.
+[31:08] Yeah.
+[31:13] It's really a thing, right?
+[31:23] Yeah.
+[31:33] It sounds a little bit longer than you know, I feel it.
+[31:36] It's really good.
+[31:38] It's really good.
+[31:40] It's really hard to play well.
+[31:54] Yeah.
+[32:00] You know those are...
+[32:09] You hear me? You hear me?
+[32:12] Yeah.
+[32:20] Yeah.
+[32:41] Yeah.
+[33:02] I think we should have a fluke, maybe a fluke, if you want to see that.
+[33:12] What?
+[33:14] You got that in the throat, you hear me?
+[33:42] Yeah.
+[33:48] No.
+[33:51] Do you hear me?
+[33:57] Yeah.
+[33:59] What are you doing?
+[34:02] What are you doing?
+[34:06] Help yourself.
+[34:09] You're just a promise.
+[34:11] Best best, 900, 900 points man.
+[34:14] I'm not a free bar.
+[34:17] And this is for the rest of the day.
+[34:20] When I was a little bit of a person, I would only...
+[34:23] You can say, I mean, I'm a bit...
+[34:26] Yeah.
+[34:28] Come on, okay.
+[34:30] You know that, you know that.
+[34:33] You know that, you know that.
+[34:36] You know that, you know that.
+[34:39] You know that.
+[34:48] Yeah.
+[34:56] Great song, you can come.
+[35:00] Yeah.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+No se detectaron agresiones dirigidas a víctimas específicas.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20251026_192951.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 35m 4s en el idioma en.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: No se detectaron agresiones dirigidas a víctimas específicas.
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:31:56
+================================================================================

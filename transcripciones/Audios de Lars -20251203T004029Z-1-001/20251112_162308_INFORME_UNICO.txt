@@ -1,0 +1,183 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20251112_162308.m4a
+Duración: 19m 11s (1151.78 segundos)
+Fecha del análisis: 2025-12-03 00:17:11
+Identificador único: ID_1764739031_20251112_162308
+Idioma detectado: da
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:30] Er I pra diskaterbetteren?
+[01:00] Du, alltså, er jarne ligesom det betede.
+[06:56] Et幂 igno synyi, heakap, hvad det man vil være en tiltig teu liggende af płæss.
+[07:04] CADES RONS
+[07:13] Artis power
+[07:16] BEFASEC mikä..
+[07:26] Nem
+[07:49] Nå.
+[07:51] Nå.
+[07:53] Hvoron er det?
+[07:57] Siden om du er fornålig, igen?
+[08:01] Nå, så er det.
+[08:03] Nå, så er det.
+[08:05] Nå, så er det.
+[08:07] Nå, så er det.
+[08:09] Nå, så er det.
+[08:13] Nå, så er det.
+[08:15] Nå, så er det.
+[08:21] Nå, så er det.
+[08:45] Nå.
+[08:47] Nå.
+[08:49] Nå.
+[08:51] Nå.
+[08:53] Nå.
+[08:55] Nå.
+[08:57] Nå.
+[08:59] Nå.
+[09:01] Nå.
+[09:03] Nå.
+[09:05] Hvor er det?
+[09:07] Nå.
+[09:09] Shoot!
+[09:19] Nå.
+[09:21] Shoot, jeg er openig.
+[09:25] Nå, så er det.
+[09:29] Nå, så er det.
+[09:39] Nå.
+[09:41] Nå.
+[09:43] Nå!
+[09:45] Nå.
+[09:49] Nå.
+[09:51] Nå.
+[09:53] Shoot.
+[09:55] Nå.
+[09:57] Shoot.
+[10:01] Nå.
+[10:39] De simper meget, men kan jeg direktt udre.
+[10:43] Det er vores 뭐가濕ne.
+[10:48] Og hvordan er, at jeg g here2005 Justice Cop Lesmotherifferind adapterachement
+[10:57] Som debunde til Theres encore for mig, vil sætte i kvinde!
+[11:03] Åh, var der svært?
+[11:04] Nej drinking!
+[11:05] Fel, helv.
+[11:17] Vi har haft en ulger, han skal ikke城 er om tiljod nætaget.
+[11:27] Jeg vil skregangene, det er ikke leg.
+[11:30] Den ver整te fikkens alitet.
+[11:43] Der er k Drohmmen ned at sige det selv om den samme slaver kan.
+[11:49] herrurs rej nos jo for, du survives.
+[13:48] De nøde på ch div,
+[13:53] Drømme nøde på fjord Elise
+[14:04] Skrækker på yahøm
+[14:08] Takapping
+[14:11] Já receivhh
+[14:14] Han nu mært på chiv
+[15:16] Det?!
+[16:19] Hver dwa парet så baggage
+[16:22] Kushing
+[16:26] Små
+[16:30] Hborgen
+[16:41] Grøn
+[16:44] Jamen i den af empowerne tegfand 해 dercer
+[16:56] vil læ ofte uge sundne percentages
+[17:01] med del og bett Promp过, den uge No
+[17:12] Når vi lige så manker i den, at denaches Skjenehui har været unge, men man kan til om det var kanaliniet.
+[17:31] Hvor end dieses, omsize eller her gente ved dig sig, det var Nab Panderm.
+[17:36] Han kan jo få09.
+[17:42] Så, så tænker jeg lige nu, hvad du sætvar.
+[17:44] Hvis du kan spænde den nye nye nye nye nye nye nye nye nye nye nye nye nye nye nye nye nye nye nye nye nye nye nye nye.
+[17:57] Ja!
+[17:58] Hvad?
+[17:59] Vem malen.
+[18:00] Vem malen, jo?
+[18:09] Hvad er det, du kan bruge med det?
+[18:13] Det er en forstænd, at sætvar.
+[18:28] Hvad er det, at du har haft i gang med ham?
+[18:31] Hvad?
+[18:32] Hvad?
+[18:33] Hvad er det, du kan bruge det?
+[18:42] Så gør kurarmsær overslag.
+[19:00] Jeh,go!
+[19:04] Ni smærtet updated.
+[19:08] De få gør igen, nu går du som du sa venne.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+No se detectaron agresiones dirigidas a víctimas específicas.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20251112_162308.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 19m 11s en el idioma da.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: No se detectaron agresiones dirigidas a víctimas específicas.
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 00:17:11
+================================================================================

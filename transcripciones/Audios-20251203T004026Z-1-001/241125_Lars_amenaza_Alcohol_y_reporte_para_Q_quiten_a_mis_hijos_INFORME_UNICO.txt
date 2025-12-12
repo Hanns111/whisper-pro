@@ -1,0 +1,196 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 241125 Lars amenaza Alcohol y reporte para Q quiten a mis hijos.m4a
+Duración: 6m 7s (367.00 segundos)
+Fecha del análisis: 2025-12-03 01:48:18
+Identificador único: ID_1764744498_241125 Lars amenaza Alcohol y reporte para Q quiten a mis hijos
+Idioma detectado: en
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] One more thing, Claudia.
+[00:07] Just I need to worry about one more thing.
+[00:16] One more thing I want to make clear.
+[00:24] The drinking.
+[00:27] I don't drink.
+[00:29] I just say it very, very, very, very clearly.
+[00:35] Without any circumstances.
+[00:38] I don't think.
+[00:39] So this is a thing.
+[00:40] I don't accept this behavior.
+[00:48] Zero.
+[00:50] I totally agree with you because I don't drink.
+[00:57] Because it's in many way dangerous for all.
+[01:03] And I don't want to be put in public with childrens with you, the police, the local government.
+[01:16] No, thank you Claudia.
+[01:18] No, thank you for my side too.
+[01:21] No, thank you for my side.
+[01:23] The moment I see you do that one more time.
+[01:28] We don't have any agreement.
+[01:32] Do you understand clearly what I say?
+[01:35] Yes, and you understand me clearly what I say.
+[01:39] I don't drink.
+[01:41] I am moving away from this house and property.
+[01:47] Are you listening my words?
+[01:50] Yes, but I don't want to drink.
+[01:52] I don't want to come and say I didn't know.
+[01:57] Now I express very, very specific and very, very clearly.
+[02:06] Under no circumstances.
+[02:09] I will accept.
+[02:10] I will not be in this house.
+[02:15] I will take my things and move away.
+[02:21] And maybe if it continues, I will report you.
+[02:27] But I don't drink.
+[02:29] No, I just say it.
+[02:31] Okay, so tell me quite a bit.
+[02:36] Because I don't drink.
+[02:38] I've seen enough.
+[02:40] I have a lifetime experience.
+[02:44] And I know more about this.
+[02:47] Tell you a dream about it.
+[02:49] Don't worry.
+[02:51] It's not my case.
+[02:54] Okay?
+[02:55] So if it's going to happen, don't say that I didn't say this words.
+[03:02] If you do that, I will go crazy.
+[03:10] And I can promise you, I can be a strong man in that opportunity.
+[03:16] Because this is not something.
+[03:23] I want to use one single minute in my life of...
+[03:28] I've seen this.
+[03:32] A maximum of things that I can...
+[03:35] A more in my life that you dream about.
+[03:38] A maximum of things that I can say to you,
+[03:41] you can go with me, drive to Alborz to leave me in the church.
+[03:47] Because I would like to go, because there are the ceremonies of the Father.
+[03:53] The moments you live alone, you can do whatever you want.
+[03:57] But the moment you are here, the government will put the responsibility on me.
+[04:04] And you don't imagine what can happen in a split of a second.
+[04:09] They can take your children away from you, like this Claudia.
+[04:15] And I will be involved in that.
+[04:18] No thank you.
+[04:22] Because if that is going to happen, I will never have the opportunity to see my own children.
+[04:29] Because then I am also in a problem.
+[04:33] I want to happen.
+[04:35] I don't drink.
+[04:37] I only want to be quite an accountant.
+[04:41] I want to work.
+[04:44] I am doing all my days.
+[04:47] I know that you don't believe in God.
+[04:51] I want to go to the church.
+[04:54] If you can give me the favor each three weeks monthly.
+[04:59] You can leave me there.
+[05:01] I hope you are very grateful.
+[05:03] I don't need to move.
+[05:05] But when we are together, like the rules is,
+[05:11] it's going to be a problem for me.
+[05:16] And you don't imagine what can happen in a second.
+[05:20] No, you don't believe.
+[05:22] No, you say me that you can't.
+[05:24] I don't want to look at my voice.
+[05:28] But if they were seeing what was going on here.
+[05:32] They could report you immediately.
+[05:36] And you will lose your children in a second, Claudia.
+[05:39] They will come here with the police and take them away.
+[05:43] Okay.
+[05:46] It's out of your control.
+[05:48] Okay.
+[05:49] In a second.
+[05:59] Especially when you have a boy with disabilities.
+[06:04] I know.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+
+AGRESIÓN HACIA CLAUDIA (4 detecciones):
+--------------------------------------------------------------------------------
+
+  Tipo: MENCIÓN (4 instancias)
+    [00:00 - 00:07] Severidad: BAJA
+      One more thing, Claudia.
+
+    [01:16 - 01:18] Severidad: BAJA
+      No, thank you Claudia.
+
+    [04:09 - 04:15] Severidad: BAJA
+      They can take your children away from you, like this Claudia.
+
+    [05:36 - 05:39] Severidad: BAJA
+      And you will lose your children in a second, Claudia.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '241125 Lars amenaza Alcohol y reporte para Q quiten a mis hijos.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 6m 7s en el idioma en.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: Se detectaron 4 instancias de agresión dirigida específicamente hacia víctimas identificadas (Claudia, Juan Diego, José Carlos).
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. Se identificaron 4 agresiones dirigidas a víctimas específicas.
+2. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:48:18
+================================================================================

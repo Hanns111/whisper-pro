@@ -1,0 +1,209 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20251123_120233.m4a
+Duración: 12m 59s (779.96 segundos)
+Fecha del análisis: 2025-12-03 01:42:11
+Identificador único: ID_1764744131_20251123_120233
+Idioma detectado: nn
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[01:30] Nes, klar i fiel als entide original.
+[01:33] På dansk, ja ønsker kun og had liv i fred sam med deg.
+[01:38] Jeg kom her til dette land, for de jeg var forelskid i deg.
+[01:42] Jeg giftede mig med deg, for de vi hadet felles livsprojekt.
+[01:45] Forstår mig, hva er vendlig?
+[01:47] For mig er det ikke let for den ene dag til den anden,
+[01:49] at leg min følser for deg til sid.
+[01:52] Det er også sand, at min barn har efterland alt,
+[01:54] der er sydanense, der er skole,
+[01:56] og nu er de vede integrerser her i landet.
+[02:00] De er glade.
+[02:01] Og jeg ønsker ikke at de skuteer om vegan,
+[02:03] om det var ju andieko eller ei.
+[02:06] For nu har jeg telt med min barn.
+[02:08] Og jeg har forkladet dem, at det ikke må røres.
+[02:11] De har sagt til mig, at det ikke var dem.
+[02:13] Og jeg har bedt dem alle om ikke røre det lille støke af vegan.
+[02:17] Vi har respekt for deg.
+[02:19] Jeg respekter deg ikke kun.
+[02:21] Jeg holder også af deg.
+[03:26] Så organiela.
+[03:42] Vi er u precisa flana til regel mc engine.
+[03:53] Flyb prepoda flann utter qu itsir coat fe.
+[03:56] …
+[04:12] …
+[04:13] …
+[04:15] …
+[04:16] …
+[04:18] …
+[04:19] …
+[04:21] …
+[04:22] …
+[04:24] …
+[04:25] …
+[04:26] …
+[04:28] You grow like this way, I add them like this way, it's impossible to meet in an agreement, come here.
+[04:37] There's a big …
+[04:45] …
+[04:48] …
+[04:54] Oándo collabarao mae etphy yke puts
+[05:05] o subdividi Aquí, wy Ryinkorge i
+[05:24] A man who is strong, you don't want to be corrected anyway.
+[05:31] No one should do anything with you and your children is protected like no one else in this world.
+[05:43] And we are not having the same ideas about how to raise children and showing respect.
+[05:51] And many things you have, you have your own idea and I don't agree with them.
+[05:58] And this is actually what is happening here too.
+[06:01] And this is...
+[06:08] I can just say there will be a big problem with that for you and especially for the boys in the future of their life.
+[06:17] But you don't want to hear what I say and his newer boys is your responsibility and I can say okay.
+[06:28] It's not my problem.
+[06:33] We can discuss this from now on and the next 100 years and it will not change because I know you have this opinion.
+[06:44] And then it is starting to split more and I'm an anesthesist, this man and violence and one day the police will arrive and put me into jail because he did something to you.
+[07:05] I can read all the audio.
+[07:10] We already been there very close.
+[07:21] But it's not my problem.
+[07:23] Sometimes I let me move to target to police other people and who get the chaos and the bills for that I know.
+[07:50] When it comes to the reality and children and money nobody cares.
+[07:59] Why not this kind of person?
+[08:03] Let's see.
+[08:05] Never.
+[08:06] Let's see.
+[08:08] The story is not finished.
+[08:12] You can see the relation that I have with Hans.
+[08:19] I am not this kind of person.
+[08:22] No.
+[08:23] I heard those don't really many times before.
+[08:39] I heard it before all my life.
+[08:49] I heard it before all my life.
+[08:52] I heard it before all my life.
+[08:55] ...
+[09:07] ...
+[09:15] ...
+[09:19] ...
+[09:23] ...
+[09:26] ...
+[09:29] ...
+[09:33] ...
+[09:37] ...
+[09:40] ...
+[09:43] ...
+[09:47] ...
+[09:51] ...
+[09:54] ...
+[09:57] ...
+[10:00] ...
+[10:03] ...
+[10:06] ...
+[10:10] ...
+[10:14] ...
+[10:18] ...
+[10:28] ...
+[10:33] ...
+[10:35] ...
+[10:38] ...
+[10:42] ...
+[10:46] ...
+[10:53] ...
+[10:56] ...
+[11:07] ...
+[11:10] ...
+[11:13] ...
+[11:15] …aimtok about these gestures for them.
+[11:17] Yes, where we…
+[11:20] …the next three months,
+[11:23] do you want to bet how more
+[11:25] …that will be
+[11:27] down from the world?
+[11:29] And no one did it.
+[11:45] A big discussion about specific
+[12:13] who did it?
+[12:26] For me this show that you want to protect
+[12:29] no matter what's happening.
+[12:34] No matter if it's fair or not fair
+[12:37] or the rules or the laws you don't care.
+[12:41] You only want to protect
+[12:46] that behaviour is…
+[12:55] I'm going to call to Hussikarlos
+[12:57] from that in for his breakfast.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+No se detectaron agresiones dirigidas a víctimas específicas.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20251123_120233.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 12m 59s en el idioma nn.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: No se detectaron agresiones dirigidas a víctimas específicas.
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:42:11
+================================================================================

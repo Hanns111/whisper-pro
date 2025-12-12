@@ -1,0 +1,121 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20251028_191559.m4a
+Duración: 1m 59s (119.00 segundos)
+Fecha del análisis: 2025-12-03 01:34:39
+Identificador único: ID_1764743679_20251028_191559
+Idioma detectado: da
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] Jeg ved at være nærdsønsen om, at jeg præciterer en lille råd i børrede.
+[00:07] Jeg har sæd i børrede i 4 år.
+[00:10] Jeg sæd i 11 år, som skulle lorligere tå i et betydningsbyvalget og i økonomiervalget.
+[00:17] Jeg er hvad skal man så sige om den periode og rådnerstvores gogen, der er mange ting vi på døkne i.
+[00:23] Men jeg synes bestivt det er jo ikke, at vi har påloget ægselsvog.
+[00:27] Og jeg er i en der der er synными k falando.
+[00:29] Ja det er veldrig Corey civiler Ladings tegne og så frølv англий nothing.
+[00:32] Som manчere og understandene som proposed på ovel.
+[00:34] I her layingsrende er landserenurena.
+[00:39] Vi er ja visst og blomte eins om noget yang kan bruge på mange unges logisikker.
+[00:44] Og at vi skal bruge den replæst og vandet, skal at være majenske.
+[00:48] Nu er jeg ind, når man puntos er vanens Stepogegruselne, så er jeg også i Cuzfach.
+[00:53] og som gange i også sider, er det vigtigt at bruge vores økonomie afklod.
+[00:59] Og da er det, hvis vi samler i en årsvandrer kommuner,
+[01:04] så er vi lidt togne på administrationsbili, og det er jo lidt gældig,
+[01:09] fordi de halver, som med kærnevælde færdene både fra de ångere og de udsatte,
+[01:14] og i seriødelen, og det er noget, som jeg kan bruge,
+[01:18] så vi kan blive venner af hathet her kærnevælde færder,
+[01:22] så vi kan være godt steder og trøksted for at formændes der,
+[01:26] at vi er unge og hvad er etter at forlåter.
+[01:29] Og leve et roligt og godt liv,
+[01:32] men tryk bag sig en kommuner og en hjælp for,
+[01:35] om man skal huske at en kommuner, når man henvender sig til den,
+[01:40] så skal det være fra for hjælp.
+[01:42] I et alt tiden kommunens opgave og hjælpen på,
+[01:46] det er ligesom virksomheden, og det er altså at bruge sig kærnevælde,
+[01:50] at vi kan stå på, at vi har en kommuner,
+[01:52] hvad altid var, at ta over til en rådelse.
+[01:54] Det kan jo være at få være ved.
+[01:56] Tak over og tak blive nu, kom.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+No se detectaron agresiones dirigidas a víctimas específicas.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20251028_191559.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 1m 59s en el idioma da.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: No se detectaron agresiones dirigidas a víctimas específicas.
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:34:39
+================================================================================

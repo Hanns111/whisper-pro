@@ -1,0 +1,182 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 01.11.25 critica las ecolalias de Juandi.m4a
+Duración: 5m 36s (336.00 segundos)
+Fecha del análisis: 2025-12-03 01:24:16
+Identificador único: ID_1764743056_01.11.25 critica las ecolalias de Juandi
+Idioma detectado: en
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] But what we can do, so...
+[00:07] I just asked.
+[00:10] Yes.
+[00:11] If you say it's not possible for you to learn, but did you ever speak with him about that
+[00:20] or your life with other people, you have to show a little respect about others?
+[00:30] I was skipping and I don't hear his, that you said that he was singing.
+[00:37] So you don't believe?
+[00:39] It's not about that if I believe.
+[00:41] No.
+[00:42] I didn't listen to him.
+[00:44] No, no, no, no.
+[00:45] You are not the same.
+[00:46] Yeah.
+[00:50] But what happened if he, for example, he is an out-distant spectrum.
+[00:57] He has ecolalyas.
+[01:00] He always repeats things or something that he has in his head and he is singing.
+[01:07] It's not about that he don't respect.
+[01:10] It's about situation, the condition.
+[01:14] Did you ever try to explain it?
+[01:18] Yes, we talked with him.
+[01:20] I talked with Achikola, he used to use the therapies.
+[01:24] And this is the name of this is Ecolalia.
+[01:27] When you repeat something many times and we try.
+[01:32] But it's not that he don't respect you.
+[01:36] It's not about respect.
+[01:43] I don't know.
+[01:45] I just know if people never have been speaking that this is not a normal.
+[01:53] How should they know?
+[02:07] So to get the sleeping in this house we have to follow, he is written.
+[02:12] He is what?
+[02:14] His sleeping written.
+[02:16] But when you went to sleep he was sleeping.
+[02:21] Yeah.
+[02:24] But then you don't understand what I say.
+[02:27] Can you repeat this?
+[02:30] Because I was like...
+[02:31] If all the people need, let's say eight hours of sleep, quiet.
+[02:37] We have to follow when he sleeps.
+[02:41] Yeah. Because when he wakes up in the morning I want to sleep one hour more.
+[02:45] He is lonely.
+[02:47] And I can't sleep.
+[02:55] And maybe some days you want to sleep a little extra in the morning like today maybe.
+[03:01] But impossible.
+[03:02] He's not been noisy last.
+[03:04] We try to be a little truss.
+[03:08] So now we are discussing that if it's true he was noisy in the morning and you were sleeping you couldn't hear it.
+[03:19] Okay, so now we are back to the state of you don't believe what I say.
+[03:24] It's not about this.
+[03:26] But you say he was not noisy in the morning.
+[03:32] How do you know that because you were sleeping?
+[03:35] He called to the school to Monday to Friday and he's not disturbed you.
+[03:41] I called you.
+[03:43] I want to talk to you about this point.
+[03:46] You say he is not noisy in the morning.
+[03:49] How do you know that when you were sleeping?
+[03:53] I didn't hear him.
+[03:55] Okay, so you didn't know.
+[03:57] I don't know.
+[03:59] I was waking up because he was noisy.
+[04:03] Okay.
+[04:06] So do we need to continue to talk about if he was noisy or not?
+[04:14] No.
+[04:15] Okay, thank you.
+[04:18] So you believe me?
+[04:20] Thank you.
+[04:22] Because if that situation is continuing that I have to make evidence about what I say is real.
+[04:30] I close, close, yeah.
+[04:33] Say no more.
+[04:36] We had this discussion many times.
+[04:39] I'm finished.
+[04:41] No, no, no, no.
+[04:43] But you don't.
+[04:44] It's like I don't want to hear what you say.
+[04:48] Maybe you don't say the reality.
+[04:52] I'm not stupid yet, close, yeah.
+[04:55] Anybody say no.
+[04:57] I try to make it around.
+[05:00] No.
+[05:03] No.
+[05:05] You do?
+[05:07] It was the same one for.
+[05:10] I only say that.
+[05:12] It was the same one for.
+[05:13] He is.
+[05:14] You don't believe me.
+[05:15] Then you ask him to say if it's true.
+[05:19] No, Lars.
+[05:20] I don't want any problem.
+[05:23] No.
+[05:25] But that is also showing me a little respect to just recognize what I say is actually true.
+[05:34] Yeah.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+No se detectaron agresiones dirigidas a víctimas específicas.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '01.11.25 critica las ecolalias de Juandi.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 5m 36s en el idioma en.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: No se detectaron agresiones dirigidas a víctimas específicas.
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:24:16
+================================================================================

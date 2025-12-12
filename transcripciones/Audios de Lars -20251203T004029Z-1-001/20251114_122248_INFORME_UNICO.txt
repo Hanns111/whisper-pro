@@ -1,0 +1,120 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20251114_122248.m4a
+Duración: 1m 38s (98.64 segundos)
+Fecha del análisis: 2025-12-03 00:17:17
+Identificador único: ID_1764739037_20251114_122248
+Idioma detectado: en
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] 'MIO SAC Birnam
+[00:13] the
+[00:41] We can also try to make it look good over there.
+[00:45] Yeah, yeah.
+[00:47] Yeah.
+[00:49] You make some alpha-bomb there.
+[00:51] Why?
+[00:53] When the owner of the plant,
+[00:55] he and the fact that the plant is very small,
+[00:58] the other one is very small,
+[01:00] and it's very small,
+[01:01] in his own.
+[01:03] Yeah.
+[01:05] So we make a lot of the same thing,
+[01:08] and then some of the plants are very small,
+[01:10] and then we make a lot of the same thing.
+[01:12] Yeah.
+[01:14] Yeah.
+[01:16] Yeah.
+[01:18] Yeah.
+[01:20] Yeah.
+[01:22] Yeah.
+[01:24] Yeah.
+[01:26] Yeah.
+[01:28] Yeah.
+[01:30] Yeah.
+[01:32] Yeah.
+[01:34] Yeah.
+[01:36] Yeah.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+No se detectaron agresiones dirigidas a víctimas específicas.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20251114_122248.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 1m 38s en el idioma en.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: No se detectaron agresiones dirigidas a víctimas específicas.
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 00:17:17
+================================================================================

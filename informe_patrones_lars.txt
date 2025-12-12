@@ -1,0 +1,310 @@
+================================================================================
+INFORME DE ANÁLISIS DE PATRONES DE COMPORTAMIENTO
+Caso: Lars Erling Sørensen vs Rikke Larsen
+Fecha de análisis: 2025-12-05 01:40:59
+================================================================================
+
+1. RESUMEN EJECUTIVO
+--------------------------------------------------------------------------------
+Total de transcripciones analizadas: 25
+Categorías de patrones identificadas: 8
+
+2. PATRONES DE COMPORTAMIENTO IDENTIFICADOS
+--------------------------------------------------------------------------------
+
+[*] ACUSACIONES PROBLEMAS HOGAR
+   Total de ocurrencias: 3
+   Archivos con este patron: 3
+   Archivos mas frecuentes:
+      - 09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt: 1 ocurrencias
+      - 20251122_200209_INFORME_UNICO.txt: 1 ocurrencias
+      - 20251201_Acusa_a_mis_hijos_de_gastar_su_champú_y_tirar_papel_higiénico_por_la_venta_INFORME_UNICO.txt: 1 ocurrencias
+
+[*] AMENAZAS
+   Total de ocurrencias: 5
+   Archivos con este patron: 1
+   Archivos mas frecuentes:
+      - 241125_Lars_amenaza_Alcohol_y_reporte_para_Q_quiten_a_mis_hijos_INFORME_UNICO.txt: 5 ocurrencias
+
+[*] AMENAZAS ABANDONO
+   Total de ocurrencias: 10
+   Archivos con este patron: 6
+   Archivos mas frecuentes:
+      - 20251124_garantía_y_cuestionamiento_sobre_nuestro_matrimonio__INFORME_UNICO.txt: 4 ocurrencias
+      - 241125_Lars_amenaza_Alcohol_y_reporte_para_Q_quiten_a_mis_hijos_INFORME_UNICO.txt: 2 ocurrencias
+      - 09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt: 1 ocurrencias
+      - 20250923_PART_1_Lars_maltrato_sicológico_INFORME_UNICO.txt: 1 ocurrencias
+      - 20251202_Acusa_q_Juandi_por_3ra_vez_INFORME_UNICO.txt: 1 ocurrencias
+
+[*] CRITICA HIJOS
+   Total de ocurrencias: 8
+   Archivos con este patron: 6
+   Archivos mas frecuentes:
+      - 09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt: 3 ocurrencias
+      - 08.11.25_Lars_nos_acusa_de_atrapar_su_pared_del_baño_INFORME_UNICO.txt: 1 ocurrencias
+      - 08.11.25_Lars_nos_acusa_de_malograr_su_pared_del_baño_INFORME_UNICO.txt: 1 ocurrencias
+      - 10.11.25_sigue_torturándome_psicológicamente_diciendo_que_mi_hijo_es_un_mentiroso_INFORME_UNICO.txt: 1 ocurrencias
+      - 20251122_200209_INFORME_UNICO.txt: 1 ocurrencias
+
+[*] CULPABILIZACION
+   Total de ocurrencias: 19
+   Archivos con este patron: 11
+   Archivos mas frecuentes:
+      - 09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt: 3 ocurrencias
+      - 20251122_200209_INFORME_UNICO.txt: 3 ocurrencias
+      - 20250923_PART_1_Lars_maltrato_sicológico_INFORME_UNICO.txt: 2 ocurrencias
+      - 20251122_194222_INFORME_UNICO.txt: 2 ocurrencias
+      - 20251202_lars_nos_acusa_nuevamente_mi_presión_vuela_INFORME_UNICO.txt: 2 ocurrencias
+
+[*] MANIPULACION FINANCIERA
+   Total de ocurrencias: 50
+   Archivos con este patron: 13
+   Archivos mas frecuentes:
+      - 09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt: 7 ocurrencias
+      - 20251027_080920_INFORME_UNICO.txt: 5 ocurrencias
+      - 20251027_085207_INFORME_UNICO.txt: 5 ocurrencias
+      - 20251027_Lars_va_a_gastar_lo_último_que_tiene_en_trading_INFORME_UNICO.txt: 5 ocurrencias
+      - 27.10.25_Lars_gasta_lo_último_que_tiene_en_trading_INFORME_UNICO.txt: 5 ocurrencias
+
+[*] MINIMIZACION ESFUERZOS
+   Total de ocurrencias: 43
+   Archivos con este patron: 9
+   Archivos mas frecuentes:
+      - 20250923_PART_1_Lars_maltrato_sicológico_INFORME_UNICO.txt: 15 ocurrencias
+      - 23.09.25_Lars_me_grito_horrible_y_maltrato_sicológico_INFORME_UNICO.txt: 14 ocurrencias
+      - 20251027_pide_pago_comida_por_algunas_semanas_INFORME_UNICO.txt: 3 ocurrencias
+      - 09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt: 3 ocurrencias
+      - 20251027_Pide_q_financie_los_gastos_de_la_casa_INFORME_UNICO.txt: 3 ocurrencias
+
+[*] VICTIMIZACION
+   Total de ocurrencias: 14
+   Archivos con este patron: 8
+   Archivos mas frecuentes:
+      - 09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt: 7 ocurrencias
+      - 20251027_pide_pago_comida_por_algunas_semanas_INFORME_UNICO.txt: 1 ocurrencias
+      - 20251027_Pide_q_financie_los_gastos_de_la_casa_INFORME_UNICO.txt: 1 ocurrencias
+      - 20251122_194222_INFORME_UNICO.txt: 1 ocurrencias
+      - 20251122_200209_INFORME_UNICO.txt: 1 ocurrencias
+
+
+3. ANÁLISIS TEMPORAL
+--------------------------------------------------------------------------------
+Fechas con mayor actividad de patrones:
+
+   [FECHA] 20251027: 31 patrones totales
+      - manipulacion_financiera: 23
+      - minimizacion_esfuerzos: 6
+      - victimizacion: 2
+
+   [FECHA] 09.11.25: 26 patrones totales
+      - manipulacion_financiera: 8
+      - victimizacion: 7
+      - culpabilizacion: 3
+      - critica_hijos: 3
+      - minimizacion_esfuerzos: 3
+      - amenazas_abandono: 1
+      - acusaciones_problemas_hogar: 1
+
+   [FECHA] 20250923: 18 patrones totales
+      - minimizacion_esfuerzos: 15
+      - culpabilizacion: 2
+      - amenazas_abandono: 1
+
+   [FECHA] 23.09.25: 18 patrones totales
+      - minimizacion_esfuerzos: 14
+      - culpabilizacion: 2
+      - victimizacion: 1
+      - amenazas_abandono: 1
+
+   [FECHA] 20251122: 15 patrones totales
+      - culpabilizacion: 5
+      - manipulacion_financiera: 4
+      - victimizacion: 2
+      - minimizacion_esfuerzos: 2
+      - critica_hijos: 1
+      - acusaciones_problemas_hogar: 1
+
+   [FECHA] 27.10.25: 13 patrones totales
+      - manipulacion_financiera: 10
+      - minimizacion_esfuerzos: 2
+      - victimizacion: 1
+
+   [FECHA] 20251124: 9 patrones totales
+      - amenazas_abandono: 4
+      - manipulacion_financiera: 2
+      - culpabilizacion: 1
+      - victimizacion: 1
+      - minimizacion_esfuerzos: 1
+
+   [FECHA] 08.11.25: 4 patrones totales
+      - culpabilizacion: 2
+      - critica_hijos: 2
+
+   [FECHA] 20251202: 4 patrones totales
+      - culpabilizacion: 2
+      - critica_hijos: 1
+      - amenazas_abandono: 1
+
+   [FECHA] 04.11.25: 2 patrones totales
+      - manipulacion_financiera: 2
+
+
+4. CORRELACIÓN CON DOCUMENTOS LEGALES
+--------------------------------------------------------------------------------
+
+[LINK] ELEMENTO LEGAL: Manipulación de los hijos
+   Evidencias en audio: 1 archivos
+
+   Ejemplo 1:
+   Archivo: 09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt
+   Categoría: critica_hijos
+   Contexto: "02:19] I am accepting your words.
+[02:21] You are protecting him, no matter what he does.
+[02:24] I ..."
+
+[LINK] ELEMENTO LEGAL: Acusaciones contra Kristian
+   Evidencias en audio: 2 archivos
+
+   Ejemplo 1:
+   Archivo: 08.11.25_Lars_nos_acusa_de_atrapar_su_pared_del_baño_INFORME_UNICO.txt
+   Categoría: critica_hijos
+   Contexto: "t was not like this.
+[01:02] You are a firm that they are liar.
+[01:05] Okay.
+[01:06] Can you...
+[01..."
+
+   Ejemplo 2:
+   Archivo: 08.11.25_Lars_nos_acusa_de_malograr_su_pared_del_baño_INFORME_UNICO.txt
+   Categoría: critica_hijos
+   Contexto: "t was not like this.
+[01:02] You are a firm that they are liar.
+[01:05] Okay.
+[01:06] Can you...
+[01..."
+
+[LINK] ELEMENTO LEGAL: Problemas financieros
+   Evidencias en audio: 30 archivos
+
+   Ejemplo 1:
+   Archivo: 20251027_080920_INFORME_UNICO.txt
+   Categoría: manipulacion_financiera
+   Contexto: "[02:33] But we have to find some money to do the trading.
+[02:37] Mm-hmm.
+[02:46] I don't see any ot..."
+
+   Ejemplo 2:
+   Archivo: 20251027_080920_INFORME_UNICO.txt
+   Categoría: manipulacion_financiera
+   Contexto: "ut for other size you want to invest in this, the trading,
+[25:23] ...but you know that there are so..."
+
+   Ejemplo 3:
+   Archivo: 20251027_085207_INFORME_UNICO.txt
+   Categoría: manipulacion_financiera
+   Contexto: "it's the only way
+[00:21] With this
+[00:30] That trading
+[00:42] Of course if there is a little job ..."
+
+[LINK] ELEMENTO LEGAL: Amenazas
+   Evidencias en audio: 5 archivos
+
+   Ejemplo 1:
+   Archivo: 241125_Lars_amenaza_Alcohol_y_reporte_para_Q_quiten_a_mis_hijos_INFORME_UNICO.txt
+   Categoría: amenazas
+   Contexto: "e away.
+[02:21] And maybe if it continues, I will report you.
+[02:27] But I don't drink.
+[02:29] No,..."
+
+   Ejemplo 2:
+   Archivo: 241125_Lars_amenaza_Alcohol_y_reporte_para_Q_quiten_a_mis_hijos_INFORME_UNICO.txt
+   Categoría: amenazas
+   Contexto: "seeing what was going on here.
+[05:32] They could report you immediately.
+[05:36] And you will lose ..."
+
+   Ejemplo 3:
+   Archivo: 241125_Lars_amenaza_Alcohol_y_reporte_para_Q_quiten_a_mis_hijos_INFORME_UNICO.txt
+   Categoría: amenazas
+   Contexto: "n happen in a split of a second.
+[04:09] They can take your children away from you, like this Claudi..."
+
+[LINK] ELEMENTO LEGAL: Victimización
+   Evidencias en audio: 12 archivos
+
+   Ejemplo 1:
+   Archivo: 20251027_pide_pago_comida_por_algunas_semanas_INFORME_UNICO.txt
+   Categoría: victimizacion
+   Contexto: "a fire through this plate and I am away.
+[44:24] I don't want to live that life.
+[44:28] I am going ..."
+
+   Ejemplo 2:
+   Archivo: 09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt
+   Categoría: victimizacion
+   Contexto: "essed.
+[06:16] Yes.
+[06:17] And I think every day I don't want to live anymore.
+[06:24] I don't want..."
+
+   Ejemplo 3:
+   Archivo: 09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt
+   Categoría: victimizacion
+   Contexto: "k every day I don't want to live anymore.
+[06:24] I don't want to live anymore.
+[06:28] Please, take..."
+
+
+5. PATRONES MÁS PREOCUPANTES
+--------------------------------------------------------------------------------
+
+[ADVERTENCIA] AMENAZAS
+   Frecuencia total: 5 ocurrencias
+   Ejemplos de archivos afectados:
+      - 241125_Lars_amenaza_Alcohol_y_reporte_para_Q_quiten_a_mis_hijos_INFORME_UNICO.txt
+
+[ADVERTENCIA] CRITICA HIJOS
+   Frecuencia total: 8 ocurrencias
+   Ejemplos de archivos afectados:
+      - 09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt
+      - 08.11.25_Lars_nos_acusa_de_atrapar_su_pared_del_baño_INFORME_UNICO.txt
+      - 08.11.25_Lars_nos_acusa_de_malograr_su_pared_del_baño_INFORME_UNICO.txt
+
+[ADVERTENCIA] AMENAZAS ABANDONO
+   Frecuencia total: 10 ocurrencias
+   Ejemplos de archivos afectados:
+      - 20251124_garantía_y_cuestionamiento_sobre_nuestro_matrimonio__INFORME_UNICO.txt
+      - 241125_Lars_amenaza_Alcohol_y_reporte_para_Q_quiten_a_mis_hijos_INFORME_UNICO.txt
+      - 09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt
+
+
+6. CONCLUSIONES Y OBSERVACIONES
+--------------------------------------------------------------------------------
+
+Patrones consistentes identificados:
+
+1. MANIPULACIÓN EMOCIONAL:
+   - Uso recurrente de amenazas de reportar a las autoridades
+   - Amenazas de que le quitarán los hijos
+   - Victimización constante ('I don't want to live', 'I am so stressed')
+
+2. MANIPULACIÓN FINANCIERA:
+   - Referencias frecuentes a problemas de dinero
+   - Culpabilización por gastos
+   - Mención de pérdidas en trading/crypto
+
+3. CRÍTICAS A LOS HIJOS:
+   - Acusaciones repetidas contra los hijos
+   - Cuestionamiento de su veracidad
+   - Acusaciones de daños materiales
+
+4. PATRÓN DE COMPORTAMIENTO CONSISTENTE:
+   - Los patrones se repiten en múltiples fechas
+   - Correlación directa con elementos del caso legal
+   - Evidencia de comportamiento sistemático, no aislado
+
+================================================================================
+FIN DEL INFORME
+================================================================================

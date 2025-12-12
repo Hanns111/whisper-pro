@@ -1,0 +1,112 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20250923 PART 2 presión para actuar normal frente a mis hijos.m4a
+Duración: 4m 16s (256.38 segundos)
+Fecha del análisis: 2025-12-03 01:30:10
+Identificador único: ID_1764743410_20250923 PART 2 presión para actuar normal frente a mis hijos
+Idioma detectado: fr
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] voilà
+[00:30] à
+[00:44] lOUR
+[00:47] Je ne peux pas 커�rir.... déjà je ne peux pas日
+[01:10] Nous, on est bien fentこう, aumentar les côtes.
+[01:30] Ouais, parce qu'ai pas du vacgiving.
+[01:34] Après, on se rend numéro 4 000m whiskers têm quoi?
+[01:38] Donc on especie directement des combats sur lesitions.
+[01:41] T Unter...
+[01:48] Où est votre famille ?
+[01:50] Je vais grossir eux.
+[01:52] Mais je ne sais pas comment ils...
+[01:56] M on n'et que ce qui coûte.
+[02:00] Tellement c'étaitbs passant en Base activated à l'omething fatty мешés.
+[02:03] Je ne veux pas le falloir...
+[02:06] Bah je ne Nan mais Ax après sa germule...
+[02:08] consequently on ne doit pas Tu aimes, tu Canne ?
+[02:15] Et J'ai le poppingover, on a plusieurs par hôpies breathing
+[02:25] Laissez voir cet évo pour Arthage
+[02:37] Clic attacked, Chvant on est ici, la oliise d'une balle qui vient de porter une crossed.
+[04:02] Sylvain pour le frère.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+No se detectaron agresiones dirigidas a víctimas específicas.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20250923 PART 2 presión para actuar normal frente a mis hijos.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 4m 16s en el idioma fr.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: No se detectaron agresiones dirigidas a víctimas específicas.
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:30:10
+================================================================================

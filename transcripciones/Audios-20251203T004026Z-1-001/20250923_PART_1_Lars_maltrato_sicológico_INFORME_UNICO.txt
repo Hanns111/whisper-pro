@@ -1,0 +1,432 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20250923 PART 1 Lars maltrato sicológico.m4a
+Duración: 33m 4s (1984.30 segundos)
+Fecha del análisis: 2025-12-03 01:29:48
+Identificador único: ID_1764743388_20250923 PART 1 Lars maltrato sicológico
+Idioma detectado: en
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] No, I only want to see what you see.
+[00:24] You never learn who I am, Claudia. You don't listen to what I say.
+[00:28] You don't listen to my feelings. You don't understand my points.
+[00:35] You only want to hear me.
+[00:37] Yes, but it's not a help. I do it all up anyway.
+[00:41] No, because you say me and I am trying to teach me.
+[00:45] Yes, this is something new for me.
+[00:49] And I am trying to do my best.
+[00:51] I am here. You say, do that, I do that.
+[00:54] But I don't know why you are especially today only because you are coming.
+[01:01] I don't know why, and it's not my fault.
+[01:05] Maybe if I work all the day, run around in the shops, doing many things, maybe I am a little tired.
+[01:13] Maybe it would be nice to have a wife who come home.
+[01:17] I have been preparing the dinner for you, my love.
+[01:21] But then you don't have to work anymore because you...
+[01:25] I don't know, but I am cooking the rice and you say, why are you cooking the rice many foods?
+[01:30] No, I don't say that. I don't say that.
+[01:34] So, you... I understand that.
+[01:37] I don't want, first of all, I explained you five million times.
+[01:42] I don't want to eat late every day because it's...
+[01:46] No, can I explain?
+[01:48] When you eat late, I explain this many times before.
+[01:52] Please don't talk nicely because we are not fighting.
+[01:57] No, the rice is cooking too much.
+[02:01] No, it's okay.
+[02:03] Okay, one day they will burn and I will call the police.
+[02:08] What you say, Dad, it's half-water.
+[02:12] Yes, please.
+[02:15] I have been cooking in 35 years.
+[02:20] Yes, but you don't just cook rice.
+[02:23] Me, I do always.
+[02:27] So, I am 52 years and I can't cook rice.
+[02:31] No, you do different.
+[02:33] That's all, but the rice has water enough and you all...
+[02:40] Do you play with flow?
+[02:43] I am not doing nothing wrong.
+[02:46] I would like to eat my evening dinner not very late because it's about healthy.
+[02:53] Yes, you come in now if you want.
+[02:56] Because I can live my own life if you want too.
+[03:00] I don't want that.
+[03:02] But you...
+[03:03] I can make my own food five o'clock and then you can do whatever you want.
+[03:07] You do it like that? Is that okay for you?
+[03:10] I am not saying that, please.
+[03:14] But when I come home, I do a lot of work all the day.
+[03:21] And I want to hear too, clean and...
+[03:24] Yeah, but I don't say you have to clean the floor every day.
+[03:29] It's not me who say that.
+[03:32] Yeah, but I want to help with this.
+[03:35] So...
+[03:37] So...
+[03:40] You think it's the same?
+[03:43] No.
+[03:44] Do you have a plane in your back?
+[03:46] I am not comparing, but why?
+[03:49] I am not... I didn't have anything wrong.
+[03:53] No, because you did? Nothing.
+[03:59] I have to take care about what food we buy, what food we make.
+[04:04] I have to propose five hundred years because I couldn't stay here.
+[04:10] The last week I was cooking many days.
+[04:14] But why do you say that?
+[04:16] Why do you say all these things about me that I didn't know nothing?
+[04:23] About the cooking?
+[04:25] And I cooked the last week.
+[04:27] Yes, but the last week is not today.
+[04:29] Yeah, but...
+[04:31] I was cooking the last 35 years.
+[04:33] I was working 80 hours last week.
+[04:36] Wait, last.
+[04:38] For me, please understand.
+[04:41] It's all a goal to learn to cook because you know me before and you always know that I don't know.
+[04:50] But actually, it is not my problem that you can't cook.
+[04:53] Yeah, but...
+[04:57] Okay.
+[04:59] Actually, it is not my problem, Claudine.
+[05:01] I know.
+[05:02] I know, but when things took toll, and you tell, and you don't eat your couple,
+[05:08] like the thing we love is always different.
+[05:12] But you are angry with me all the time.
+[05:16] You don't understand what I say.
+[05:19] I am working all the day.
+[05:22] I am running in the self-spiting food.
+[05:25] I am coming home. What's planned? Nothing.
+[05:30] Because I don't know the Danish food.
+[05:35] And you are not teaching me.
+[05:39] Yeah, and now we are in the same place, like two hours ago, when we stand in this discussion.
+[05:45] Nothing is happening.
+[05:48] Only I am a big asshole.
+[05:50] Now, that's the only thing different.
+[05:54] I am a big asshole.
+[06:00] I can't cook the rice.
+[06:03] I don't say this.
+[06:05] I never...
+[06:06] Really, you take it out of my hands and put the water away.
+[06:10] What? I am doing. I am trying to share.
+[06:14] Yeah.
+[06:17] I don't know what I am doing wrong, but if you feel that I am doing wrong, please forgive me.
+[06:26] But anyway, this person can eat this.
+[06:30] Okay, then I have to buy special food for this person.
+[06:34] And no, I don't want this.
+[06:36] And I have to buy special food for this person.
+[06:39] And we can eat the potatoes.
+[06:41] We eat rice.
+[06:44] This is only one.
+[06:47] If you have all those problems with the food, I think you should take more action about what food can this family eat.
+[06:55] Because you are three members. I am only one.
+[06:58] And we are very grateful with your hands.
+[07:02] Really.
+[07:05] Are we...
+[07:10] The internet is one big open book.
+[07:15] You can read every food.
+[07:18] You can't, as 84 years old, you can't say, I can't cook.
+[07:25] It's the same as going up in the morning saying, I can't go to work today.
+[07:30] I don't want to.
+[07:33] I am trying. I am learning.
+[07:36] Okay? I am learning.
+[07:49] I can give you the money. You can go to the siop sonry, whatever you want.
+[07:54] I try to do with the money we have.
+[07:58] The best opportunities.
+[08:01] When you were sleeping outside, I was cooking.
+[08:08] Was you expecting that I was riding home?
+[08:11] No.
+[08:12] To cook for you?
+[08:13] No.
+[08:14] No.
+[08:15] That is the reality. Impossible.
+[08:18] I did.
+[08:20] Yes?
+[08:22] Okay.
+[08:25] I don't want any discussion, please.
+[08:28] It's because it's when we feel bad.
+[08:31] Yeah?
+[08:34] I can have my bag and work 7 hours.
+[08:39] I really think that feels.
+[08:58] How many of the potatoes here do you think your family will go into it?
+[09:16] Then I will eat the potatoes.
+[09:19] You are going to eat?
+[09:21] We don't eat a lot.
+[09:23] No. That's why I ask specific how many?
+[09:28] Five for day, those each one.
+[09:31] Then we eat.
+[09:32] Then we have to take a compilation of how many potatoes we need to eat and take them away from this place.
+[09:39] Yes.
+[09:40] Into a glass bowl.
+[09:42] Or tell me why I want to do my own health.
+[09:48] Do you choose what do you are going to eat?
+[09:53] I take you.
+[09:54] Yes.
+[09:55] I like to eat rice in order.
+[09:57] Yeah, but you choose.
+[09:58] I told you that in order.
+[09:59] You choose what do you want to eat?
+[10:02] Potatoes.
+[10:03] Yes.
+[10:04] Yes.
+[10:05] I want to eat potatoes.
+[10:06] Yeah, but also.
+[10:08] Bon.
+[10:13] You want to eat this?
+[10:14] No.
+[10:15] I ask if this is enough for the family.
+[10:18] I say, you choose what do you want to eat?
+[10:24] I want to eat you.
+[10:26] Or you do and I can put, okay, I'm going to put what can we are going to eat because of you?
+[10:34] Yes.
+[10:35] I can't put it.
+[10:37] Honey, what?
+[10:39] I don't want to have a discussion about fucking potatoes.
+[10:44] Yeah, for prison.
+[10:47] Well, the three are going to eat this.
+[10:50] Yeah.
+[10:51] And you, how many of you?
+[10:54] When you look on my plate every evening.
+[10:57] You never do that?
+[10:59] I don't look.
+[11:00] Never?
+[11:01] No, I don't.
+[11:02] Just to look.
+[11:03] You never seen on my plate in an evening dinner?
+[11:07] Yeah, this is enough.
+[11:09] That's okay.
+[11:11] It depends on how many you take.
+[11:14] Now I am sure that you're in for enough.
+[11:17] Of course, we have the vegetables too.
+[11:19] Yeah.
+[11:20] I want to put this in the microwave.
+[11:25] Fantastic.
+[11:26] Sure, I want some discussion for you.
+[11:30] No, no.
+[11:31] After working seven hours going through the same table, I want to be very perfect in the day.
+[11:37] I'm very happy.
+[11:39] I promise that I don't want these.
+[11:42] I don't want these.
+[11:44] I just want to do this.
+[12:19] Of course, sitting there is not making food.
+[12:41] We are not going to have the evening dinner sitting on the S.
+[13:04] That's right.
+[13:05] So someone has to do something in this family.
+[13:09] That's for me.
+[13:10] This is not necessary to do that to us.
+[13:29] No, but someone has to do something.
+[13:59] Okay.
+[14:30] Now you can help me do this because the magazine is very soon ready.
+[14:36] I told you.
+[14:39] So it is enough and if it's for me, we are going to do it quickly.
+[14:49] You can cook.
+[14:52] Next.
+[14:55] Next.
+[15:25] Next.
+[15:55] Next.
+[16:25] Next.
+[16:56] Next.
+[17:06] Can your piece Sponge or mackerele to cut it like this?
+[17:18] I guess.
+[17:23] Turfee.
+[18:00] I know the jule don't say me that I'm clinged a
+[18:29] house but I cling always because I cling that toilet, I cling there so the shower, I wash the clothes, I wash the clothes.
+[18:41] When you finish your breakfast and you go to work, I organize here. When you cook, I always wash the dishes that they serve.
+[18:55] I don't say nothing that I don't want. I'm a tree. You have a family here.
+[19:40] When I am actually trying to do my best, I am working very, very, very, very hard with my best.
+[19:52] I don't say you need to do that. I don't do that when I was living alone.
+[20:06] I was screamed maybe every five or ten days.
+[20:20] When you arrive, everything was well, it worked in a second.
+[20:25] I was saying what the fuck is going on into this toilet? It looks like a farm with pigs.
+[20:36] I'm telling you the truth.
+[20:42] Because I don't want to scream every day.
+[20:49] I don't want to scream.
+[21:19] I don't want to do in the bread with love. The cakes, the food, the milk, the healthy food I do that with love too.
+[21:44] Because I actually concerned about people. But you don't understand?
+[21:51] It's just a problem. You always think that.
+[21:58] You are feeling numb. You are really a sweet, sweet and soul.
+[22:09] I tell the same story. You don't listen to what I say. You continue like you don't understand nothing about what I say.
+[22:23] And you don't care.
+[22:30] You don't need to be stupid man.
+[23:00] And if it's a problem with the cleaning and the cooking and the things I can do for my own bad washing,
+[23:16] I can do all alone with all. You don't need to do anything for me.
+[23:23] It's very, very, very simple for me to do that.
+[23:36] And just do it my way.
+[24:06] Like sandal you could prepare the potatoes. You know we need potatoes every day for the cooking.
+[24:31] And I was cooking the day you put it.
+[24:38] And other days now it's two days.
+[24:42] Two days I did and yesterday you. And this is a couple.
+[24:48] You share.
+[24:50] And I did two days ago and you did yesterday.
+[24:54] Maybe you want to eat 9 o'clock in the evening. I don't want to eat 9 o'clock in the evening.
+[24:59] Because it's 6.51. We can eat some time in it.
+[25:04] In my opinion we should have been finished eating now a long time ago.
+[25:15] Because it's not empty. And I have a problem with my stomach in the moment.
+[25:20] But now is however responsibility. Now you are being informed now.
+[25:24] Because we have two hours of discussion.
+[25:29] But I was happy. I was feeling good.
+[25:33] And I can go again. Then you can do it again.
+[25:38] I can sleep in other place. It's not a problem. You have to wait for me.
+[25:44] Anybody is fine. Please, please, please.
+[25:54] Now see they are cooking. Starting on 7.
+[26:01] And then you go down to 5. And when they have this color and you feel.
+[26:06] This is not enough because they are soft.
+[26:09] But this color is the right position.
+[26:13] Not too much. Not too little.
+[26:16] We understand.
+[26:18] And then you have to have margarine enough.
+[26:23] And when you turn them around now they need more margarine because they will absorb it.
+[26:37] And make it now because they are cold.
+[26:42] We need a little more temperature. The next one minute or something.
+[26:47] Because when you do need, you don't cook meat.
+[26:53] You fry meat.
+[26:55] So you have to have a temperature more than 100 degrees.
+[27:01] Because you don't want to cook meat. You want to fry meat.
+[27:12] And you see the can is with the more cold here.
+[27:26] And this side, so I turn them into the center.
+[27:31] It's more cooked and here than I turn like this.
+[27:35] You see the color is less.
+[27:42] Now you see the temperature is low.
+[28:01] You should put more power in a moment.
+[28:05] When you never, it has not to cook but to fry.
+[28:24] And in a moment you can feel and see that everything is frying. You go down again.
+[28:35] That's why I say cooking is about the feeling.
+[28:42] Like all the things is a balance in this life between all.
+[28:49] And I am learning that it is an important control of emotion.
+[28:59] It is the B.I.
+[29:02] Sometimes it is too much for a human.
+[29:06] I didn't have any wrongs.
+[29:09] You can see it and you are working with a plate.
+[29:12] It's the knife.
+[29:15] I didn't hit you.
+[29:20] Maybe you want to report with the police.
+[29:23] This time too.
+[29:26] I am only trying to say what is wrong.
+[29:31] You are only trying to ask me.
+[29:34] No, I'm just keeping on thinking.
+[29:38] I don't want to explain my life.
+[29:42] Oh, oh, oh, it's a nightmare.
+[29:45] I need to explain everything.
+[29:47] Why?
+[29:49] How?
+[29:54] My life is very, very simple.
+[29:56] We don't talk this time.
+[29:58] You have a bad feeling and we do.
+[30:01] No.
+[30:03] Oh, good.
+[30:07] We didn't prepare anything.
+[30:10] No plants.
+[30:12] I am working all the day.
+[30:14] Coming home to pay all the responsibility to buy food.
+[30:17] To prepare food.
+[30:19] Cook food.
+[30:22] Cream.
+[30:24] I think.
+[30:25] Yeah, yeah, okay.
+[30:26] You think I do nothing?
+[30:30] We can't eat cleaning.
+[30:38] And now I am an asshole.
+[30:43] The world's biggest asshole in the world.
+[30:48] Of course I say in the opinion.
+[30:51] Bad man.
+[31:07] This is a feeling.
+[31:31] I should feel this one.
+[31:34] And this one.
+[31:37] There's a big difference.
+[31:40] I should feel it with your hands.
+[31:44] Push a little.
+[31:45] See, it's very soft.
+[31:48] This is more hard.
+[31:50] This is because this one we put on as the last one.
+[31:57] This one is all over ready because it's out now.
+[32:02] That's why I say again cooking is not about minutes.
+[32:06] It's about a feeling.
+[32:11] So how do you want the food to be?
+[32:18] It's about a feeling.
+[32:20] Now it would be good that the rice was finished because this is finished.
+[32:25] And the potatoes.
+[32:27] And now in the same time we can wait for the potatoes.
+[32:32] And we can eat.
+[32:55] And this would be so hard water.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+
+AGRESIÓN HACIA CLAUDIA (1 detecciones):
+--------------------------------------------------------------------------------
+
+  Tipo: MENCIÓN (1 instancias)
+    [00:24 - 00:28] Severidad: BAJA
+      You never learn who I am, Claudia. You don't listen to what I say.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20250923 PART 1 Lars maltrato sicológico.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 33m 4s en el idioma en.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: Se detectaron 1 instancias de agresión dirigida específicamente hacia víctimas identificadas (Claudia, Juan Diego, José Carlos).
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. Se identificaron 1 agresiones dirigidas a víctimas específicas.
+2. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:29:48
+================================================================================

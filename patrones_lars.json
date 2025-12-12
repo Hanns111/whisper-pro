@@ -1,0 +1,1005 @@
+{
+  "fecha_analisis": "2025-12-05T01:40:59.443800",
+  "total_archivos": 25,
+  "estadisticas": {
+    "manipulacion_financiera": {
+      "20251027_080920_INFORME_UNICO.txt": 5,
+      "20251027_085207_INFORME_UNICO.txt": 5,
+      "20251027_pide_pago_comida_por_algunas_semanas_INFORME_UNICO.txt": 4,
+      "04.11.25_Audio_trading_lars_y_pagos_que_yo_hago_INFORME_UNICO.txt": 2,
+      "09.11.25_habla_de_Juandi_y_lo_imita_INFORME_UNICO.txt": 1,
+      "09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt": 7,
+      "20251027_Lars_va_a_gastar_lo_último_que_tiene_en_trading_INFORME_UNICO.txt": 5,
+      "20251027_Pide_q_financie_los_gastos_de_la_casa_INFORME_UNICO.txt": 4,
+      "20251103_día_que_perdió_su_dinero_apostando_y_le_dio_ataque_de_nervios_INFORME_UNICO.txt": 1,
+      "20251122_200209_INFORME_UNICO.txt": 4,
+      "20251124_garantía_y_cuestionamiento_sobre_nuestro_matrimonio__INFORME_UNICO.txt": 2,
+      "27.10.25_Lars_gasta_lo_último_que_tiene_en_trading_INFORME_UNICO.txt": 5,
+      "27.10.25_Pide_q_pague_gastos_de_casa_INFORME_UNICO.txt": 5
+    },
+    "victimizacion": {
+      "20251027_pide_pago_comida_por_algunas_semanas_INFORME_UNICO.txt": 1,
+      "09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt": 7,
+      "20251027_Pide_q_financie_los_gastos_de_la_casa_INFORME_UNICO.txt": 1,
+      "20251122_194222_INFORME_UNICO.txt": 1,
+      "20251122_200209_INFORME_UNICO.txt": 1,
+      "20251124_garantía_y_cuestionamiento_sobre_nuestro_matrimonio__INFORME_UNICO.txt": 1,
+      "23.09.25_Lars_me_grito_horrible_y_maltrato_sicológico_INFORME_UNICO.txt": 1,
+      "27.10.25_Pide_q_pague_gastos_de_casa_INFORME_UNICO.txt": 1
+    },
+    "minimizacion_esfuerzos": {
+      "20251027_pide_pago_comida_por_algunas_semanas_INFORME_UNICO.txt": 3,
+      "09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt": 3,
+      "20250923_PART_1_Lars_maltrato_sicológico_INFORME_UNICO.txt": 15,
+      "20251027_Pide_q_financie_los_gastos_de_la_casa_INFORME_UNICO.txt": 3,
+      "20251122_194222_INFORME_UNICO.txt": 1,
+      "20251122_200209_INFORME_UNICO.txt": 1,
+      "20251124_garantía_y_cuestionamiento_sobre_nuestro_matrimonio__INFORME_UNICO.txt": 1,
+      "23.09.25_Lars_me_grito_horrible_y_maltrato_sicológico_INFORME_UNICO.txt": 14,
+      "27.10.25_Pide_q_pague_gastos_de_casa_INFORME_UNICO.txt": 2
+    },
+    "culpabilizacion": {
+      "08.11.25_Lars_nos_acusa_de_atrapar_su_pared_del_baño_INFORME_UNICO.txt": 1,
+      "08.11.25_Lars_nos_acusa_de_malograr_su_pared_del_baño_INFORME_UNICO.txt": 1,
+      "09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt": 3,
+      "20250923_PART_1_Lars_maltrato_sicológico_INFORME_UNICO.txt": 2,
+      "20251030_151817_INFORME_UNICO.txt": 1,
+      "20251122_194222_INFORME_UNICO.txt": 2,
+      "20251122_200209_INFORME_UNICO.txt": 3,
+      "20251124_garantía_y_cuestionamiento_sobre_nuestro_matrimonio__INFORME_UNICO.txt": 1,
+      "20251202_lars_nos_acusa_nuevamente_mi_presión_vuela_INFORME_UNICO.txt": 2,
+      "23.09.25_Lars_me_grito_horrible_y_maltrato_sicológico_INFORME_UNICO.txt": 2,
+      "30_10.25_reunión_con_la_psicóloga_del_ayuntamiento_INFORME_UNICO.txt": 1
+    },
+    "critica_hijos": {
+      "08.11.25_Lars_nos_acusa_de_atrapar_su_pared_del_baño_INFORME_UNICO.txt": 1,
+      "08.11.25_Lars_nos_acusa_de_malograr_su_pared_del_baño_INFORME_UNICO.txt": 1,
+      "09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt": 3,
+      "10.11.25_sigue_torturándome_psicológicamente_diciendo_que_mi_hijo_es_un_mentiroso_INFORME_UNICO.txt": 1,
+      "20251122_200209_INFORME_UNICO.txt": 1,
+      "20251202_Acusa_q_Juandi_por_3ra_vez_INFORME_UNICO.txt": 1
+    },
+    "amenazas_abandono": {
+      "09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt": 1,
+      "20250923_PART_1_Lars_maltrato_sicológico_INFORME_UNICO.txt": 1,
+      "20251124_garantía_y_cuestionamiento_sobre_nuestro_matrimonio__INFORME_UNICO.txt": 4,
+      "20251202_Acusa_q_Juandi_por_3ra_vez_INFORME_UNICO.txt": 1,
+      "23.09.25_Lars_me_grito_horrible_y_maltrato_sicológico_INFORME_UNICO.txt": 1,
+      "241125_Lars_amenaza_Alcohol_y_reporte_para_Q_quiten_a_mis_hijos_INFORME_UNICO.txt": 2
+    },
+    "acusaciones_problemas_hogar": {
+      "09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt": 1,
+      "20251122_200209_INFORME_UNICO.txt": 1,
+      "20251201_Acusa_a_mis_hijos_de_gastar_su_champú_y_tirar_papel_higiénico_por_la_venta_INFORME_UNICO.txt": 1
+    },
+    "amenazas": {
+      "241125_Lars_amenaza_Alcohol_y_reporte_para_Q_quiten_a_mis_hijos_INFORME_UNICO.txt": 5
+    }
+  },
+  "patrones_detallados": {
+    "20251027_080920_INFORME_UNICO.txt": {
+      "manipulacion_financiera": [
+        {
+          "patron": "don't have.*money",
+          "contexto": "people they say now, they make a story that they don't have the money.\n[03:14] But it's not true.\n[03:24] I don't know",
+          "match": "don't have the money"
+        },
+        {
+          "patron": "trading",
+          "contexto": "[02:33] But we have to find some money to do the trading.\n[02:37] Mm-hmm.\n[02:46] I don't see any other wa",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "ut for other size you want to invest in this, the trading,\n[25:23] ...but you know that there are some risk",
+          "match": "trading"
+        },
+        {
+          "patron": "lost.*money",
+          "contexto": "Maybe you are two nirbles and stress because you lost a lot of money.\n[07:25] Of course, I am with strength.\n[07:31] B",
+          "match": "lost a lot of money"
+        },
+        {
+          "patron": "lost.*money",
+          "contexto": "wn children.\n[29:29] The support this way, I also lost those money as an income.\n[29:34] So, actually, it's maybe th",
+          "match": "lost those money"
+        }
+      ]
+    },
+    "20251027_085207_INFORME_UNICO.txt": {
+      "manipulacion_financiera": [
+        {
+          "patron": "trading",
+          "contexto": "it's the only way\n[00:21] With this\n[00:30] That trading\n[00:42] Of course if there is a little job in my",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "We have to go like this\n[01:16] But you know that trading is not a job\n[01:20] And you have the control wit",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "s not a job\n[01:20] And you have the control with trading\n[01:24] It's in reality you have the control\n[01:",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "thing is that\n[02:00] When you think I can do the trading on my own\n[02:06] And now please listen I want yo",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "n this situation now\n[04:18] I have to follow the trading signals\n[04:22] Do the two trades today\n[04:24] S",
+          "match": "trading"
+        }
+      ]
+    },
+    "20251027_pide_pago_comida_por_algunas_semanas_INFORME_UNICO.txt": {
+      "manipulacion_financiera": [
+        {
+          "patron": "don't have.*money",
+          "contexto": "t David Carr.\n[33:42] It's credit.\n[33:44] So you don't have the money?\n[33:46] I don't know what means with David and c",
+          "match": "don't have the money"
+        },
+        {
+          "patron": "spend.*money",
+          "contexto": "number one.\n[20:10] When I say share, I don't say spend money.\n[20:14] I say share maybe.\n[20:16] But I respect",
+          "match": "spend money"
+        },
+        {
+          "patron": "trading",
+          "contexto": "do all the food in the same time I have to do the trading.\n[21:03] And it was impossible for me to go to th",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "ion.\n[29:03] No, I mean that I can be involved in trading things\n[29:11] because it's not my knowledge.\n[29",
+          "match": "trading"
+        }
+      ],
+      "victimizacion": [
+        {
+          "patron": "I don't want to live",
+          "contexto": "a fire through this plate and I am away.\n[44:24] I don't want to live that life.\n[44:28] I am going to continue with my",
+          "match": "i don't want to live"
+        }
+      ],
+      "minimizacion_esfuerzos": [
+        {
+          "patron": "you don't.*anything",
+          "contexto": "4:36] I don't want you to look at me and say that you don't do anything here.\n[14:46] You need to cook, you need to do th",
+          "match": "you don't do anything"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "arket you see, it goes.\n[16:56] Okay?\n[16:58] And I can't do two hours of cooking when I don't know what's happening here with my m",
+          "match": "i can't do two hours of cooking"
+        },
+        {
+          "patron": "I.*doing.*best",
+          "contexto": "yes?\n[17:22] Of course.\n[17:24] And you know that I am doing my best.\n[17:27] I am happy because I am...\n[17:29] I don",
+          "match": "i am doing my best"
+        }
+      ]
+    },
+    "04.11.25_Audio_trading_lars_y_pagos_que_yo_hago_INFORME_UNICO.txt": {
+      "manipulacion_financiera": [
+        {
+          "patron": "don't have.*money",
+          "contexto": "8] I need you to understand how I feel.\n[09:14] I don't have the money to take care of all the things that I would like",
+          "match": "don't have the money"
+        },
+        {
+          "patron": "lost.*money",
+          "contexto": "lah blah blah. Many years finally.\n[07:37] I just lost my life, my opportunities and my money. That's not a life.\n[07:50] We need to do a plan.",
+          "match": "lost my life, my opportunities and my money"
+        }
+      ]
+    },
+    "08.11.25_Lars_nos_acusa_de_atrapar_su_pared_del_baño_INFORME_UNICO.txt": {
+      "culpabilizacion": [
+        {
+          "patron": "you.*problem",
+          "contexto": "ple have been in this house?\n[01:57] Anybody, but you are doing a problem?\n[02:00] Okay.\n[02:01] I ask you a question.\n[02:",
+          "match": "you are doing a problem"
+        }
+      ],
+      "critica_hijos": [
+        {
+          "patron": "he.*liar",
+          "contexto": "t was not like this.\n[01:02] You are a firm that they are liar.\n[01:05] Okay.\n[01:06] Can you...\n[01:07] Somewha",
+          "match": "hey are liar"
+        }
+      ]
+    },
+    "08.11.25_Lars_nos_acusa_de_malograr_su_pared_del_baño_INFORME_UNICO.txt": {
+      "culpabilizacion": [
+        {
+          "patron": "you.*problem",
+          "contexto": "ple have been in this house?\n[01:57] Anybody, but you are doing a problem?\n[02:00] Okay.\n[02:01] I ask you a question.\n[02:",
+          "match": "you are doing a problem"
+        }
+      ],
+      "critica_hijos": [
+        {
+          "patron": "he.*liar",
+          "contexto": "t was not like this.\n[01:02] You are a firm that they are liar.\n[01:05] Okay.\n[01:06] Can you...\n[01:07] Somewha",
+          "match": "hey are liar"
+        }
+      ]
+    },
+    "09.11.25_habla_de_Juandi_y_lo_imita_INFORME_UNICO.txt": {
+      "manipulacion_financiera": [
+        {
+          "patron": "spend.*money",
+          "contexto": "work to earn a little money.\n[07:17] And then you spend a lot of money off wasting.\n[07:20] No, I am paying that.\n[07:23",
+          "match": "spend a lot of money"
+        }
+      ]
+    },
+    "09.11.25_Me_responsabiliza_x_todo_y_dice_q_no_quiere_vivir_INFORME_UNICO.txt": {
+      "manipulacion_financiera": [
+        {
+          "patron": "don't have.*money",
+          "contexto": "Who is going to pay for the internet?\n[08:29] We don't have the money, Claudia.\n[08:31] Yeah.\n[08:33] And you want to g",
+          "match": "don't have the money"
+        },
+        {
+          "patron": "don't have.*money",
+          "contexto": "want to go to a party to 2000 homeless?\n[08:37] I don't have that money.\n[08:39] I don't want to go to any party.\n[08:41]",
+          "match": "don't have that money"
+        },
+        {
+          "patron": "who.*going to pay",
+          "contexto": ".\n[08:17] Yes.\n[08:18] The living me.\n[08:21] But who is going to pay?\n[08:23] I'm going to pay.\n[08:25] Who is going t",
+          "match": "who is going to pay"
+        },
+        {
+          "patron": "who.*going to pay",
+          "contexto": "s going to pay?\n[08:23] I'm going to pay.\n[08:25] Who is going to pay for the telephone?\n[08:27] Who is going to pay fo",
+          "match": "who is going to pay"
+        },
+        {
+          "patron": "who.*going to pay",
+          "contexto": "5] Who is going to pay for the telephone?\n[08:27] Who is going to pay for the internet?\n[08:29] We don't have the money",
+          "match": "who is going to pay"
+        },
+        {
+          "patron": "lost.*money",
+          "contexto": "investing in that crypto.\n[07:07] I know that you lost the money there, but it is not our fault.\n[07:14] I know th",
+          "match": "lost the money"
+        },
+        {
+          "patron": "crypto",
+          "contexto": "e you want money for continuing investing in that crypto.\n[07:07] I know that you lost the money there, bu",
+          "match": "crypto"
+        }
+      ],
+      "culpabilizacion": [
+        {
+          "patron": "you.*problem",
+          "contexto": "] I am accepting your words.\n[02:34] It's because you don't see this here as a problem.\n[02:37] What do you think if he was...\n[02:40] L",
+          "match": "you don't see this here as a problem"
+        },
+        {
+          "patron": "you.*problem",
+          "contexto": "ccept that?\n[03:04] So who has a problem?\n[03:08] You have a problem.\n[03:14] You are all a protected feminist situati",
+          "match": "you have a problem"
+        },
+        {
+          "patron": "you.*destroying",
+          "contexto": "as a problem?\n[03:08] You have a problem.\n[03:14] You are all a protected feminist situation, which your children is destroying them.\n[03:20] But you don't recognize.\n[03:22] An",
+          "match": "you are all a protected feminist situation, which your children is destroying"
+        }
+      ],
+      "victimizacion": [
+        {
+          "patron": "I don't want to live",
+          "contexto": "essed.\n[06:16] Yes.\n[06:17] And I think every day I don't want to live anymore.\n[06:24] I don't want to live anymore.\n[0",
+          "match": "i don't want to live"
+        },
+        {
+          "patron": "I don't want to live",
+          "contexto": "k every day I don't want to live anymore.\n[06:24] I don't want to live anymore.\n[06:28] Please, take it.\n[06:30] Two wor",
+          "match": "i don't want to live"
+        },
+        {
+          "patron": "I am so stressed",
+          "contexto": "05:49] This is not a life for me Claudia.\n[05:52] I am so stressed.\n[05:59] Yes.\n[06:02] I am so stressed.\n[06:07] Y",
+          "match": "i am so stressed"
+        },
+        {
+          "patron": "I am so stressed",
+          "contexto": "a.\n[05:52] I am so stressed.\n[05:59] Yes.\n[06:02] I am so stressed.\n[06:07] Yes.\n[06:09] I am so stressed.\n[06:12] Y",
+          "match": "i am so stressed"
+        },
+        {
+          "patron": "I am so stressed",
+          "contexto": "s.\n[06:02] I am so stressed.\n[06:07] Yes.\n[06:09] I am so stressed.\n[06:12] Yes.\n[06:13] I am so stressed.\n[06:16] Y",
+          "match": "i am so stressed"
+        },
+        {
+          "patron": "I am so stressed",
+          "contexto": "s.\n[06:09] I am so stressed.\n[06:12] Yes.\n[06:13] I am so stressed.\n[06:16] Yes.\n[06:17] And I think every day I don",
+          "match": "i am so stressed"
+        },
+        {
+          "patron": "without any problem",
+          "contexto": ", very uncomplicated.\n[04:50] Very quiet.\n[04:52] Without any problem.\n[04:55] Nothing.\n[04:59] Yes.\n[05:01] I want to,",
+          "match": "without any problem"
+        }
+      ],
+      "critica_hijos": [
+        {
+          "patron": "your.*son",
+          "contexto": "change because I say a few words.\n[03:59] You are your own person, you do whatever you want.\n[04:02] You are the bi",
+          "match": "your own person"
+        },
+        {
+          "patron": "protecting him",
+          "contexto": "02:19] I am accepting your words.\n[02:21] You are protecting him, no matter what he does.\n[02:24] I am accepting y",
+          "match": "protecting him"
+        },
+        {
+          "patron": "he can do whatever",
+          "contexto": "cept that.\n[02:12] Because if you are little boy, he can do whatever he wants.\n[02:16] If he wants to piss in the corn",
+          "match": "he can do whatever"
+        }
+      ],
+      "minimizacion_esfuerzos": [
+        {
+          "patron": "you don't.*anything",
+          "contexto": "my children.\n[04:33] But we are a family.\n[04:35] You don't need to do anything for me.\n[04:37] Zero.\n[04:39] I can do my own lit",
+          "match": "you don't need to do anything"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "04:24] I am trying to do the best for us.\n[04:26] I am cooking all day.\n[04:28] But you also have two children.",
+          "match": "i am cooking"
+        },
+        {
+          "patron": "I.*doing.*best",
+          "contexto": "ant.\n[04:08] We are here, we are in them.\n[04:11] I am doing my best.\n[04:14] You also told me those words.\n[04:16] So",
+          "match": "i am doing my best"
+        }
+      ],
+      "amenazas_abandono": [
+        {
+          "patron": "go.*we can stay",
+          "contexto": "o share together,\n[00:15] I am agree that you can go and we can stay here.\n[00:22] You can spend your time with your f",
+          "match": "go and we can stay"
+        }
+      ],
+      "acusaciones_problemas_hogar": [
+        {
+          "patron": "destroying my house",
+          "contexto": "] All the money I can.\n[07:41] And I see a person destroying my house without accepting or he doesn't care.\n[07:47] Sim",
+          "match": "destroying my house"
+        }
+      ]
+    },
+    "10.11.25_sigue_torturándome_psicológicamente_diciendo_que_mi_hijo_es_un_mentiroso_INFORME_UNICO.txt": {
+      "critica_hijos": [
+        {
+          "patron": "he can do whatever",
+          "contexto": "no other people.\n[04:21] Yeah, but...\n[04:24] Now he can do whatever he wants because he is protected from his mother.",
+          "match": "he can do whatever"
+        }
+      ]
+    },
+    "20250923_PART_1_Lars_maltrato_sicológico_INFORME_UNICO.txt": {
+      "culpabilizacion": [
+        {
+          "patron": "because of you",
+          "contexto": "ay, I'm going to put what can we are going to eat because of you?\n[10:34] Yes.\n[10:35] I can't put it.\n[10:37] Hon",
+          "match": "because of you"
+        },
+        {
+          "patron": "you.*problem",
+          "contexto": "We eat rice.\n[06:44] This is only one.\n[06:47] If you have all those problems with the food, I think you should take more acti",
+          "match": "you have all those problem"
+        }
+      ],
+      "minimizacion_esfuerzos": [
+        {
+          "patron": "you don't.*anything",
+          "contexto": "bad washing,\n[23:16] I can do all alone with all. You don't need to do anything for me.\n[23:23] It's very, very, very simple for",
+          "match": "you don't need to do anything"
+        },
+        {
+          "patron": "I.*working all.*day",
+          "contexto": "[05:16] You don't understand what I say.\n[05:19] I am working all the day.\n[05:22] I am running in the self-spiting food.\n[",
+          "match": "i am working all the day"
+        },
+        {
+          "patron": "I.*working all.*day",
+          "contexto": "dn't prepare anything.\n[30:10] No plants.\n[30:12] I am working all the day.\n[30:14] Coming home to pay all the responsibilit",
+          "match": "i am working all the day"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "don't have to work anymore because you...\n[01:25] I don't know, but I am cooking the rice and you say, why are you cooking the rice many foods?\n[01:30] No, I don't say that",
+          "match": "i don't know, but i am cooking the rice and you say, why are you cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "ely because we are not fighting.\n[01:57] No, the rice is cooking too much.\n[02:01] No, it's okay.\n[02:03] Okay, on",
+          "match": "ice is cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "ad, it's half-water.\n[02:12] Yes, please.\n[02:15] I have been cooking in 35 years.\n[02:20] Yes, but you don't just cook",
+          "match": "i have been cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "cause I couldn't stay here.\n[04:10] The last week I was cooking many days.\n[04:14] But why do you say that?\n[04:1",
+          "match": "i was cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "t week is not today.\n[04:29] Yeah, but...\n[04:31] I was cooking the last 35 years.\n[04:33] I was working 80 hours",
+          "match": "i was cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "he best opportunities.\n[08:01] When you were sleeping outside, I was cooking.\n[08:08] Was you expecting that I was riding home",
+          "match": "ing outside, i was cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": ":30] You don't need to be stupid man.\n[23:00] And if it's a problem with the cleaning and the cooking and the things I can do for my own bad washing,\n[",
+          "match": "if it's a problem with the cleaning and the cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "do that.\n[23:36] And just do it my way.\n[24:06] Like sandal you could prepare the potatoes. You know we need potatoes every day for the cooking.\n[24:31] And I was cooking the day you put it.\n[2",
+          "match": "ike sandal you could prepare the potatoes. you know we need potatoes every day for the cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "d potatoes every day for the cooking.\n[24:31] And I was cooking the day you put it.\n[24:38] And other days now it",
+          "match": "i was cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "is frying. You go down again.\n[28:35] That's why I say cooking is about the feeling.\n[28:42] Like all the things",
+          "match": "i say cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "er ready because it's out now.\n[32:02] That's why I say again cooking is not about minutes.\n[32:06] It's about a feelin",
+          "match": "i say again cooking"
+        },
+        {
+          "patron": "sitting.*not making",
+          "contexto": "11:44] I just want to do this.\n[12:19] Of course, sitting there is not making food.\n[12:41] We are not going to have the evenin",
+          "match": "sitting there is not making"
+        }
+      ],
+      "amenazas_abandono": [
+        {
+          "patron": "sleep in other place",
+          "contexto": "go again. Then you can do it again.\n[25:38] I can sleep in other place. It's not a problem. You have to wait for me.\n[25",
+          "match": "sleep in other place"
+        }
+      ]
+    },
+    "20251027_Lars_va_a_gastar_lo_último_que_tiene_en_trading_INFORME_UNICO.txt": {
+      "manipulacion_financiera": [
+        {
+          "patron": "trading",
+          "contexto": "it's the only way\n[00:21] With this\n[00:30] That trading\n[00:42] Of course if there is a little job in my",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "We have to go like this\n[01:16] But you know that trading is not a job\n[01:20] And you have the control wit",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "s not a job\n[01:20] And you have the control with trading\n[01:24] It's in reality you have the control\n[01:",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "thing is that\n[02:00] When you think I can do the trading on my own\n[02:06] And now please listen I want yo",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "n this situation now\n[04:18] I have to follow the trading signals\n[04:22] Do the two trades today\n[04:24] S",
+          "match": "trading"
+        }
+      ]
+    },
+    "20251027_Pide_q_financie_los_gastos_de_la_casa_INFORME_UNICO.txt": {
+      "manipulacion_financiera": [
+        {
+          "patron": "don't have.*money",
+          "contexto": "card.\n[33:42] It is a credit card.\n[33:44] So you don't have the money?\n[33:46] No.\n[33:47] I don't know what means a de",
+          "match": "don't have the money"
+        },
+        {
+          "patron": "spend.*money",
+          "contexto": "number one.\n[20:09] When I say share, I don't say spend money.\n[20:13] I say share maybe.\n[20:15] But I respect",
+          "match": "spend money"
+        },
+        {
+          "patron": "trading",
+          "contexto": "should do all the food.\n[21:00] I have to do the trading.\n[21:02] And it was impossible for me to know tha",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "ion.\n[29:02] No, I mean that I can be involved in trading things because it's not my knowledge.\n[29:11] So",
+          "match": "trading"
+        }
+      ],
+      "victimizacion": [
+        {
+          "patron": "I don't want to live",
+          "contexto": "put a fire for this plate and I am away.\n[44:23] I don't want to live that life.\n[44:27] I am going to continue with my",
+          "match": "i don't want to live"
+        }
+      ],
+      "minimizacion_esfuerzos": [
+        {
+          "patron": "you don't.*anything",
+          "contexto": "4:35] I don't want you to look at me and say that you don't do anything here.\n[14:44] You need to cook, you need to do th",
+          "match": "you don't do anything"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "arket you see,\n[16:53] it goes, okay?\n[16:57] And I can't do two hours of cooking\n[17:03] when I don't know what's happening here w",
+          "match": "i can't do two hours of cooking"
+        },
+        {
+          "patron": "I.*doing.*best",
+          "contexto": "yes?\n[17:21] Of course.\n[17:23] And you know that I am doing my best.\n[17:26] I am happy because I am...\n[17:28] I don",
+          "match": "i am doing my best"
+        }
+      ]
+    },
+    "20251030_151817_INFORME_UNICO.txt": {
+      "culpabilizacion": [
+        {
+          "patron": "you.*problem",
+          "contexto": "9] he can it sounds like he can solve the problem you know he can solve the bus problem but he can\n[10:06] he knows what to do about call",
+          "match": "you know he can solve the bus problem"
+        }
+      ]
+    },
+    "20251103_día_que_perdió_su_dinero_apostando_y_le_dio_ataque_de_nervios_INFORME_UNICO.txt": {
+      "manipulacion_financiera": [
+        {
+          "patron": "trading",
+          "contexto": "ys more safe.\n[02:37] Not with this.\n[02:40] With trading.\n[02:42] No, no, no, no.\n[02:43] I don't know wha",
+          "match": "trading"
+        }
+      ]
+    },
+    "20251122_194222_INFORME_UNICO.txt": {
+      "culpabilizacion": [
+        {
+          "patron": "you.*problem",
+          "contexto": "we had a big problem the last night.\n[05:12] When you were talking about this, I was a problem.\n[05:16] And I sure that any in the house wants t",
+          "match": "you were talking about this, i was a problem"
+        },
+        {
+          "patron": "you.*problem",
+          "contexto": "as a beginning, please.\n[11:40] I understand that you have problems with your economy now.\n[11:44] And I accept when",
+          "match": "you have problem"
+        }
+      ],
+      "victimizacion": [
+        {
+          "patron": "I am so stressed",
+          "contexto": "8] It is not about doing things, Claudia.\n[11:05] I am so stressed about this life.\n[11:09] I am mentally...\n[11:15]",
+          "match": "i am so stressed"
+        }
+      ],
+      "minimizacion_esfuerzos": [
+        {
+          "patron": "I.*cooking",
+          "contexto": "Of course I am doing all the things here.\n[11:22] I am cleaning and cooking my English in your clothes.\n[11:25] I am doing al",
+          "match": "i am cleaning and cooking"
+        }
+      ]
+    },
+    "20251122_200209_INFORME_UNICO.txt": {
+      "manipulacion_financiera": [
+        {
+          "patron": "don't have.*money",
+          "contexto": "hat.\n[26:01] It's just another reality.\n[26:03] I don't have money, Claudia.\n[26:08] But leave this.\n[26:10] I am no",
+          "match": "don't have money"
+        },
+        {
+          "patron": "trading",
+          "contexto": "run the company.\n[06:26] I lost the money and the trading.\n[06:28] I lost my temperance.\n[06:31] What possi",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "Claudia.\n[29:01] First of all, lift this group of trading because you want to sell your machines, you want",
+          "match": "trading"
+        },
+        {
+          "patron": "lost.*money",
+          "contexto": "onomy.\n[06:25] I can't run the company.\n[06:26] I lost the money and the trading.\n[06:28] I lost my temperance.\n[0",
+          "match": "lost the money"
+        }
+      ],
+      "culpabilizacion": [
+        {
+          "patron": "you.*responsible",
+          "contexto": "[13:20] And now I say, OK.\n[13:22] Maybe.\n[13:27] You are not sure about your feelings because I am a responsible person with my feelings.\n[13:36] I have not seen",
+          "match": "you are not sure about your feelings because i am a responsible"
+        },
+        {
+          "patron": "you.*problem",
+          "contexto": "ork, I am going to help you.\n[25:48] I don't want you to have problems with the economy.\n[25:55] I know, Claudia.\n[25:5",
+          "match": "you to have problem"
+        },
+        {
+          "patron": "you.*destroying",
+          "contexto": "th you now as a couple.\n[14:03] I am talking with you now that you can't do that with me because you are destroying my feelings.\n[14:11] Or I am respect you.\n[14:14]",
+          "match": "you now that you can't do that with me because you are destroying"
+        }
+      ],
+      "victimizacion": [
+        {
+          "patron": "I am so stressed",
+          "contexto": "things inside of my head with political.\n[26:38] I am so stressed, I want to run away, Claudia.\n[26:42] Give me my",
+          "match": "i am so stressed"
+        }
+      ],
+      "critica_hijos": [
+        {
+          "patron": "your.*son",
+          "contexto": "OK.\n[13:22] Maybe.\n[13:27] You are not sure about your feelings because I am a responsible person with my feelings.\n[13:36] I have not seen for me",
+          "match": "your feelings because i am a responsible person"
+        }
+      ],
+      "minimizacion_esfuerzos": [
+        {
+          "patron": "I.*doing.*best",
+          "contexto": "11:20] be the opportunity to be here.\n[11:24] But I am doing all my best because I have feelings for you.\n[11:31] But I th",
+          "match": "i am doing all my best"
+        }
+      ],
+      "acusaciones_problemas_hogar": [
+        {
+          "patron": "destroying my house",
+          "contexto": "n't want to criticize.\n[03:55] But I can't accept destroying my house and you have a boy I know who do it.\n[04:03] And",
+          "match": "destroying my house"
+        }
+      ]
+    },
+    "20251124_garantía_y_cuestionamiento_sobre_nuestro_matrimonio__INFORME_UNICO.txt": {
+      "manipulacion_financiera": [
+        {
+          "patron": "don't have.*money",
+          "contexto": "pay for the internet for the telephone.\n[52:32] I don't have enough money.\n[52:34] No, I ask two lines.\n[52:37] And then it",
+          "match": "don't have enough money"
+        },
+        {
+          "patron": "don't have.*money",
+          "contexto": "s and do all your best.\n[75:54] And then I say, I don't have any money.\n[75:58] And you say, I can't because I don't hav",
+          "match": "don't have any money"
+        }
+      ],
+      "culpabilizacion": [
+        {
+          "patron": "you.*problem",
+          "contexto": "ve in the world, I understand.\n[64:38] Because if you have the money, you have a problem.\n[64:42] Of course not, if I had a lot of money,",
+          "match": "you have the money, you have a problem"
+        }
+      ],
+      "victimizacion": [
+        {
+          "patron": "without any problem",
+          "contexto": "6] So I need...\n[54:28] For estate.\n[54:29] Okay, without any problem with two thousand corners, I have enough for us.",
+          "match": "without any problem"
+        }
+      ],
+      "minimizacion_esfuerzos": [
+        {
+          "patron": "you don't.*anything",
+          "contexto": "maybe you don't...\n[35:46] You received this and you don't want anything.\n[35:49] No.\n[35:51] I really didn't see it, Clau",
+          "match": "you don't want anything"
+        }
+      ],
+      "amenazas_abandono": [
+        {
+          "patron": "I.*leave",
+          "contexto": "ou show that very clearly.\n[25:43] But you are taking the decision to leave me.\n[25:47] You are taking the decision to broke",
+          "match": "ing the decision to leave"
+        },
+        {
+          "patron": "I.*leave",
+          "contexto": "l you can get out from anyone to you.\n[32:40] No. I don't decide to leave you.\n[32:44] This is the point.\n[32:46] Yes.\n[32:",
+          "match": "i don't decide to leave"
+        },
+        {
+          "patron": "I.*leave",
+          "contexto": "In reality.\n[35:20] Yes.\n[35:21] You can.\n[35:22] I love you, but you decide to leave me.\n[35:25] Okay.\n[35:26] And I...\n[35:27] Not ab",
+          "match": "i love you, but you decide to leave"
+        },
+        {
+          "patron": "I.*leave",
+          "contexto": "think you have a relationship with Lars.\n[36:54] I want to have any leave for something here.\n[36:57] I can't take for that",
+          "match": "i want to have any leave"
+        }
+      ]
+    },
+    "20251201_Acusa_a_mis_hijos_de_gastar_su_champú_y_tirar_papel_higiénico_por_la_venta_INFORME_UNICO.txt": {
+      "acusaciones_problemas_hogar": [
+        {
+          "patron": "toilet paper.*outside",
+          "contexto": "there's also happening something strange in this toilet paper outside the house.\n[01:20] I pick up many times.\n[01:23]",
+          "match": "toilet paper outside"
+        }
+      ]
+    },
+    "20251202_Acusa_q_Juandi_por_3ra_vez_INFORME_UNICO.txt": {
+      "critica_hijos": [
+        {
+          "patron": "your.*son",
+          "contexto": "I know.\n[02:39] No, no, no, no...\n[02:41] What's your name, son?\n[02:42] You haven't seen it.\n[02:44] What's your",
+          "match": "your name, son"
+        }
+      ],
+      "amenazas_abandono": [
+        {
+          "patron": "I.*leave",
+          "contexto": "Okay.\n[08:42] And now...\n[08:43] Maybe you are doing this because you want to accuse us to leave the house.\n[08:48] Yeah, but...\n[08:50] No.\n[08:5",
+          "match": "ing this because you want to accuse us to leave"
+        }
+      ]
+    },
+    "20251202_lars_nos_acusa_nuevamente_mi_presión_vuela_INFORME_UNICO.txt": {
+      "culpabilizacion": [
+        {
+          "patron": "you.*problem",
+          "contexto": "] Yeah.\n[02:16] Go.\n[02:17] To cast them.\n[02:18] You know that I can't drive because I have a problem.\n[02:21] And you have a friend you can call.\n[02:",
+          "match": "you know that i can't drive because i have a problem"
+        },
+        {
+          "patron": "you.*problem",
+          "contexto": "not.\n[02:56] Because for that exactly the reason you have a problem with your own voice.\n[03:05] Because if your own",
+          "match": "you have a problem"
+        }
+      ]
+    },
+    "23.09.25_Lars_me_grito_horrible_y_maltrato_sicológico_INFORME_UNICO.txt": {
+      "culpabilizacion": [
+        {
+          "patron": "because of you",
+          "contexto": "ay, I'm going to put what can we are going to eat because of you?\n[10:34] Yes.\n[10:35] I can't put it.\n[10:37] Hon",
+          "match": "because of you"
+        },
+        {
+          "patron": "you.*problem",
+          "contexto": "We eat rice.\n[06:44] This is only one.\n[06:47] If you have all those problems with the food, I think you should take more acti",
+          "match": "you have all those problem"
+        }
+      ],
+      "victimizacion": [
+        {
+          "patron": "nightmare for me",
+          "contexto": "nt to explain my life.\n[29:42] Oh, oh, oh, it's a nightmare for me to explain every day.\n[29:47] Why?\n[29:49] How?\n[",
+          "match": "nightmare for me"
+        }
+      ],
+      "minimizacion_esfuerzos": [
+        {
+          "patron": "you don't.*anything",
+          "contexto": "ing.\n[23:16] I can do all alone with all.\n[23:19] You don't need to do anything for me.\n[23:26] It's very, very, very simple for",
+          "match": "you don't need to do anything"
+        },
+        {
+          "patron": "I.*working all.*day",
+          "contexto": "[05:16] You don't understand what I say.\n[05:19] I am working all the day.\n[05:22] I am running in the self-spiting food.\n[",
+          "match": "i am working all the day"
+        },
+        {
+          "patron": "I.*working all.*day",
+          "contexto": "dn't prepare anything.\n[30:10] No plants.\n[30:12] I'm working all the day coming home to take all the responsibility to buy",
+          "match": "i'm working all the day"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "don't have to work anymore because you...\n[01:25] I don't know, but I am cooking the rice and you say, why are you cooking the rice many foods?\n[01:30] No, I don't say that",
+          "match": "i don't know, but i am cooking the rice and you say, why are you cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "ely because we are not fighting.\n[01:57] No, the rice is cooking too much.\n[02:01] No, it's okay.\n[02:03] Okay, on",
+          "match": "ice is cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "ad, it's half-water.\n[02:12] Yes, please.\n[02:15] I have been cooking in 35 years.\n[02:20] Yes, but you don't just cook",
+          "match": "i have been cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "cause I couldn't stay here.\n[04:10] The last week I was cooking many days.\n[04:14] But why do you say that?\n[04:1",
+          "match": "i was cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "t week is not today.\n[04:29] Yeah, but...\n[04:31] I was cooking the last 35 years.\n[04:33] I was working 80 hours",
+          "match": "i was cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "he best opportunities.\n[08:01] When you were sleeping outside, I was cooking.\n[08:08] Was you expecting that I was riding home",
+          "match": "ing outside, i was cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "n I'll just completely stew with man.\n[22:53] And if it's a problem with the cleaning and the cooking and the...\n[23:13] ...then anything I can do for",
+          "match": "if it's a problem with the cleaning and the cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "d potatoes every day for the cooking.\n[24:31] And I was cooking the...\n[24:34] ...the old days.\n[24:37] You could",
+          "match": "i was cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "ng.\n[28:29] You go down again.\n[28:36] That's why I say cooking is about a feeling.\n[28:42] Like all the things i",
+          "match": "i say cooking"
+        },
+        {
+          "patron": "I.*cooking",
+          "contexto": "over red because it's out now.\n[32:02] That's why I say again, cooking is not about minutes.\n[32:07] It's about a feelin",
+          "match": "i say again, cooking"
+        },
+        {
+          "patron": "sitting.*not making",
+          "contexto": "want to do this.\n[11:49] Okay.\n[12:19] Of course, sitting there is not making food.\n[12:40] We are not going to have the evenin",
+          "match": "sitting there is not making"
+        }
+      ],
+      "amenazas_abandono": [
+        {
+          "patron": "sleep in other place",
+          "contexto": "[25:34] Then you can't do it again.\n[25:38] I can sleep in other place.\n[25:41] It's not a problem.\n[25:42] You must hav",
+          "match": "sleep in other place"
+        }
+      ]
+    },
+    "241125_Lars_amenaza_Alcohol_y_reporte_para_Q_quiten_a_mis_hijos_INFORME_UNICO.txt": {
+      "amenazas": [
+        {
+          "patron": "report you",
+          "contexto": "e away.\n[02:21] And maybe if it continues, I will report you.\n[02:27] But I don't drink.\n[02:29] No, I just sa",
+          "match": "report you"
+        },
+        {
+          "patron": "report you",
+          "contexto": "seeing what was going on here.\n[05:32] They could report you immediately.\n[05:36] And you will lose your child",
+          "match": "report you"
+        },
+        {
+          "patron": "take.*children.*away",
+          "contexto": "n happen in a split of a second.\n[04:09] They can take your children away from you, like this Claudia.\n[04:15] And I will b",
+          "match": "take your children away"
+        },
+        {
+          "patron": "lose your children",
+          "contexto": "ould report you immediately.\n[05:36] And you will lose your children in a second, Claudia.\n[05:39] They will come here",
+          "match": "lose your children"
+        },
+        {
+          "patron": "lose.*in a second",
+          "contexto": "ould report you immediately.\n[05:36] And you will lose your children in a second, Claudia.\n[05:39] They will come here with the po",
+          "match": "lose your children in a second"
+        }
+      ],
+      "amenazas_abandono": [
+        {
+          "patron": "I.*moving away",
+          "contexto": "learly what I say.\n[01:39] I don't drink.\n[01:41] I am moving away from this house and property.\n[01:47] Are you lis",
+          "match": "i am moving away"
+        },
+        {
+          "patron": "I.*leave",
+          "contexto": "things that I can say to you,\n[03:41] you can go with me, drive to Alborz to leave me in the church.\n[03:47] Because I would like to",
+          "match": "ith me, drive to alborz to leave"
+        }
+      ]
+    },
+    "27.10.25_Lars_gasta_lo_último_que_tiene_en_trading_INFORME_UNICO.txt": {
+      "manipulacion_financiera": [
+        {
+          "patron": "trading",
+          "contexto": "it's the only way\n[00:21] With this\n[00:30] That trading\n[00:42] Of course if there is a little job in my",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "We have to go like this\n[01:16] But you know that trading is not a job\n[01:20] And you have the control wit",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "s not a job\n[01:20] And you have the control with trading\n[01:24] It's in reality you have the control\n[01:",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "thing is that\n[02:00] When you think I can do the trading on my own\n[02:06] And now please listen I want yo",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "n this situation now\n[04:18] I have to follow the trading signals\n[04:22] Do the two trades today\n[04:24] S",
+          "match": "trading"
+        }
+      ]
+    },
+    "27.10.25_Pide_q_pague_gastos_de_casa_INFORME_UNICO.txt": {
+      "manipulacion_financiera": [
+        {
+          "patron": "don't have.*money",
+          "contexto": "t David Carr.\n[33:42] It's credit.\n[33:44] So you don't have the money?\n[33:46] I don't know what means David and create",
+          "match": "don't have the money"
+        },
+        {
+          "patron": "spend.*money",
+          "contexto": "number one.\n[20:10] When I say share I don't say spend money.\n[20:14] I say share maybe. But I respect. I am t",
+          "match": "spend money"
+        },
+        {
+          "patron": "trading",
+          "contexto": "[12:53] The only thing is that I need to do this trading.\n[13:07] I will start and be very specific and fo",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "do all the food in the same time I have to do the trading.\n[21:02] And it was impossible for me to do that.",
+          "match": "trading"
+        },
+        {
+          "patron": "trading",
+          "contexto": "ion.\n[29:03] No, I mean that I can be involved in trading things because it's not my knowledge.\n[29:12] So",
+          "match": "trading"
+        }
+      ],
+      "victimizacion": [
+        {
+          "patron": "I don't want to live",
+          "contexto": "a fire through this plate and I am away.\n[44:24] I don't want to live that life.\n[44:28] I am going to continue with my",
+          "match": "i don't want to live"
+        }
+      ],
+      "minimizacion_esfuerzos": [
+        {
+          "patron": "I.*cooking",
+          "contexto": "ay.\n[16:52] The market, you see, it goes.\n[16:58] I can't do two hours of cooking when I don't know what's happening here with my m",
+          "match": "i can't do two hours of cooking"
+        },
+        {
+          "patron": "I.*doing.*best",
+          "contexto": "ad eyes?\n[17:22] Of course.\n[17:24] You know that I am doing my best.\n[17:28] I am just trying to be very honest that",
+          "match": "i am doing my best"
+        }
+      ]
+    },
+    "30_10.25_reunión_con_la_psicóloga_del_ayuntamiento_INFORME_UNICO.txt": {
+      "culpabilizacion": [
+        {
+          "patron": "you.*problem",
+          "contexto": "9] he can it sounds like he can solve the problem you know he can solve the bus problem but he can\n[10:06] he knows what to do about call",
+          "match": "you know he can solve the bus problem"
+        }
+      ]
+    }
+  }
+}

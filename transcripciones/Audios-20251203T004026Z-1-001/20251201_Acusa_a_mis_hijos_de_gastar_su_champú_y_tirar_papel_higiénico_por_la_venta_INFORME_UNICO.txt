@@ -1,0 +1,128 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20251201_Acusa a mis hijos de gastar su champú y tirar papel higiénico por la venta.m4a
+Duración: 2m 24s (144.00 segundos)
+Fecha del análisis: 2025-12-03 01:46:58
+Identificador único: ID_1764744418_20251201_Acusa a mis hijos de gastar su champú y tirar papel higiénico por la venta
+Idioma detectado: en
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] I use a lot of paper because I enter each 30 minutes and I have to clean myself.
+[00:10] But I'm not a lot of attention.
+[00:16] So let me see this.
+[00:22] There's nothing to say.
+[00:28] Because it's fun and fun and long, and fun and we have one piece because there's a few here.
+[00:35] I don't know when you want to use this, it's a string.
+[00:40] But I wonder if there's going to be water here.
+[00:43] And there was like this.
+[00:45] Minimal.
+[00:47] Minimal.
+[00:49] Yeah, that's insane.
+[00:51] This was for a long time and everybody was talking.
+[00:56] Take your meal.
+[00:58] And yesterday we were spying, and I said, I hope you don't need it.
+[01:01] Because we have.
+[01:02] But now we don't have it.
+[01:11] And there's also happening something strange in this toilet paper outside the house.
+[01:20] I pick up many times.
+[01:23] Maybe someone is putting out of the windows. I don't know who.
+[01:27] No, impossible.
+[01:29] Anybody know that?
+[01:30] No, okay, okay.
+[01:31] So where is it coming from?
+[01:35] No, because this is always close.
+[01:40] The window.
+[01:41] Yeah, but there's toilet in the outside.
+[01:44] I don't know why.
+[01:45] I pick up three times now.
+[01:47] And I see now it's again.
+[01:51] Maybe when that, I don't know, maybe when the camera's here, the bus for the trash, maybe some of the papers.
+[02:01] Normally not.
+[02:05] Yeah, but it's not the fault of my family.
+[02:11] No, of course not.
+[02:13] No, of course not.
+[02:16] It's the ghost.
+[02:19] Or maybe you.
+[02:21] Yeah, of course.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+No se detectaron agresiones dirigidas a víctimas específicas.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20251201_Acusa a mis hijos de gastar su champú y tirar papel higiénico por la venta.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 2m 24s en el idioma en.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: No se detectaron agresiones dirigidas a víctimas específicas.
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:46:58
+================================================================================

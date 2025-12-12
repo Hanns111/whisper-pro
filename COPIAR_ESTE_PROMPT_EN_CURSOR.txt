@@ -1,0 +1,202 @@
+═══════════════════════════════════════════════════════════════════════════════
+INSTRUCCIONES: Copia todo el texto de abajo y pégalo directamente en Cursor IDE
+═══════════════════════════════════════════════════════════════════════════════
+
+CONTEXTO CRÍTICO DEL CASO:
+
+SOLICITANTE: Claudia María del Rosario Sánchez Robles
+AGRESOR: Lars Erling Sørensen
+HIJOS DE CLAUDIA:
+- Juan Diego Contreras Sánchez (dentro del espectro autista - TEA)
+- José Carlos Contreras Sánchez (Trastorno de Déficit de Atención - TDA)
+
+PROPÓSITO DEL INFORME:
+Este informe forense demuestra que Lars Erling Sørensen tiene un PATRÓN DE COMPORTAMIENTO
+ABUSIVO SISTEMÁTICO que ya ejerció con su ex esposa Rikke Larsen en Dinamarca (caso legal
+documentado en PDFs) y que AHORA REPITE con Claudia María del Rosario Sánchez Robles
+(documentado en grabaciones de audio).
+
+Los PDFs del caso legal danés sirven como ANTECEDENTE PROBATORIO para REFORZAR que:
+1. NO es un caso aislado con Claudia
+2. Es un PATRÓN SISTEMÁTICO de manipulación psicológica
+3. Lars ha ejercido el MISMO comportamiento abusivo con DOS parejas diferentes
+4. El comportamiento se mantiene consistente a lo largo de 10+ años
+
+NOTA IMPORTANTE SOBRE LOS HIJOS:
+Lars usa como táctica de manipulación las vulnerabilidades de los hijos. Con Rikke,
+cuestionaba el comportamiento de Kristian. Con Claudia, aprovecha que Juan Diego tiene
+TEA y José Carlos tiene TDA para ejercer presión psicológica adicional.
+
+Genera un INFORME FORENSE TÉCNICO completo para inmigración que correlacione los patrones
+de comportamiento abusivo de Lars documentados en su caso legal con Rikke Larsen (PDFs)
+con las evidencias actuales contra Claudia María del Rosario Sánchez Robles (audios).
+
+ARCHIVOS A ANALIZAR:
+
+1. PDFs del caso legal en:
+   C:\Users\hanns\Downloads\AUDIOS\Procesos Lars (ex esposa)-20251203T004023Z-1-001\Procesos Lars (ex esposa)\
+
+2. Transcripciones de audios en:
+   C:\Users\hanns\Proyectos\whisper-pro\transcripciones\Audios de Lars -20251203T004029Z-1-001\
+   C:\Users\hanns\Proyectos\whisper-pro\transcripciones\Audios-20251203T004026Z-1-001\
+
+3. Análisis previo en:
+   C:\Users\hanns\Proyectos\whisper-pro\patrones_lars.json
+
+ESTRUCTURA REQUERIDA DEL INFORME:
+
+I. RESUMEN EJECUTIVO (máximo 1 página)
+
+II. PARA CADA PATRÓN IDENTIFICADO, CREAR SECCIÓN CON:
+
+   A. EVIDENCIA DEL CASO CON RIKKE:
+      - Documento PDF exacto (nombre del archivo)
+      - Número de página
+      - Texto literal en danés
+      - Traducción al español
+      - Contexto
+
+   B. CORRELACIÓN CON EVIDENCIAS CON CLAUDIA:
+      Para cada evidencia:
+      - Archivo de transcripción exacto
+      - Timestamp exacto [MM:SS]
+      - Fecha del incidente
+      - Texto literal de la transcripción (3-5 líneas)
+      - Explicación de cómo demuestra el mismo patrón
+      - Nivel de similitud (IDÉNTICO/ALTO/MEDIO/BAJO)
+
+III. PATRONES CRÍTICOS A DOCUMENTAR CON MÁXIMA PRIORIDAD:
+
+1. AMENAZAS CON AUTORIDADES
+   - "I will report you"
+   - "They will take your children"
+   - "Police will come"
+
+2. MANIPULACIÓN FINANCIERA
+   - Referencias a trading/crypto
+   - "Who will pay"
+   - "We don't have money"
+   - Control económico
+
+3. VICTIMIZACIÓN
+   - "I don't want to live anymore"
+   - "I am so stressed"
+   - "My life was quiet without problems"
+
+4. CRÍTICAS Y MANIPULACIÓN USANDO A LOS HIJOS
+   - Con Rikke: Críticas a Kristian Sørensen y Frederik Erling Sørensen
+   - Con Claudia: Críticas a Juan Diego Contreras (TEA) y José Carlos Contreras (TDA)
+   - CRUCIAL: Lars aprovecha las condiciones de los hijos (TEA, TDA) para ejercer presión
+   - Acusaciones contra los niños
+   - Comparaciones negativas
+   - Uso de los hijos como herramienta de presión psicológica
+   - Cuestionamiento de la crianza y capacidades parentales
+
+5. AMENAZAS DE ABANDONO
+   - "I will leave"
+   - "I will move away"
+
+6. CULPABILIZACIÓN
+   - "It's your fault"
+   - "You are responsible"
+   - "You are destroying"
+
+FORMATO DE CADA CORRELACIÓN:
+
+═══════════════════════════════════════════════════════════════
+PATRÓN #[número]: [NOMBRE DEL PATRÓN]
+═══════════════════════════════════════════════════════════════
+
+┌─────────────────────────────────────────────────────────────┐
+│ CASO LEGAL CON RIKKE LARSEN                                 │
+├─────────────────────────────────────────────────────────────┤
+│ Documento: [nombre_archivo.pdf]                             │
+│ Página: [número]                                            │
+│ Texto original: "[texto en danés]"                          │
+│ Traducción: "[texto en español]"                            │
+│ Contexto: [explicación]                                     │
+└─────────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────────┐
+│ EVIDENCIAS CON CLAUDIA                                      │
+├─────────────────────────────────────────────────────────────┤
+│ EVIDENCIA #1:                                               │
+│   Archivo: [nombre_completo_archivo.txt]                    │
+│   Timestamp: [MM:SS]                                        │
+│   Fecha: [DD/MM/YYYY]                                       │
+│   Transcripción:                                            │
+│   "[texto exacto del audio]"                                │
+│                                                             │
+│   Análisis: [explicación de la correlación]                │
+│   Similitud: [IDÉNTICO/ALTO/MEDIO/BAJO]                    │
+│ ─────────────────────────────────────────────────────────── │
+│ EVIDENCIA #2:                                               │
+│   [repetir formato]                                         │
+│                                                             │
+│ RESUMEN:                                                    │
+│   Total instancias: [número]                               │
+│   Período: [fechas]                                        │
+│   Severidad: [BAJA/MEDIA/ALTA/CRÍTICA]                     │
+└─────────────────────────────────────────────────────────────┘
+
+IV. TABLA MAESTRA DE CORRELACIONES
+
+Crear tabla en formato:
+
+| # | Patrón | Doc Rikke | Pág | Archivo Claudia | Timestamp | Similitud |
+|---|--------|-----------|-----|-----------------|-----------|-----------|
+
+V. CONCLUSIONES TÉCNICAS
+   - Porcentaje de consistencia entre casos
+   - Evidencia de comportamiento sistemático
+   - Evaluación de riesgo
+   - Predictibilidad de comportamiento
+
+REQUISITOS TÉCNICOS CRÍTICOS:
+
+1. Lee TODOS los PDFs y extrae CADA mención de comportamiento de Lars
+2. Para CADA patrón, busca mínimo 3 ejemplos en audios con Claudia
+3. Cita EXACTA: nombre de archivo + página/timestamp + texto literal
+4. Traduce TODO el texto en danés al español
+5. Analiza similitud objetivamente
+6. Usa formato de tabla y recuadros como se muestra arriba
+7. Sin emojis - documento formal
+8. Lenguaje técnico pero comprensible
+
+ARCHIVOS DE SALIDA:
+
+Genera estos 3 archivos:
+
+1. informe_forense_inmigracion.md (informe completo)
+2. correlaciones_master.csv (tabla Excel)
+3. resumen_ejecutivo_inmigracion.md (2 páginas máximo)
+
+Guardar en: C:\Users\hanns\Proyectos\whisper-pro\
+
+ESPECIAL ATENCIÓN:
+
+De los PDFs, buscar específicamente en:
+- bitácora de Lars.pdf
+- Børnesamtale (entrevistas niños)
+- Retsbog (registros judiciales)
+- Processkrift.PDF.pdf
+- Cualquier documento con alegatos de Rikke
+
+De las transcripciones, priorizar archivos con:
+- "amenaza"
+- "trading"
+- "responsabiliza"
+- "no quiere vivir"
+- "acusa"
+- "hijos"
+
+IMPORTANTE:
+- Este es un documento LEGAL FORMAL
+- Cada afirmación debe tener CITA EXACTA
+- NO suposiciones - solo HECHOS DOCUMENTADOS
+- Mantener OBJETIVIDAD total
+- Incluir texto original para verificación
+
+PROCEDE AHORA A GENERAR EL INFORME COMPLETO.
+
+═══════════════════════════════════════════════════════════════════════════════

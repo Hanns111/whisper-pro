@@ -1,0 +1,115 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20250923_190338.m4a
+Duración: 2m 59s (179.68 segundos)
+Fecha del análisis: 2025-12-03 01:30:19
+Identificador único: ID_1764743419_20250923_190338
+Idioma detectado: fr
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] voilà
+[00:30] ...
+[00:36] Je pense que c'est le temps que je parle le droit parce que c'est le droit que je parle le droit.
+[00:45] Oui, je ne veux pas, je ne veux pas le droit, je ne veux pas le droit, je ne veux pas le droit, je ne veux pas le droit.
+[00:55] On peut mettre le droit au droit, là-bas.
+[00:58] Non, je vais prendre des mots et je vais prendre des mots.
+[01:03] Parce que mes yeux sont vraiment bon.
+[01:34] On peut mettre le droit au droit.
+[01:48] Qu'est-ce que la famille est?
+[01:50] Je vais prendre des mots, mais je ne sais pas que les gens ne connaissent pas que nous avons des mots.
+[02:00] Je ne sais pas que les mots ne sont pas bon.
+[02:03] Non, je ne sais pas que les mots ne sont pas bon.
+[02:05] Je ne sais pas que les mots ne sont pas bon.
+[02:07] Oui, mais ils ne ne ne sont pas bon, mais ils ne connaissent pas que les mots.
+[02:13] Oui.
+[02:14] Et puis on va au 5 minutes.
+[02:16] On va prendre des mots.
+[02:22] Il peut être une seconde pour vous.
+[02:25] Oui?
+[02:31] Je veux dire qu'il ne rit pas encore.
+[02:33] Je vais lutter Tapiole, throughout Le procureur,
+[02:37] jusqu'à ICS Joslavis.
+[02:50] Isto doctor d'arrêt du pernah Parliquesse.
+[02:56] Kaf les bennes dónde ne sont pas bien sayinielle et à un elkutsen.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+No se detectaron agresiones dirigidas a víctimas específicas.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20250923_190338.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 2m 59s en el idioma fr.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: No se detectaron agresiones dirigidas a víctimas específicas.
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:30:19
+================================================================================

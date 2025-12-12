@@ -1,0 +1,477 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20251027_080920.m4a
+Duración: 40m 33s (2433.36 segundos)
+Fecha del análisis: 2025-12-03 00:14:09
+Identificador único: ID_1764738849_20251027_080920
+Idioma detectado: nn
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] Wg
+[00:09] OK
+[00:21] The telephone bill for War Wasnel
+[00:23] 10.0, we received 10 voice, 1600, and 20.
+[00:35] This is your bills?
+[00:38] You know, you two boys and you have phones.
+[00:41] Ah, the bill for the phones.
+[00:44] Okay.
+[00:46] 1620.
+[00:49] 1000?
+[00:50] 600.
+[00:52] Why?
+[00:54] Because...
+[00:56] Claudia.
+[00:58] Because we take a promotion, and it's 90, the first three months.
+[01:04] Yeah.
+[01:05] But Claudia, it's a waste of time discussing if this is right or not, if it is right.
+[01:13] What I try to say is that there's many things Claudia.
+[01:18] Okay.
+[01:19] We have to do something.
+[01:21] Yeah, we can change another phone.
+[01:28] I try to let you understand the situation.
+[01:34] Yeah.
+[01:37] So, sitting here and drinking coffee will not solve the problem.
+[01:49] We have to take some decisions.
+[01:51] We have to do something.
+[01:54] And this is not small changes we have to do.
+[02:01] The investment, they make a plan, and they finished calculating every Sunday.
+[02:09] Now, they earned 140%.
+[02:15] Do you understand what I say?
+[02:21] This is your...
+[02:22] You are talking about your trade.
+[02:24] Yeah.
+[02:25] Okay.
+[02:28] I don't see any other way, can't I?
+[02:34] But we have to find some money to do the trading.
+[02:45] I don't see any other way, Claudia.
+[02:55] I already tried to talk with two of my friends if it was possible that they could give me some money.
+[03:03] And then in December, I get some money from my mother, and I could give them back.
+[03:09] People they say, no.
+[03:12] They make a story that they don't have the money, but it's not true.
+[03:25] I don't know what you think, but I...
+[03:32] I might have been analyzing if I am thinking correct, Claudia, if I am being focused, I'm all.
+[03:52] It's running away from us, Claudia.
+[04:02] Then I've been thinking about I could also sell something, the green machine.
+[04:12] The most important thing is actually to do it as quick as possible.
+[04:23] I also think about selling the red car.
+[04:35] I don't like it.
+[04:39] I just don't know what to do, Claudia.
+[04:44] I have maybe...
+[04:50] I have to call another person I ask if this is possible for him.
+[04:57] And I think they say no.
+[05:03] And I don't feel comfortable inside when I can't see there is a solution for the future.
+[05:10] It's okay to be a little down, and you have a solution.
+[05:16] But keep on going down and don't have a solution.
+[05:20] It makes me feel I can't accept.
+[05:29] And we are there now.
+[05:32] You need to analyze about the trait, your loss, and your losing statistic the one's way.
+[05:43] But you need to analyze that.
+[05:47] I did all my thinking.
+[05:55] About the mobile, we talked at the beginning that we can stay three months with this company and after change.
+[06:12] So we are on time to change.
+[06:16] Because I remember that promotion.
+[06:19] The first three months was 90 or 99.
+[06:25] Corona is around 100 Corona for person.
+[06:31] I am going to be responsible for that.
+[06:47] And I know that you are going to find a way.
+[06:56] I have never been in this situation in Claudia.
+[07:06] Maybe you are two nirbles and stress because you lost a lot of money.
+[07:27] Of course, I am with strength.
+[07:32] But it's also that now I have bills, I should pay, I can't.
+[07:38] Because you haven't done a amount of budget.
+[07:41] No.
+[07:42] Because you lost that.
+[07:44] I know that.
+[07:46] Please don't repeat it.
+[07:48] No, no, no.
+[07:49] Because this is not a solution.
+[07:50] Yes.
+[07:51] The solution is trying to find something to do.
+[08:00] I can show you the picture.
+[08:03] I don't know if you don't.
+[08:06] No, I believe in all your words.
+[08:09] Believe.
+[08:10] And it is true and it is possible.
+[08:31] You can look here, Claudia again.
+[08:37] I've seen this so many times, Claudia.
+[08:47] The problem, yeah, you know about this.
+[08:51] I don't know about this.
+[08:54] It's not my knowledge.
+[08:58] I don't know.
+[09:01] I understand that all this is a stress.
+[09:26] But I am sure that you are going to find the solution too.
+[09:32] Because you are not an adjunct man, you are an intelligent man.
+[09:43] I know.
+[09:52] When I say I am very hard to do the limit, Claudia.
+[09:59] People bless you, listen to me.
+[10:12] I want to be happy.
+[10:14] I want to smile.
+[10:15] I want to have a little freedom with some money.
+[10:52] I want to be happy.
+[10:58] I want to have a little freedom with some money.
+[11:06] I want to have a little freedom with some money.
+[11:13] And of course I am sad that all this is happening once over you.
+[11:37] And of course I am sad that all this is happening once over you.
+[11:43] But the last year there has been many, many extra things.
+[12:06] And no luck with almost anything.
+[12:36] I don't believe that it is any other way.
+[12:43] And I mean it, Claudia.
+[12:50] Any other way will just...
+[12:57] We will never.
+[13:05] Maybe you can help you or some money to all your sister.
+[13:12] I don't know what to say.
+[13:19] I am going to continue studying.
+[13:22] Actually my sister was very angry when I told her that I have a problem.
+[13:31] How do you think it is me she say?
+[13:38] Her.
+[13:46] My little sister, she has a lot of money but I know she will not hurt me.
+[13:59] No, no.
+[14:02] Maybe you can talk with her.
+[14:04] Impossible.
+[14:06] It is the same as asking for a good for my money.
+[14:10] Try to do that to Claudia.
+[14:16] And I know I did many mistakes Claudia.
+[14:33] So I don't know what to do Claudia.
+[14:49] Can try to see if I can find the people who give me the money.
+[14:57] If that is not success I have to say something.
+[15:02] With value here.
+[15:09] I am trying to buy things for food.
+[15:22] For me and the children, for example like yesterday.
+[15:27] Another other day I was buying things because I know I have a limit because I am not working.
+[15:40] So my credit card is supporting me.
+[15:49] I am trying to do my best.
+[15:52] I am studying and when I am in someone I am going to have the permission.
+[16:01] I am going to go to the job center to try to find a job.
+[16:10] I am on the way.
+[16:32] I am studying English by myself and Danish by myself in the computer.
+[16:39] I think I am doing the correct things on the way for all the steps.
+[16:47] No, but I want to say that you are not alone.
+[16:54] I am doing step by step for work too.
+[17:01] We can't find a solution.
+[17:08] I understand that you want to try to invest in this opportunity that you show me.
+[17:16] But you haven't had money now for that.
+[17:21] And I understand that you feel stressful for that.
+[17:25] But what happens if someone gives you the money and you lose the money again?
+[17:33] You are going to have to be more stressful because you are using a money for another person and you can lose that because it is a big risk.
+[17:46] But in this end I will get the money from my mother.
+[17:55] I know what you say.
+[18:01] I am worried for that. But do you know about these things?
+[18:07] I don't.
+[18:13] It's very easy. If you are small with a little amount, you don't earn only a little.
+[18:19] If you start with a big amount, you earn very quickly and you can take money out.
+[18:26] That's how it is.
+[18:32] The most important thing is to get started with as high amount as possible.
+[19:03] I am going to make a coffee.
+[19:09] I am going to make a coffee.
+[19:16] I am going to make a coffee.
+[19:24] I don't know if you understand me.
+[19:30] I don't know if you respect my way of trying to analyze all and finally you have to analyze all.
+[19:46] I try to analyze all and finally you have to take some decisions, some conclusions.
+[19:59] You need to do something because sitting here drinking coffee, looking out the window is not a solution.
+[20:10] What is your plan?
+[20:14] I already told you.
+[20:19] You are thinking maybe if you don't find the money for other person, you are thinking maybe sell something.
+[20:30] I am already...
+[20:37] Maybe I take the pictures after I am seen today and put it on marketplace.
+[20:44] Because with this money, we can relax.
+[20:53] I can start the invest.
+[20:58] We can go up.
+[21:08] If we go up, I can buy another machine.
+[21:14] I don't want to get rid of the machine.
+[21:25] But...
+[21:29] You have another solution.
+[21:33] If not in reality.
+[21:38] If you analyze all the possibilities and you consider that it is the only way.
+[21:45] I don't believe I can find work for the company and earn enough money.
+[21:52] I don't believe.
+[21:55] I tried this in some fucking hell many years ago.
+[22:03] I tried to call to the man who would give you work.
+[22:08] Maybe he has something.
+[22:14] No, I will not.
+[22:17] Okay.
+[22:25] I will not.
+[22:31] I will not.
+[22:36] I will not.
+[22:43] I will not.
+[22:50] I will not.
+[22:56] I will not.
+[23:02] I will not.
+[23:09] I will not.
+[23:16] I will not.
+[23:23] I will not.
+[23:29] I will not.
+[23:36] I will not.
+[23:42] I will not.
+[23:48] I will not.
+[23:54] I will not.
+[24:01] I will not.
+[24:06] I will not.
+[24:16] How much do you think that you can't get for this green machine?
+[24:21] It depends on if I want to do the deal quickly or we have a little more time.
+[24:31] Around 10,000 to 12,000 dollars.
+[25:02] I don't know what to say because it's your machine.
+[25:11] For other size you want to invest in this.
+[25:18] The trading.
+[25:24] I don't know that there are some risks.
+[25:27] It's a very hard decision.
+[25:31] If there was one here right now, we are 12,000 dollars.
+[25:38] I say, go.
+[25:45] That's my sister's.
+[25:52] She says, it's only material things.
+[25:57] Who said that?
+[26:01] Lisa?
+[26:08] Lisa?
+[26:15] Lisa?
+[26:22] Lisa?
+[26:25] Please tell me how can I do to about my children's mobile phone?
+[26:35] I don't know how your economy is.
+[26:45] I don't know how much hands are supporting you with the club.
+[26:49] But you know I pay 3000 kms to my children every month.
+[27:00] Hands sent me first of all.
+[27:06] His work is like an assistant.
+[27:16] His salary is a few.
+[27:23] He said that he can only pay around 800 kms.
+[27:36] For both.
+[27:39] Because we have another situation in my country.
+[27:45] The salary is not the same of here.
+[27:48] It's an other world.
+[27:52] I try to do.
+[27:59] But he said that he was trying to get some money for come to be easy to the children.
+[28:10] But it's not going to be possible.
+[28:13] So he decided to buy the ticket for the concert for José Carlos with this little money.
+[28:21] And for go to Copenhagen.
+[28:24] Because his reality.
+[28:27] If you think that you have a bad situation, he is down.
+[28:34] But I am thinking that when I will begin to work, it's going to be changed all.
+[28:44] Because I'm going to have an economy and help.
+[28:48] The situation is also, we are here now.
+[28:58] I am put into a situation where I am economically responsible for five people.
+[29:06] That is the reality.
+[29:10] We talk a lot about this before travel.
+[29:16] I know about the two children I have my own.
+[29:19] Yes.
+[29:20] It was a change in my situation.
+[29:23] For the three-seater.
+[29:24] And in the same time, I don't get the money from the local government for my own children.
+[29:29] The support this way.
+[29:30] I also lost those money as an income.
+[29:34] So actually it's maybe three thousand a month.
+[29:44] Five thousand a month.
+[29:46] I lost.
+[30:14] And I am very sad about all this.
+[30:23] And I know inside me I feel shame and I feel a lot of shit.
+[30:32] But what can I do?
+[30:40] I don't know how it's the job here in Denmark.
+[30:45] But if you go to the job center, do you have some possibilities?
+[30:55] To go to the depth center for me is humiliating.
+[31:01] Is what?
+[31:02] Humiliating.
+[31:03] Why?
+[31:10] It's not easy to explain clearly.
+[31:41] And the other side I could try to recall the bank and say blah blah blah.
+[32:03] I am 99% sure what they will say.
+[32:09] No.
+[32:14] And even that makes the situation worse because then the bank will start knowing something.
+[32:29] Okay.
+[32:36] It's not a normal situation for me Claudia.
+[33:01] I had many hard times in my life and fighting a little with the economy.
+[33:08] But I always have the ability to use a little money.
+[33:13] Save.
+[33:15] Do a low budget.
+[33:17] Do my own bread.
+[33:20] Etc.
+[33:24] And then with a little time I always arrived.
+[33:29] Now rich.
+[33:34] But I can't.
+[33:36] This is not now.
+[33:38] Now which going?
+[33:41] Down.
+[33:50] And yes, it is maybe my own fault.
+[33:58] In many ways.
+[34:28] And yes.
+[34:35] And yes.
+[34:42] And yes.
+[34:49] And yes.
+[34:56] And yes.
+[35:03] And yes.
+[35:10] So you need a little time to think about all this.
+[35:29] And what do you think?
+[35:39] No, I think that if you consider that you need to sell something, I am going to respect your decision.
+[35:53] You... I...
+[36:00] I understand you.
+[36:04] This is a stressful situation and I'm sure that we are going to find a way.
+[36:12] I'm not sure.
+[36:16] I'm very, very, very afraid of coming here.
+[36:24] I'm sad.
+[36:27] I'm very sad.
+[36:34] Mm-hmm.
+[36:41] But then really I...
+[36:53] What can I do? I only can stay with you and give you my emotional support.
+[37:01] Because I can't do another thing.
+[37:23] I'm not sure.
+[37:30] I'm not sure.
+[37:37] I'm not sure.
+[37:44] But it's important that we can talk and we know what's going on and we can accept.
+[38:08] Yes.
+[38:11] Because I am accepting.
+[38:13] Claudia, I have no energy left for fighting.
+[38:17] Yes. And any... any is fighting.
+[38:21] I'm very...
+[38:26] I am in a situation as I...
+[38:39] This is not a life for me.
+[38:46] This is no life for me.
+[38:59] And I don't want to be that person.
+[39:11] For me and the people around me looking at me.
+[39:17] I understand.
+[39:21] People then run away from me.
+[39:51] I understand.
+[39:58] I understand.
+[40:05] I understand.
+[40:12] I understand.
+[40:19] I understand.
+[40:26] I understand.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+
+AGRESIÓN HACIA CLAUDIA (17 detecciones):
+--------------------------------------------------------------------------------
+
+  Tipo: MENCIÓN (17 instancias)
+    [00:56 - 00:58] Severidad: BAJA
+      Claudia.
+
+    [01:05 - 01:13] Severidad: BAJA
+      But Claudia, it's a waste of time discussing if this is right or not, if it is right.
+
+    [01:13 - 01:18] Severidad: BAJA
+      What I try to say is that there's many things Claudia.
+
+    [02:45 - 02:55] Severidad: BAJA
+      I don't see any other way, Claudia.
+
+    [03:32 - 03:44] Severidad: BAJA
+      I might have been analyzing if I am thinking correct, Claudia, if I am being focused, I'm all.
+
+    [03:52 - 03:57] Severidad: BAJA
+      It's running away from us, Claudia.
+
+    [04:39 - 04:43] Severidad: BAJA
+      I just don't know what to do, Claudia.
+
+    [06:56 - 07:05] Severidad: BAJA
+      I have never been in this situation in Claudia.
+
+    [08:31 - 08:37] Severidad: BAJA
+      You can look here, Claudia again.
+
+    [08:37 - 08:47] Severidad: BAJA
+      I've seen this so many times, Claudia.
+
+    [09:52 - 09:59] Severidad: BAJA
+      When I say I am very hard to do the limit, Claudia.
+
+    [12:43 - 12:50] Severidad: BAJA
+      And I mean it, Claudia.
+
+    [14:10 - 14:16] Severidad: BAJA
+      Try to do that to Claudia.
+
+    [14:16 - 14:33] Severidad: BAJA
+      And I know I did many mistakes Claudia.
+
+    [14:33 - 14:49] Severidad: BAJA
+      So I don't know what to do Claudia.
+
+    [32:36 - 33:01] Severidad: BAJA
+      It's not a normal situation for me Claudia.
+
+    [38:13 - 38:17] Severidad: BAJA
+      Claudia, I have no energy left for fighting.
+
+
+AGRESIÓN HACIA JOSÉ CARLOS (1 detecciones):
+--------------------------------------------------------------------------------
+
+  Tipo: MENCIÓN (1 instancias)
+    [28:13 - 28:21] Severidad: BAJA
+      So he decided to buy the ticket for the concert for José Carlos with this little money.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20251027_080920.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 40m 33s en el idioma nn.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: Se detectaron 18 instancias de agresión dirigida específicamente hacia víctimas identificadas (Claudia, Juan Diego, José Carlos).
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. Se identificaron 18 agresiones dirigidas a víctimas específicas.
+2. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 00:14:09
+================================================================================

@@ -1,0 +1,166 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20251021_214648.m4a
+Duración: 8m 37s (517.84 segundos)
+Fecha del análisis: 2025-12-03 01:30:48
+Identificador único: ID_1764743448_20251021_214648
+Idioma detectado: es
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] La reina del pedal. Cuando llegué a dinamarca, jamás imagina que iba a terminar convertida en
+[00:06] ciclista. Sí, ciclista. De esas que se levantan con frío, se ponen tres capas de ropa,
+[00:15] y aún así sienten que el viento del norte les corta la cara, porque acá el viento no sopla,
+[00:22] se cache, tea. Pero bueno, empezamos por el principio. Yo llegué con casi 13 kilos de sobrepeso,
+[00:30] 13, una vida entera de esterece y antojitos acumulados, porque claro, antes de venir me dije,
+[00:37] yo no voy a comer esto por un tiempo y termine haciendo mituras, tronómico y despidida.
+[00:43] Anticucho por aquí, chifo por allá y postredoble por si caso. Cuando me subía la avión,
+[00:50] el asiento ya me quedaba con cariño. Y bueno, apenas piso dinamarca, me recibió mi querido
+[00:57] larza. Y como yo le digo con cariño mi terminator sentimental, el hombre tiene cero paciencia,
+[01:05] cero romanticismo y una precisión que asusta. Si yo digo, ¿qué ferío él dice, usa más ropa?
+[01:12] Si digo, me dere la cabeza, me responde tomaba. O sea, ni un aiporecita nada. Parece
+[01:20] Siri, pero en versión humana. Un día me suelta así sin anestesia.
+[01:25] Claudia, necesitas modarte más y yo pense hermana. Me he movido de continente que más quiere
+[01:32] que mueva, pero no, él lo decía en serio y agregó, necesitas una bicicleta.
+[01:37] Una bicicleta, claro, porque lo más lógico cuando vives en el medio del campo a 10 kilómetros
+[01:46] del pueblo más cercano es irte en vici, con lluvia, con viento, con granizo y con dignidad
+[01:55] si se puede. Así que fui todo veriente comprar mi bicicleta y claro, la chica de la tienda
+[02:03] me habla en Danes y yo le son Riyano más. Si, pues sí, claro, totalmente entiendo. Mientras
+[02:09] pensaba que no me meta una de niños, por favor. Y así empezó mi aventura. Yo a la
+[02:18] citadina, alineña, que en el lima apenas cruzaba la pista sin mirar para los dos lados,
+[02:23] ahora pedaleando entre vacas y molínos. Bueno, los primeros días, los primeros días
+[02:32] fueron un poema, cinco minutos y ya estaba jadeando. Las piernas me temblaban, las manos
+[02:39] me dolían. Y yo pensando, ¿por qué estoy haciendo? No es más grande, ¿no? Yo que en el
+[02:46] lima me moví entre Uber, Taxis, un taxi con Wi-Fi. Bueno, y ahora en bicicleta, el viento
+[02:59] me soplame en la cara, como diciéndome bienvenida a una marca causa. Pero seguí una hora y a veces
+[03:08] una ori 20, pedaleando, sufriendo, resando el rosario interno. Llegaba a la casa con las piernas
+[03:15] molidas, parecía robot, caminaba como pinguino recién operado. Y claro, mientras pedalea,
+[03:23] pensaba, ¿cómo terminé en esto? Yo que antes manejaba mi carro por lima, con mi música,
+[03:30] con mi aire, si tú acondicionado. Mi ruta siempre porven había eso javierbrado. Y ahora soy la
+[03:37] reina del pedal, la versión danesa de mí misma, pero sin peinado, sin glamour y con viento 80 por hora.
+[03:46] Y a veces, mi cruzo con ciclistas profesionales. Esos que parecen salidos del
+[03:52] tour de Francia con sus trajes pegaditos y todo el power. Y yo ahí con mi casa cagureza,
+[03:59] con mi chalina y mi bicicleta de canastita. Y yo pasa volando. Y yo los miro y pienso ya,
+[04:09] cambió así, pero mi me dura más, mi me dura más lemosión. Porque escuchan
+[04:16] mi bicicleta no es ligera, pesa más que mi suera con maletas, pero igual le meto fuerza,
+[04:24] porque si algo tengo este arquedad con estilo. Y bueno, si el ejercicio no fuera suficiente,
+[04:32] aquí también aprendí que los meses comen poquito. En Perú uno desayunaba con huevo,
+[04:39] toma su juito, almuerza rojo con su buen guiso y se en algo calientito. Acá nada que ver,
+[04:48] desayunan, lluvó con adena, almuerza un pan negro con mantequilla y a la seis en el atarde
+[04:55] se enan a la seis. Yo recién estoy con hambre del muerzo y ellos ya están lavando los
+[05:02] platos del día. La primera semana te juro a las ocho ya tenía el estomó cantando wineos y yo
+[05:11] disimulando abriendo la refrigeradora silencio, metajlarse mi mirada y decía, ¿tienes hambre?
+[05:18] Y yo continida, no, solo estoy respirando comida. Estoy acomodado, estoy limpiando la refrigeradora.
+[05:27] Así que entre la lluno de neci, mi peda, el azos, con mi bicicleta de canastita,
+[05:33] empezaba a bajar de peso. Poco a poco, sin dieta magica, la vacula no miente y mi pantalón que
+[05:41] antes gritaba auxilio, ahora se raconfé. Y sí, sin darme cuenta me fui costumbrando, ya tengo
+[05:50] mi rutina, me levanto, desayuno al boliviano, me pongo mi cajco, que me hace parecer de
+[05:58] liberi pero con orgullo y salvo pedalear. A veces llueve, a veces hace sol, a veces suplerviento
+[06:05] tan fuerte, que creo que me va a devolver a Perú, pero igual sigo, porque ahora soy la
+[06:11] reina del pedal, la misma que antes pedía taxi hasta para ir a la esquina. Y sí, a veces me
+[06:18] pregunto en que momento me volvió de portista, yo que odiaba sudar, pero aquí estoy, pues, en este
+[06:26] reality sin cámaras llamado sobreviviendo en marca sin carro ni arroz. A veces me sale
+[06:36] lo limine, voy pedaleando y cuando paso por una bajadita grito, agárrate, que ya me fui en
+[06:43] yca. Y claro, nadie entiende nada, pero yo me riosó a la feliz, porque un poquito de Perú siempre
+[06:51] secuela. Y sabes que, dentro de todo esto me he hecho bien, estoy más fuerte, más ágil,
+[07:01] más despierta, ya no necesito enmen dejar para sentirme libre. Ahora en mi libertad tiene
+[07:06] dos ruedas, una canasta y un poco de drama diario. Hay días en que llevo a casa rendida, me tiro
+[07:17] en la cama y digo, señor, gracias por mantenerme vida. Y el día siguiente lo vuelvo a hacer,
+[07:24] porque si algo he aprendido aquí, es que la constancia gana hasta el clima y que el humor salva
+[07:33] todo. Además, hacemos sinceras. Con tanto pedaleo del panorama también ayuda y en la marca está llena
+[07:40] de hombres guapos, uno pedalea con madana, con motivación visual. Yo digo bueno, si no bajo
+[07:48] de peso al menos bajo la moral, me lo dan eso. Así que sí, ahora soy la reina del pedal, la que
+[07:57] llega con las piernas duras, el pelo revuelto y una sonrisa enorme. La que se ríe de sí misma,
+[08:03] la que se cae y se levanta, la que aprende que la vida como la bicicleta solo avanza si sigue
+[08:09] espedaliendo. Aunque no tenga carro, me arrochao falas ocho, ni serenatas románticas o mi buen
+[08:17] balzario, tengo lo mejor. Mi fuerza, mi fe y mi sentido del humor. Porque el final ser la reina
+[08:27] del pedal no se trata solo de llegar lejos, sino de hacerlo con estilo y un poco de sarcajmo. Y por
+[08:34] supuesto, con alma peruana hasta el viento.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+
+AGRESIÓN HACIA CLAUDIA (1 detecciones):
+--------------------------------------------------------------------------------
+
+  Tipo: MENCIÓN (1 instancias)
+    [01:25 - 01:32] Severidad: BAJA
+      Claudia, necesitas modarte más y yo pense hermana. Me he movido de continente que más quiere
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20251021_214648.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 8m 37s en el idioma es.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: Se detectaron 1 instancias de agresión dirigida específicamente hacia víctimas identificadas (Claudia, Juan Diego, José Carlos).
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. Se identificaron 1 agresiones dirigidas a víctimas específicas.
+2. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:30:48
+================================================================================

@@ -1,0 +1,265 @@
+2025-12-03 00:35:45 - root - INFO - ============================================================
+2025-12-03 00:35:45 - root - INFO - Iniciando proceso de transcripción
+2025-12-03 00:35:45 - root - INFO - ============================================================
+2025-12-03 00:35:45 - root - INFO - Configurando transcriptor con modelo: base
+2025-12-03 00:35:45 - src.transcriber - INFO - No se detectó GPU, usando CPU
+2025-12-03 00:35:45 - src.transcriber - INFO - Cargando modelo 'base' en cpu...
+2025-12-03 00:35:45 - src.transcriber - INFO - Modelo 'base' cargado exitosamente en cpu
+2025-12-03 00:35:45 - root - INFO - Inicializando analizadores de agresión, voz, víctimas y análisis forense DK
+2025-12-03 00:35:45 - src.detector_voz - WARNING - librosa no está instalado. Instala con: pip install librosa
+2025-12-03 00:35:45 - root - INFO - Dispositivo: cpu
+2025-12-03 00:35:45 - root - INFO - Buscando archivos de audio en: C:\Users\hanns\Downloads\Audios de Lars -20251203T004029Z-1-001\Audios de Lars
+2025-12-03 00:35:45 - root - INFO - NOTA: Los archivos originales NO serán copiados ni modificados
+2025-12-03 00:35:45 - src.audio_loader - INFO - Encontrados 9 archivos de audio en C:\Users\hanns\Downloads\Audios de Lars -20251203T004029Z-1-001\Audios de Lars
+2025-12-03 00:35:45 - root - INFO - Encontrados 9 archivo(s) .m4a/.mp3 para procesar
+2025-12-03 00:35:45 - root - INFO - ------------------------------------------------------------
+2025-12-03 00:35:45 - root - INFO - Procesando archivo 1/9: 20251021_211842.m4a
+2025-12-03 00:35:45 - root - INFO - Tamaño: 11.58 MB
+2025-12-03 00:35:45 - root - INFO - Paso 1/6: Transcribiendo audio...
+2025-12-03 00:35:45 - src.transcriber - INFO - Transcribiendo: 20251021_211842.m4a
+2025-12-03 00:35:45 - src.transcriber - INFO - Detección automática de idioma
+2025-12-03 00:35:59 - src.transcriber - INFO - Idioma detectado: es
+2025-12-03 00:35:59 - root - INFO - ✓ Transcripción completada en 13.65 segundos
+2025-12-03 00:35:59 - root - INFO -   Idioma detectado: es
+2025-12-03 00:35:59 - root - INFO -   Duración del audio: 487.00 segundos
+2025-12-03 00:35:59 - root - INFO -   Caracteres transcritos: 5893
+2025-12-03 00:35:59 - root - INFO -   Guardado en: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\20251021_211842_20251203_003559.txt
+2025-12-03 00:35:59 - root - INFO - Paso 2/6: Analizando agresión verbal...
+2025-12-03 00:35:59 - src.analizador_agresion - INFO - Detectadas 2 instancias de agresión verbal
+2025-12-03 00:35:59 - root - INFO -   Detectadas 2 instancias de agresión
+2025-12-03 00:35:59 - root - INFO - Paso 3/6: Analizando estrés vocal...
+2025-12-03 00:35:59 - src.detector_voz - WARNING - librosa no disponible, usando análisis simplificado
+2025-12-03 00:35:59 - src.detector_voz - WARNING - Análisis acústico no disponible sin librosa
+2025-12-03 00:35:59 - root - INFO -   Detectados 0 momentos de voz elevada
+2025-12-03 00:35:59 - root - INFO - Paso 4/6: Analizando agresión dirigida a víctimas...
+2025-12-03 00:35:59 - src.detector_victimas - INFO - Detectadas 0 instancias de agresión dirigida a víctimas
+2025-12-03 00:35:59 - root - INFO -   Detectadas 0 instancias de agresión dirigida
+2025-12-03 00:35:59 - root - INFO - Paso 5/6: Realizando análisis forense según legislación danesa...
+2025-12-03 00:35:59 - root - INFO -   Análisis forense completado: Lav risiko
+2025-12-03 00:35:59 - root - INFO - Paso 6/6: Generando informe único consolidado...
+2025-12-03 00:35:59 - src.generador_informe_unico - INFO - Informe único guardado: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\20251021_211842_INFORME_UNICO.txt
+2025-12-03 00:35:59 - root - INFO - ✓ Informe único guardado: 20251021_211842_INFORME_UNICO.txt
+2025-12-03 00:35:59 - root - INFO - ------------------------------------------------------------
+2025-12-03 00:35:59 - root - INFO - Procesando archivo 2/9: 20251021_214648.m4a
+2025-12-03 00:35:59 - root - INFO - Tamaño: 12.27 MB
+2025-12-03 00:35:59 - root - INFO - Paso 1/6: Transcribiendo audio...
+2025-12-03 00:35:59 - src.transcriber - INFO - Transcribiendo: 20251021_214648.m4a
+2025-12-03 00:35:59 - src.transcriber - INFO - Detección automática de idioma
+2025-12-03 00:36:14 - src.transcriber - INFO - Idioma detectado: es
+2025-12-03 00:36:14 - root - INFO - ✓ Transcripción completada en 14.96 segundos
+2025-12-03 00:36:14 - root - INFO -   Idioma detectado: es
+2025-12-03 00:36:14 - root - INFO -   Duración del audio: 517.84 segundos
+2025-12-03 00:36:14 - root - INFO -   Caracteres transcritos: 6138
+2025-12-03 00:36:14 - root - INFO -   Guardado en: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\20251021_214648_20251203_003614.txt
+2025-12-03 00:36:14 - root - INFO - Paso 2/6: Analizando agresión verbal...
+2025-12-03 00:36:14 - src.analizador_agresion - INFO - Detectadas 0 instancias de agresión verbal
+2025-12-03 00:36:14 - root - INFO -   Detectadas 0 instancias de agresión
+2025-12-03 00:36:14 - root - INFO - Paso 3/6: Analizando estrés vocal...
+2025-12-03 00:36:14 - src.detector_voz - WARNING - librosa no disponible, usando análisis simplificado
+2025-12-03 00:36:14 - src.detector_voz - WARNING - Análisis acústico no disponible sin librosa
+2025-12-03 00:36:14 - root - INFO -   Detectados 0 momentos de voz elevada
+2025-12-03 00:36:14 - root - INFO - Paso 4/6: Analizando agresión dirigida a víctimas...
+2025-12-03 00:36:14 - src.detector_victimas - INFO - Detectadas 1 instancias de agresión dirigida a víctimas
+2025-12-03 00:36:14 - root - INFO -   Detectadas 1 instancias de agresión dirigida
+2025-12-03 00:36:14 - root - INFO - Paso 5/6: Realizando análisis forense según legislación danesa...
+2025-12-03 00:36:14 - root - INFO -   Análisis forense completado: Lav risiko
+2025-12-03 00:36:14 - root - INFO - Paso 6/6: Generando informe único consolidado...
+2025-12-03 00:36:14 - src.generador_informe_unico - INFO - Informe único guardado: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\20251021_214648_INFORME_UNICO.txt
+2025-12-03 00:36:14 - root - INFO - ✓ Informe único guardado: 20251021_214648_INFORME_UNICO.txt
+2025-12-03 00:36:14 - root - INFO - ------------------------------------------------------------
+2025-12-03 00:36:14 - root - INFO - Procesando archivo 3/9: 20251027_080920.m4a
+2025-12-03 00:36:14 - root - INFO - Tamaño: 43.14 MB
+2025-12-03 00:36:14 - root - INFO - Paso 1/6: Transcribiendo audio...
+2025-12-03 00:36:14 - src.transcriber - INFO - Transcribiendo: 20251027_080920.m4a
+2025-12-03 00:36:14 - src.transcriber - INFO - Detección automática de idioma
+2025-12-03 00:37:14 - src.transcriber - INFO - Idioma detectado: nn
+2025-12-03 00:37:14 - root - INFO - ✓ Transcripción completada en 60.48 segundos
+2025-12-03 00:37:14 - root - INFO -   Idioma detectado: nn
+2025-12-03 00:37:14 - root - INFO -   Duración del audio: 2419.04 segundos
+2025-12-03 00:37:14 - root - INFO -   Caracteres transcritos: 12016
+2025-12-03 00:37:14 - root - INFO -   Guardado en: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\20251027_080920_20251203_003714.txt
+2025-12-03 00:37:14 - root - INFO - Paso 2/6: Analizando agresión verbal...
+2025-12-03 00:37:14 - src.analizador_agresion - INFO - Detectadas 0 instancias de agresión verbal
+2025-12-03 00:37:14 - root - INFO -   Detectadas 0 instancias de agresión
+2025-12-03 00:37:14 - root - INFO - Paso 3/6: Analizando estrés vocal...
+2025-12-03 00:37:14 - src.detector_voz - WARNING - librosa no disponible, usando análisis simplificado
+2025-12-03 00:37:14 - src.detector_voz - WARNING - Análisis acústico no disponible sin librosa
+2025-12-03 00:37:14 - root - INFO -   Detectados 0 momentos de voz elevada
+2025-12-03 00:37:14 - root - INFO - Paso 4/6: Analizando agresión dirigida a víctimas...
+2025-12-03 00:37:14 - src.detector_victimas - INFO - Detectadas 16 instancias de agresión dirigida a víctimas
+2025-12-03 00:37:14 - root - INFO -   Detectadas 16 instancias de agresión dirigida
+2025-12-03 00:37:14 - root - INFO - Paso 5/6: Realizando análisis forense según legislación danesa...
+2025-12-03 00:37:14 - root - INFO -   Análisis forense completado: Lav risiko
+2025-12-03 00:37:14 - root - INFO - Paso 6/6: Generando informe único consolidado...
+2025-12-03 00:37:14 - src.generador_informe_unico - INFO - Informe único guardado: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\20251027_080920_INFORME_UNICO.txt
+2025-12-03 00:37:14 - root - INFO - ✓ Informe único guardado: 20251027_080920_INFORME_UNICO.txt
+2025-12-03 00:37:14 - root - INFO - ------------------------------------------------------------
+2025-12-03 00:37:14 - root - INFO - Procesando archivo 4/9: 20251027_085207.m4a
+2025-12-03 00:37:14 - root - INFO - Tamaño: 11.98 MB
+2025-12-03 00:37:14 - root - INFO - Paso 1/6: Transcribiendo audio...
+2025-12-03 00:37:14 - src.transcriber - INFO - Transcribiendo: 20251027_085207.m4a
+2025-12-03 00:37:14 - src.transcriber - INFO - Detección automática de idioma
+2025-12-03 00:37:57 - src.transcriber - INFO - Idioma detectado: en
+2025-12-03 00:37:57 - root - INFO - ✓ Transcripción completada en 43.39 segundos
+2025-12-03 00:37:57 - root - INFO -   Idioma detectado: en
+2025-12-03 00:37:57 - root - INFO -   Duración del audio: 669.86 segundos
+2025-12-03 00:37:57 - root - INFO -   Caracteres transcritos: 4281
+2025-12-03 00:37:57 - root - INFO -   Guardado en: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\20251027_085207_20251203_003757.txt
+2025-12-03 00:37:57 - root - INFO - Paso 2/6: Analizando agresión verbal...
+2025-12-03 00:37:57 - src.analizador_agresion - INFO - Detectadas 0 instancias de agresión verbal
+2025-12-03 00:37:57 - root - INFO -   Detectadas 0 instancias de agresión
+2025-12-03 00:37:57 - root - INFO - Paso 3/6: Analizando estrés vocal...
+2025-12-03 00:37:57 - src.detector_voz - WARNING - librosa no disponible, usando análisis simplificado
+2025-12-03 00:37:57 - src.detector_voz - WARNING - Análisis acústico no disponible sin librosa
+2025-12-03 00:37:57 - root - INFO -   Detectados 0 momentos de voz elevada
+2025-12-03 00:37:57 - root - INFO - Paso 4/6: Analizando agresión dirigida a víctimas...
+2025-12-03 00:37:57 - src.detector_victimas - INFO - Detectadas 2 instancias de agresión dirigida a víctimas
+2025-12-03 00:37:57 - root - INFO -   Detectadas 2 instancias de agresión dirigida
+2025-12-03 00:37:57 - root - INFO - Paso 5/6: Realizando análisis forense según legislación danesa...
+2025-12-03 00:37:58 - root - INFO -   Análisis forense completado: Lav risiko
+2025-12-03 00:37:58 - root - INFO - Paso 6/6: Generando informe único consolidado...
+2025-12-03 00:37:58 - src.generador_informe_unico - INFO - Informe único guardado: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\20251027_085207_INFORME_UNICO.txt
+2025-12-03 00:37:58 - root - INFO - ✓ Informe único guardado: 20251027_085207_INFORME_UNICO.txt
+2025-12-03 00:37:58 - root - INFO - ------------------------------------------------------------
+2025-12-03 00:37:58 - root - INFO - Procesando archivo 5/9: 20251027_pide pago comida por algunas semanas.m4a
+2025-12-03 00:37:58 - root - INFO - Tamaño: 49.54 MB
+2025-12-03 00:37:58 - root - INFO - Paso 1/6: Transcribiendo audio...
+2025-12-03 00:37:58 - src.transcriber - INFO - Transcribiendo: 20251027_pide pago comida por algunas semanas.m4a
+2025-12-03 00:37:58 - src.transcriber - INFO - Detección automática de idioma
+2025-12-03 00:38:52 - src.transcriber - INFO - Idioma detectado: en
+2025-12-03 00:38:52 - root - INFO - ✓ Transcripción completada en 54.75 segundos
+2025-12-03 00:38:52 - root - INFO -   Idioma detectado: en
+2025-12-03 00:38:52 - root - INFO -   Duración del audio: 2762.00 segundos
+2025-12-03 00:38:52 - root - INFO -   Caracteres transcritos: 17435
+2025-12-03 00:38:52 - root - INFO -   Guardado en: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\20251027_pide_pago_comida_por_algunas_semanas_20251203_003852.txt
+2025-12-03 00:38:52 - root - INFO - Paso 2/6: Analizando agresión verbal...
+2025-12-03 00:38:52 - src.analizador_agresion - INFO - Detectadas 0 instancias de agresión verbal
+2025-12-03 00:38:52 - root - INFO -   Detectadas 0 instancias de agresión
+2025-12-03 00:38:52 - root - INFO - Paso 3/6: Analizando estrés vocal...
+2025-12-03 00:38:52 - src.detector_voz - WARNING - librosa no disponible, usando análisis simplificado
+2025-12-03 00:38:52 - src.detector_voz - WARNING - Análisis acústico no disponible sin librosa
+2025-12-03 00:38:52 - root - INFO -   Detectados 0 momentos de voz elevada
+2025-12-03 00:38:52 - root - INFO - Paso 4/6: Analizando agresión dirigida a víctimas...
+2025-12-03 00:38:52 - src.detector_victimas - INFO - Detectadas 23 instancias de agresión dirigida a víctimas
+2025-12-03 00:38:52 - root - INFO -   Detectadas 23 instancias de agresión dirigida
+2025-12-03 00:38:52 - root - INFO - Paso 5/6: Realizando análisis forense según legislación danesa...
+2025-12-03 00:38:52 - root - INFO -   Análisis forense completado: Lav risiko
+2025-12-03 00:38:52 - root - INFO - Paso 6/6: Generando informe único consolidado...
+2025-12-03 00:38:52 - src.generador_informe_unico - INFO - Informe único guardado: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\20251027_pide_pago_comida_por_algunas_semanas_INFORME_UNICO.txt
+2025-12-03 00:38:52 - root - INFO - ✓ Informe único guardado: 20251027_pide_pago_comida_por_algunas_semanas_INFORME_UNICO.txt
+2025-12-03 00:38:52 - root - INFO - ------------------------------------------------------------
+2025-12-03 00:38:52 - root - INFO - Procesando archivo 6/9: 20251112_162308.m4a
+2025-12-03 00:38:52 - root - INFO - Tamaño: 29.81 MB
+2025-12-03 00:38:52 - root - INFO - Paso 1/6: Transcribiendo audio...
+2025-12-03 00:38:52 - src.transcriber - INFO - Transcribiendo: 20251112_162308.m4a
+2025-12-03 00:38:52 - src.transcriber - INFO - Detección automática de idioma
+2025-12-03 00:40:39 - src.transcriber - INFO - Idioma detectado: da
+2025-12-03 00:40:39 - root - INFO - ✓ Transcripción completada en 106.88 segundos
+2025-12-03 00:40:39 - root - INFO -   Idioma detectado: da
+2025-12-03 00:40:39 - root - INFO -   Duración del audio: 1072.50 segundos
+2025-12-03 00:40:39 - root - INFO -   Caracteres transcritos: 3476
+2025-12-03 00:40:39 - root - INFO -   Guardado en: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\20251112_162308_20251203_004039.txt
+2025-12-03 00:40:39 - root - INFO - Paso 2/6: Analizando agresión verbal...
+2025-12-03 00:40:39 - src.analizador_agresion - INFO - Detectadas 0 instancias de agresión verbal
+2025-12-03 00:40:39 - root - INFO -   Detectadas 0 instancias de agresión
+2025-12-03 00:40:39 - root - INFO - Paso 3/6: Analizando estrés vocal...
+2025-12-03 00:40:39 - src.detector_voz - WARNING - librosa no disponible, usando análisis simplificado
+2025-12-03 00:40:39 - src.detector_voz - WARNING - Análisis acústico no disponible sin librosa
+2025-12-03 00:40:39 - root - INFO -   Detectados 0 momentos de voz elevada
+2025-12-03 00:40:39 - root - INFO - Paso 4/6: Analizando agresión dirigida a víctimas...
+2025-12-03 00:40:39 - src.detector_victimas - INFO - Detectadas 0 instancias de agresión dirigida a víctimas
+2025-12-03 00:40:39 - root - INFO -   Detectadas 0 instancias de agresión dirigida
+2025-12-03 00:40:39 - root - INFO - Paso 5/6: Realizando análisis forense según legislación danesa...
+2025-12-03 00:40:39 - root - INFO -   Análisis forense completado: Lav risiko
+2025-12-03 00:40:39 - root - INFO - Paso 6/6: Generando informe único consolidado...
+2025-12-03 00:40:39 - src.generador_informe_unico - INFO - Informe único guardado: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\20251112_162308_INFORME_UNICO.txt
+2025-12-03 00:40:39 - root - INFO - ✓ Informe único guardado: 20251112_162308_INFORME_UNICO.txt
+2025-12-03 00:40:39 - root - INFO - ------------------------------------------------------------
+2025-12-03 00:40:39 - root - INFO - Procesando archivo 7/9: 20251114_122248.m4a
+2025-12-03 00:40:39 - root - INFO - Tamaño: 1.97 MB
+2025-12-03 00:40:39 - root - INFO - Paso 1/6: Transcribiendo audio...
+2025-12-03 00:40:39 - src.transcriber - INFO - Transcribiendo: 20251114_122248.m4a
+2025-12-03 00:40:39 - src.transcriber - INFO - Detección automática de idioma
+2025-12-03 00:40:46 - src.transcriber - INFO - Idioma detectado: en
+2025-12-03 00:40:46 - root - INFO - ✓ Transcripción completada en 6.51 segundos
+2025-12-03 00:40:46 - root - INFO -   Idioma detectado: en
+2025-12-03 00:40:46 - root - INFO -   Duración del audio: 87.00 segundos
+2025-12-03 00:40:46 - root - INFO -   Caracteres transcritos: 372
+2025-12-03 00:40:46 - root - INFO -   Guardado en: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\20251114_122248_20251203_004046.txt
+2025-12-03 00:40:46 - root - INFO - Paso 2/6: Analizando agresión verbal...
+2025-12-03 00:40:46 - src.analizador_agresion - INFO - Detectadas 0 instancias de agresión verbal
+2025-12-03 00:40:46 - root - INFO -   Detectadas 0 instancias de agresión
+2025-12-03 00:40:46 - root - INFO - Paso 3/6: Analizando estrés vocal...
+2025-12-03 00:40:46 - src.detector_voz - WARNING - librosa no disponible, usando análisis simplificado
+2025-12-03 00:40:46 - src.detector_voz - WARNING - Análisis acústico no disponible sin librosa
+2025-12-03 00:40:46 - root - INFO -   Detectados 0 momentos de voz elevada
+2025-12-03 00:40:46 - root - INFO - Paso 4/6: Analizando agresión dirigida a víctimas...
+2025-12-03 00:40:46 - src.detector_victimas - INFO - Detectadas 0 instancias de agresión dirigida a víctimas
+2025-12-03 00:40:46 - root - INFO -   Detectadas 0 instancias de agresión dirigida
+2025-12-03 00:40:46 - root - INFO - Paso 5/6: Realizando análisis forense según legislación danesa...
+2025-12-03 00:40:46 - root - INFO -   Análisis forense completado: Lav risiko
+2025-12-03 00:40:46 - root - INFO - Paso 6/6: Generando informe único consolidado...
+2025-12-03 00:40:46 - src.generador_informe_unico - INFO - Informe único guardado: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\20251114_122248_INFORME_UNICO.txt
+2025-12-03 00:40:46 - root - INFO - ✓ Informe único guardado: 20251114_122248_INFORME_UNICO.txt
+2025-12-03 00:40:46 - root - INFO - ------------------------------------------------------------
+2025-12-03 00:40:46 - root - INFO - Procesando archivo 8/9: 20251123_122646.m4a
+2025-12-03 00:40:46 - root - INFO - Tamaño: 53.24 MB
+2025-12-03 00:40:46 - root - INFO - Paso 1/6: Transcribiendo audio...
+2025-12-03 00:40:46 - src.transcriber - INFO - Transcribiendo: 20251123_122646.m4a
+2025-12-03 00:40:46 - src.transcriber - INFO - Detección automática de idioma
+2025-12-03 00:44:58 - src.transcriber - INFO - Idioma detectado: da
+2025-12-03 00:44:58 - root - INFO - ✓ Transcripción completada en 252.67 segundos
+2025-12-03 00:44:58 - root - INFO -   Idioma detectado: da
+2025-12-03 00:44:58 - root - INFO -   Duración del audio: 2247.36 segundos
+2025-12-03 00:44:58 - root - INFO -   Caracteres transcritos: 9984
+2025-12-03 00:44:58 - root - INFO -   Guardado en: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\20251123_122646_20251203_004458.txt
+2025-12-03 00:44:58 - root - INFO - Paso 2/6: Analizando agresión verbal...
+2025-12-03 00:44:58 - src.analizador_agresion - INFO - Detectadas 0 instancias de agresión verbal
+2025-12-03 00:44:58 - root - INFO -   Detectadas 0 instancias de agresión
+2025-12-03 00:44:58 - root - INFO - Paso 3/6: Analizando estrés vocal...
+2025-12-03 00:44:58 - src.detector_voz - WARNING - librosa no disponible, usando análisis simplificado
+2025-12-03 00:44:58 - src.detector_voz - WARNING - Análisis acústico no disponible sin librosa
+2025-12-03 00:44:58 - root - INFO -   Detectados 0 momentos de voz elevada
+2025-12-03 00:44:58 - root - INFO - Paso 4/6: Analizando agresión dirigida a víctimas...
+2025-12-03 00:44:58 - src.detector_victimas - INFO - Detectadas 0 instancias de agresión dirigida a víctimas
+2025-12-03 00:44:58 - root - INFO -   Detectadas 0 instancias de agresión dirigida
+2025-12-03 00:44:58 - root - INFO - Paso 5/6: Realizando análisis forense según legislación danesa...
+2025-12-03 00:44:58 - root - INFO -   Análisis forense completado: Lav risiko
+2025-12-03 00:44:58 - root - INFO - Paso 6/6: Generando informe único consolidado...
+2025-12-03 00:44:58 - src.generador_informe_unico - INFO - Informe único guardado: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\20251123_122646_INFORME_UNICO.txt
+2025-12-03 00:44:58 - root - INFO - ✓ Informe único guardado: 20251123_122646_INFORME_UNICO.txt
+2025-12-03 00:44:58 - root - INFO - ------------------------------------------------------------
+2025-12-03 00:44:58 - root - INFO - Procesando archivo 9/9: Audio de Claudia.mp3
+2025-12-03 00:44:58 - root - INFO - Tamaño: 906.21 KB
+2025-12-03 00:44:58 - root - INFO - Paso 1/6: Transcribiendo audio...
+2025-12-03 00:44:58 - src.transcriber - INFO - Transcribiendo: Audio de Claudia.mp3
+2025-12-03 00:44:58 - src.transcriber - INFO - Detección automática de idioma
+2025-12-03 00:45:00 - src.transcriber - INFO - Idioma detectado: en
+2025-12-03 00:45:00 - root - INFO - ✓ Transcripción completada en 1.49 segundos
+2025-12-03 00:45:00 - root - INFO -   Idioma detectado: en
+2025-12-03 00:45:00 - root - INFO -   Duración del audio: 38.60 segundos
+2025-12-03 00:45:00 - root - INFO -   Caracteres transcritos: 599
+2025-12-03 00:45:00 - root - INFO -   Guardado en: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\Audio_de_Claudia_20251203_004500.txt
+2025-12-03 00:45:00 - root - INFO - Paso 2/6: Analizando agresión verbal...
+2025-12-03 00:45:00 - src.analizador_agresion - INFO - Detectadas 0 instancias de agresión verbal
+2025-12-03 00:45:00 - root - INFO -   Detectadas 0 instancias de agresión
+2025-12-03 00:45:00 - root - INFO - Paso 3/6: Analizando estrés vocal...
+2025-12-03 00:45:00 - src.detector_voz - WARNING - librosa no disponible, usando análisis simplificado
+2025-12-03 00:45:00 - src.detector_voz - WARNING - Análisis acústico no disponible sin librosa
+2025-12-03 00:45:00 - root - INFO -   Detectados 0 momentos de voz elevada
+2025-12-03 00:45:00 - root - INFO - Paso 4/6: Analizando agresión dirigida a víctimas...
+2025-12-03 00:45:00 - src.detector_victimas - INFO - Detectadas 1 instancias de agresión dirigida a víctimas
+2025-12-03 00:45:00 - root - INFO -   Detectadas 1 instancias de agresión dirigida
+2025-12-03 00:45:00 - root - INFO - Paso 5/6: Realizando análisis forense según legislación danesa...
+2025-12-03 00:45:00 - root - INFO -   Análisis forense completado: Lav risiko
+2025-12-03 00:45:00 - root - INFO - Paso 6/6: Generando informe único consolidado...
+2025-12-03 00:45:00 - src.generador_informe_unico - INFO - Informe único guardado: C:\Users\hanns\Proyectos\whisper-pro\transcripciones\Audio_de_Claudia_INFORME_UNICO.txt
+2025-12-03 00:45:00 - root - INFO - ✓ Informe único guardado: Audio_de_Claudia_INFORME_UNICO.txt
+2025-12-03 00:45:00 - root - INFO - ============================================================
+2025-12-03 00:45:00 - root - INFO - Proceso de transcripción finalizado
+2025-12-03 00:45:00 - root - INFO - Total de archivos: 9
+2025-12-03 00:45:00 - root - INFO - Exitosos: 9
+2025-12-03 00:45:00 - root - INFO - Fallidos: 0
+2025-12-03 00:45:00 - root - INFO - Tiempo total: 554.98 segundos (9.25 minutos)
+2025-12-03 00:45:00 - root - INFO - Tiempo promedio por archivo: 61.66 segundos
+2025-12-03 00:45:00 - root - INFO - ============================================================

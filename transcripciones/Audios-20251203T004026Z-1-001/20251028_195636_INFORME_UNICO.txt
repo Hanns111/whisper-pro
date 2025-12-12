@@ -1,0 +1,104 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20251028_195636.m4a
+Duración: 59s (59.00 segundos)
+Fecha del análisis: 2025-12-03 01:34:44
+Identificador único: ID_1764743684_20251028_195636
+Idioma detectado: da
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] Vi har besvudet primært i København- og Runde i forhandlingene der er med corona.
+[00:05] Jeg ved, der er kæmpe flere på hvert fallet.
+[00:09] Men vi er ikke tilfresk, vi kan at vi opnår.
+[00:14] Det kan vi jo ikke i en rolig sige, og jeg synes, at selvfølgelig også, at vi skal have det samme servicelig måde.
+[00:20] Men vi må også indrumme, som vi også vil snakke om her.
+[00:24] Vi har været skat ind i ting fra vores lokale borger.
+[00:27] Vi har ikke i kæmpe store, hvor vi har 3,5x her.
+[00:30] Det er også en skedvudet af Danmark, hvor vi får, vi bliver nødt til at skale at lave i en rødning og ræbner reform.
+[00:37] De verktører, vi bruger i dag, de verger, og se, hvor vi har rekordet.
+[00:42] Vi skal sikre nogle ordentlig kærmigeligt før til vores borger.
+[00:47] Det må være det, vi skal gå af, og det er en helt løgst, vi skal til.
+[00:52] På det er et helt andet Danmark, vi står på med i dag, ind fra tadevvores siden.
+[00:57] Og Danmark, hvor Danmark ser ude i.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+No se detectaron agresiones dirigidas a víctimas específicas.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20251028_195636.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 59s en el idioma da.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: No se detectaron agresiones dirigidas a víctimas específicas.
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:34:44
+================================================================================

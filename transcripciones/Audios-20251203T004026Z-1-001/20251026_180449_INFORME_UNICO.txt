@@ -1,0 +1,116 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20251026_180449.m4a
+Duración: 3m 54s (234.68 segundos)
+Fecha del análisis: 2025-12-03 01:31:14
+Identificador único: ID_1764743474_20251026_180449
+Idioma detectado: nl
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] Je kan niet.</o</o</o </b></</o </p Venez </o </o </g雳 ingen </o </
+[00:13] JeCO </o </布 Typ </o </ ug!!!
+[00:15] Kamerij areシルク excluded of harvesting empty,
+[00:38] Hier zijnunintelligible کی van JR beef net niet.
+[00:42] Trilje sixth en fiets-sels.
+[00:56] Je laat je bid.
+[01:00] Waar is je manier?
+[01:02] Nee.
+[01:04] Dan ligt jaren cuatro meen.
+[01:08] faisuit banana afięcy waarderen morning.
+[01:13] mogenismus met degroei amèneuwen bij φigele Onzeë notelf возможность meer werk.
+[01:23] En op het 10 deel is het een zin...
+[01:32] 크�ot die Baien is geenStation.
+[01:53] En hier zit er al van.
+[02:07] Ja.
+[02:17] Je van met él is't錢.
+[02:22] Ja het was goed dat vagina wat nimeren wasонаan
+[02:30] Ik had het bij het goede玉
+[02:33] Ja natuurlijk
+[02:36] III
+[02:41] Oke
+[02:46] Ja
+[02:52] De hathaak aan.
+[03:22] MUZIEK.
+[03:52] MUZIEK.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+No se detectaron agresiones dirigidas a víctimas específicas.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20251026_180449.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 3m 54s en el idioma nl.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: No se detectaron agresiones dirigidas a víctimas específicas.
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:31:14
+================================================================================

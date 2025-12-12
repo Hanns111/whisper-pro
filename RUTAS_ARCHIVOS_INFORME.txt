@@ -1,0 +1,94 @@
+═══════════════════════════════════════════════════════════════════════════════
+RUTAS EXACTAS DE ARCHIVOS DEL INFORME FORENSE
+═══════════════════════════════════════════════════════════════════════════════
+
+ARCHIVOS GENERADOS (Informe Forense para Inmigración):
+───────────────────────────────────────────────────────────────────────────────
+
+1. INFORME FORENSE COMPLETO:
+   C:\Users\hanns\Proyectos\whisper-pro\informe_forense_inmigracion.md
+   
+   Descripción: Informe técnico completo de 20+ páginas con análisis detallado
+   de todos los patrones y correlaciones entre caso Rikke y caso Claudia.
+
+2. TABLA DE CORRELACIONES (CSV/Excel):
+   C:\Users\hanns\Proyectos\whisper-pro\correlaciones_master.csv
+   
+   Descripción: Tabla en formato CSV con todas las correlaciones documentadas.
+   Puede abrirse en Excel para filtrado y análisis.
+
+3. RESUMEN EJECUTIVO:
+   C:\Users\hanns\Proyectos\whisper-pro\resumen_ejecutivo_inmigracion.md
+   
+   Descripción: Resumen ejecutivo de 2 páginas con hallazgos críticos y
+   conclusiones principales.
+
+───────────────────────────────────────────────────────────────────────────────
+
+ARCHIVOS DE DATOS UTILIZADOS:
+───────────────────────────────────────────────────────────────────────────────
+
+4. ANÁLISIS DE PATRONES (JSON):
+   C:\Users\hanns\Proyectos\whisper-pro\patrones_lars.json
+   
+   Descripción: Datos estructurados del análisis previo con 152 patrones
+   identificados en 25 archivos.
+
+5. TRANSCRIPCIONES DE AUDIO (Carpeta 1):
+   C:\Users\hanns\Proyectos\whisper-pro\transcripciones\Audios de Lars -20251203T004029Z-1-001\
+   
+   Descripción: Transcripciones de audios con Claudia y sus hijos.
+
+6. TRANSCRIPCIONES DE AUDIO (Carpeta 2):
+   C:\Users\hanns\Proyectos\whisper-pro\transcripciones\Audios-20251203T004026Z-1-001\
+   
+   Descripción: Transcripciones adicionales de audios con Claudia.
+
+7. PDFs DEL CASO LEGAL CON RIKKE:
+   C:\Users\hanns\Downloads\AUDIOS\Procesos Lars (ex esposa)-20251203T004023Z-1-001\Procesos Lars (ex esposa)\
+   
+   Descripción: Documentos legales del caso histórico con Rikke Larsen.
+   Incluye:
+   - bitácora de Lars.pdf
+   - Processkrift.PDF.pdf
+   - familieretshuset sag børn rikke.pdf
+   - Børnesamtale Kristian Sørensen.pdf
+   - Børnesamtale Frederik Sørensen.pdf
+   - Sagsøgtes påstandsdokument.PDF.pdf
+   - Y otros documentos legales
+
+───────────────────────────────────────────────────────────────────────────────
+
+ARCHIVOS DE DOCUMENTACIÓN:
+───────────────────────────────────────────────────────────────────────────────
+
+8. PROMPT PARA CURSOR IDE:
+   C:\Users\hanns\Proyectos\whisper-pro\COPIAR_ESTE_PROMPT_EN_CURSOR.txt
+   
+   Descripción: Prompt optimizado para generar informes adicionales.
+
+9. DOCUMENTACIÓN DEL CASO:
+   C:\Users\hanns\Proyectos\whisper-pro\README_CASO_CLAUDIA.md
+   
+   Descripción: Documentación completa del caso de Claudia.
+
+10. INSTRUCCIONES DE USO:
+    C:\Users\hanns\Proyectos\whisper-pro\INSTRUCCIONES_USO.md
+    
+    Descripción: Guía paso a paso para usar los archivos.
+
+───────────────────────────────────────────────────────────────────────────────
+
+NOTA IMPORTANTE:
+───────────────────────────────────────────────────────────────────────────────
+
+Todos los archivos del informe están guardados en:
+C:\Users\hanns\Proyectos\whisper-pro\
+
+Los archivos están listos para ser utilizados en procesos de inmigración y
+protección familiar.
+
+═══════════════════════════════════════════════════════════════════════════════
+
+
+

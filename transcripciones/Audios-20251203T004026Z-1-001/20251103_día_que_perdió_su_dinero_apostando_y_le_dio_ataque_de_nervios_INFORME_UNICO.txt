@@ -1,0 +1,240 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20251103_día que perdió su dinero apostando y le dio ataque de nervios.m4a
+Duración: 6m 59s (419.72 segundos)
+Fecha del análisis: 2025-12-03 01:38:42
+Identificador único: ID_1764743922_20251103_día que perdió su dinero apostando y le dio ataque de nervios
+Idioma detectado: nn
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] Der
+[00:15] Komm...
+[00:16] Kommando..
+[00:17] Kn거horn
+[00:19] Könosligstire
+[00:20] BAR
+[00:24] Naejonround
+[00:25] Ore deрос
+[00:26] Gehtie
+[00:27] Naeoni
+[00:28] Hov
+[00:30] 6,500 USD
+[00:33] 6
+[00:34] 6
+[00:35] 7
+[00:36] 6
+[00:37] 6
+[00:38] 8
+[00:39] 8
+[00:41] 8
+[00:44] 8
+[00:46] 8
+[00:48] 8
+[00:50] 8
+[00:52] 8
+[00:54] 8
+[00:55] 8
+[00:57] 8
+[00:59] 8
+[01:01] 8
+[01:02] 8
+[01:03] 8
+[01:06] 8
+[01:14] 8
+[01:15] 8
+[01:16] 8
+[01:21] 8
+[01:22] 8
+[01:24] 8
+[01:27] 8
+[01:28] Tieltém replacement
+[01:31] Baya quim
+[01:33] Eu curlio
+[01:34] Galio
+[01:36] Malko
+[01:38] Bobba
+[01:39] Gulco
+[01:39] Galio
+[01:40] ektor
+[01:41] el
+[01:42] Das
+[01:43] Bu course
+[01:45] Brst
+[01:46] Kor
+[01:49] Least
+[01:53] Fran
+[01:55] ...today, no all the way over here.
+[01:58] I think so.
+[01:59] ...today, no all the way.
+[02:03] Ten minutes ago, 65,000 dollars.
+[02:08] Two months ago, I want 30,000 dollars.
+[02:15] We are talking.
+[02:17] I don't know.
+[02:20] We don't have to inform me that, come via.
+[02:23] I know.
+[02:31] But maybe there are another ways more safe.
+[02:37] Not with this.
+[02:40] With trading.
+[02:42] No, no, no, no.
+[02:43] I don't know what happened.
+[02:44] No, no, no, no.
+[02:45] If they are, I really...
+[02:47] ...is coming.
+[02:48] We don't know.
+[02:49] No, you're stout, why again come here?
+[02:51] No, last...
+[02:52] No, I don't need that, come via.
+[02:57] Now we have the same methods again.
+[03:07] There is only one way, come via.
+[03:11] ...
+[03:17] But there is something over my life.
+[03:20] I'm always unlucky.
+[03:23] It's not a power like you, honey.
+[03:26] You're not unlucky.
+[03:31] You believe in your God and I believe in that.
+[03:36] Okay, but it's...
+[03:41] ...
+[03:43] ...making shit.
+[03:49] And I was...
+[03:50] ...today I was thinking...
+[03:52] ...that we have so much money now.
+[03:54] This cannot happen.
+[03:57] And I was thinking, do I need to put some money away?
+[04:02] So if this was happening...
+[04:05] ...now it's not necessary, I can do that tomorrow or something.
+[04:41] There's nothing to do with this happening.
+[04:48] There's nothing to do.
+[04:53] There's only one way.
+[04:58] There's only one way.
+[05:01] The only one way is beginning to sell...
+[05:05] ...since you're seeing it.
+[05:11] ...
+[05:16] Yes.
+[05:18] It is coming.
+[05:22] There is no other way.
+[05:26] Amor, I'm not having any if.
+[05:30] And then again.
+[05:32] And again and again and again.
+[05:36] This is not a job.
+[05:39] It's not...
+[05:40] Now you start.
+[05:42] No.
+[05:43] Now you start again.
+[05:44] No, I only want to help.
+[05:46] Yes, but that's not helped, Claudia.
+[05:50] That's saying, what I do is wrong.
+[05:52] And you know better.
+[05:54] I am worried for you.
+[05:56] I know you are worried.
+[05:58] I am worried too, Claudia.
+[06:00] But...
+[06:02] ...well, this will not keep us in another.
+[06:04] I will not keep us in another direction.
+[06:07] But this is some fucking shit.
+[06:09] What's happening happening?
+[06:11] Claudia.
+[06:13] I know it's very very very terrible.
+[06:20] You can worry for your her.
+[06:35] Okay.
+[06:44] We had 70,000 dollars.
+[06:49] Claudia.
+[06:51] 70,000 dollars is a lot of money.
+[06:55] It's crazy a lot of money.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+
+AGRESIÓN HACIA CLAUDIA (4 detecciones):
+--------------------------------------------------------------------------------
+
+  Tipo: MENCIÓN (4 instancias)
+    [05:46 - 05:49] Severidad: BAJA
+      Yes, but that's not helped, Claudia.
+
+    [05:58 - 06:00] Severidad: BAJA
+      I am worried too, Claudia.
+
+    [06:11 - 06:13] Severidad: BAJA
+      Claudia.
+
+    [06:49 - 06:51] Severidad: BAJA
+      Claudia.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20251103_día que perdió su dinero apostando y le dio ataque de nervios.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 6m 59s en el idioma nn.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: Se detectaron 4 instancias de agresión dirigida específicamente hacia víctimas identificadas (Claudia, Juan Diego, José Carlos).
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. Se identificaron 4 agresiones dirigidas a víctimas específicas.
+2. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:38:42
+================================================================================

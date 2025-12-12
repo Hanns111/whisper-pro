@@ -1,0 +1,29 @@
+# Whisper Pro - Dependencias
+# ===========================
+
+# Transcripción de audio
+openai-whisper>=20231117
+
+# PyTorch - Instalar según tu GPU
+# Para CPU:
+# pip install torch torchvision torchaudio
+# Para CUDA 11.8:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+# Para CUDA 12.1:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+# Ver instrucciones en README.md
+torch>=2.0.0
+
+# Procesamiento de audio/video
+ffmpeg-python>=0.2.0
+
+# Utilidades numéricas
+numpy>=1.24.0
+
+# Opcional: Faster Whisper (más rápido pero requiere instalación adicional)
+# faster-whisper>=0.9.0
+
+# Análisis de PDFs forense
+PyMuPDF>=1.23.0
+deep-translator>=1.11.4
+

@@ -1,0 +1,167 @@
+================================================================================
+INFORME ÚNICO DE ANÁLISIS FORENSE
+================================================================================
+
+INFORMACIÓN DEL ARCHIVO
+--------------------------------------------------------------------------------
+Nombre del archivo: 20251128_pido que me lleve al doctor porque me siento mal taquicardia.m4a
+Duración: 8m 14s (494.84 segundos)
+Fecha del análisis: 2025-12-03 01:46:47
+Identificador único: ID_1764744407_20251128_pido que me lleve al doctor porque me siento mal taquicardia
+Idioma detectado: en
+
+================================================================================
+
+B. TRANSCRIPCIÓN CON TIMELINE
+================================================================================
+
+[00:00] And I am worried for that because I feel that my...
+[00:14] I'm going to do it again.
+[00:24] I have to go to the bank.
+[00:27] To the bank today?
+[00:28] No.
+[00:29] Why?
+[00:30] To sign.
+[00:31] Ah.
+[00:35] I want my way from...
+[00:36] I want to get...
+[00:44] Oh, what's your thing?
+[00:52] Did you go through the little...
+[00:54] The tools?
+[00:55] Yeah.
+[00:59] Yes.
+[01:17] I am worried for my...
+[01:19] The hand is...
+[01:20] Because I have...
+[01:22] I was feeling...
+[01:24] A pressure.
+[01:25] A palpid.
+[01:26] I don't know the words in English.
+[01:28] palpitations when you feel your hair boom boom boom boom boom boom boom boom boom boom boom
+[01:34] and now for example with the oxymeter my my is can you see over a hundred and
+[01:44] I don't understand why I feel that so I would like maybe go to to your
+[02:05] I don't know if you can we can go to your doctor do you remember that we went
+[02:14] to the end of the next time
+[02:20] Teos.
+[02:22] Mhmm, but kind of disgust.
+[02:23] Shm.
+[02:24] Mhm.
+[02:25] Yeah.
+[02:37] Mm
+[02:38] Ghm.
+[02:39] Mhm.
+[02:50] Can I go with you or do you prefer going along to the bank?
+[02:57] I would like to go.
+[03:01] To the same.
+[03:02] Not only to sign, to change the...
+[03:07] and do something because I wasn't the householder that day.
+[03:12] I want to smell air fresh.
+[03:21] But do you have another plan maybe after that go for two jumps?
+[03:32] Because we have food here.
+[03:36] I cook the...
+[03:39] we have food for yesterday.
+[03:41] And today's a go.
+[03:44] The pork that I cook on the oven.
+[03:47] So we have...
+[03:54] we have food for the dinner.
+[04:05] Maybe young have in his house batteries for the machine for the blood pressure.
+[04:15] Yeah, but it's not his responsibility.
+[04:20] Oh yeah.
+[04:21] We can...
+[04:22] why?
+[04:29] How was your client?
+[04:32] You do went only to go for...
+[04:35] take the...
+[04:37] your tools or a go up to?
+[04:41] Work a lot please.
+[04:43] Oh.
+[04:45] This is good.
+[05:43] Oh.
+[06:14] What did you do that we have calories?
+[06:23] I saw the eye opened this, but this is too small as lean.
+[06:32] Okay, we have...
+[06:35] I love the place right now.
+[06:37] Mmm.
+[07:05] Mmm.
+[07:36] Mmm.
+[07:42] Yeah.
+[07:44] Let me turn it off.
+[07:47] Yeah? Okay.
+[07:48] I'm going to flip my...
+[07:50] swirl it.
+[08:05] Okay.
+[08:12] Mmm.
+
+================================================================================
+
+C. ANÁLISIS DE AGRESIÓN (ES)
+================================================================================
+
+No se detectaron instancias de agresión verbal.
+
+
+================================================================================
+
+D. ANÁLISIS DE VOZ / ESTRÉS (ES)
+================================================================================
+
+No se detectaron momentos de voz elevada o estrés acústico.
+
+
+================================================================================
+
+E. ANÁLISIS DE VÍCTIMAS (ES)
+================================================================================
+
+No se detectaron agresiones dirigidas a víctimas específicas.
+
+
+================================================================================
+
+F. ANÁLISIS FORENSE LEGAL DANÉS (§243)
+================================================================================
+
+CLASIFICACIÓN BAJO STRAFFELOVEN §243:
+--------------------------------------------------------------------------------
+Ingen indikation på psykisk vold jf. §243.
+
+NIVEL DE RIESGO: LAV
+--------------------------------------------------------------------------------
+Riesgo bajo: Pocas indicaciones de violencia psicológica.
+
+
+================================================================================
+
+G. INFORME UNIFICADO (ES)
+================================================================================
+
+RESUMEN NARRATIVO COMPLETO:
+--------------------------------------------------------------------------------
+
+El análisis del archivo '20251128_pido que me lleve al doctor porque me siento mal taquicardia.m4a' revela lo siguiente:
+
+TRANSCRIPCIÓN: Se transcribió un audio de 8m 14s en el idioma en.
+
+ANÁLISIS DE AGRESIÓN: No se detectaron instancias de agresión verbal en el audio.
+
+ANÁLISIS DE VOZ: No se detectaron momentos significativos de voz elevada o estrés acústico.
+
+ANÁLISIS DE VÍCTIMAS: No se detectaron agresiones dirigidas a víctimas específicas.
+
+ANÁLISIS FORENSE LEGAL DANÉS: Según la evaluación bajo Straffeloven §243, el nivel de riesgo es LAV. Ingen indikation på psykisk vold jf. §243.
+
+
+EXPLICACIÓN CLARA Y ENTENDIBLE:
+--------------------------------------------------------------------------------
+
+Este informe consolida todos los análisis realizados sobre el audio. La transcripción proporciona el contenido textual completo con referencias temporales precisas. El análisis de agresión identifica patrones verbales que pueden constituir violencia psicológica. El análisis de voz detecta cambios acústicos que pueden indicar estrés o agresividad. El análisis de víctimas identifica agresiones dirigidas específicamente a personas identificadas. Finalmente, el análisis forense legal danés evalúa el contenido según los criterios de Straffeloven §243 sobre violencia psicológica.
+
+
+CONCLUSIONES:
+--------------------------------------------------------------------------------
+
+1. El nivel de riesgo es BAJO, con pocas indicaciones de violencia psicológica.
+
+================================================================================
+Fin del informe - Generado el 2025-12-03 01:46:47
+================================================================================
